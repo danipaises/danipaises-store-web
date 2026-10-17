@@ -1,0 +1,734 @@
+[
+  {
+    "id": "fundacao",
+    "year": 1889,
+    "title": "Cartas que iniciaram uma história",
+    "category": "Empresa",
+    "description": "Fusajiro Yamauchi começa a produzir e vender cartas Hanafuda em Kyoto.",
+    "sourceIds": [
+      "h-corporate"
+    ],
+    "content": [
+      "A trajetória da Nintendo começa com um objeto físico de entretenimento: cartas japonesas Hanafuda. O fundador, Fusajiro Yamauchi, trabalhava em Shimogyo-ku, Kyoto. A data se refere ao início dessa atividade; a estrutura societária mudaria ao longo das décadas.",
+      "O museu desta enciclopédia parte das cartas porque elas conectam períodos muito diferentes da empresa: impressão, fabricação de brinquedos e, mais tarde, interação eletrônica. Não atribuímos uma tradução definitiva ao nome Nintendo: explicações populares sobre sua etimologia exigem cautela."
+    ]
+  },
+  {
+    "id": "cartas-ocidentais",
+    "year": 1902,
+    "title": "Baralhos ocidentais",
+    "category": "Empresa",
+    "description": "A produção passa a incluir cartas de estilo ocidental no Japão.",
+    "sourceIds": [
+      "h-corporate"
+    ]
+  },
+  {
+    "id": "marufuku",
+    "year": 1947,
+    "title": "Constituição da Marufuku",
+    "category": "Empresa",
+    "description": "É estabelecida a Marufuku Co., Ltd., antecessora societária da Nintendo atual.",
+    "sourceIds": [
+      "h-corporate"
+    ]
+  },
+  {
+    "id": "hiroshi",
+    "year": 1949,
+    "title": "Hiroshi Yamauchi assume a presidência",
+    "category": "Empresa",
+    "description": "A gestão de Hiroshi Yamauchi atravessaria a transformação das cartas aos videogames.",
+    "sourceIds": [
+      "h-europe",
+      "h-yamauchi"
+    ],
+    "content": [
+      "Hiroshi Yamauchi assume a presidência em 1949 e conduz a companhia por décadas de transformação. Sua gestão abrange a diversificação em brinquedos e entretenimento eletrônico, a entrada nos arcades e o estabelecimento dos consoles de cartuchos.",
+      "Uma biografia de executivo ajuda a entender decisões, mas não substitui o trabalho coletivo de engenheiros, artistas, programadores e distribuidores. A história da Nintendo reúne tanto liderança empresarial quanto criação de produtos."
+    ]
+  },
+  {
+    "id": "nome-playing-card",
+    "year": 1951,
+    "title": "Nintendo Playing Card",
+    "category": "Empresa",
+    "description": "A companhia adota o nome Nintendo Playing Card Co., Ltd.",
+    "sourceIds": [
+      "h-corporate"
+    ]
+  },
+  {
+    "id": "plastico",
+    "year": 1953,
+    "title": "Cartas de plástico",
+    "category": "Inovação",
+    "description": "A Nintendo desenvolve a fabricação em massa de cartas plásticas no Japão.",
+    "sourceIds": [
+      "h-corporate"
+    ]
+  },
+  {
+    "id": "disney",
+    "year": 1959,
+    "title": "Cartas com personagens Disney",
+    "category": "Empresa",
+    "description": "A empresa começa a vender baralhos licenciados com personagens Disney.",
+    "sourceIds": [
+      "h-corporate"
+    ]
+  },
+  {
+    "id": "bolsa",
+    "year": 1962,
+    "title": "Entrada na bolsa",
+    "category": "Empresa",
+    "description": "A Nintendo lista ações nas bolsas de Osaka e Kyoto.",
+    "sourceIds": [
+      "h-corporate"
+    ]
+  },
+  {
+    "id": "nome-atual",
+    "year": 1963,
+    "title": "Nintendo Co., Ltd.",
+    "category": "Empresa",
+    "description": "O nome deixa de se restringir às cartas, acompanhando a diversificação.",
+    "sourceIds": [
+      "h-corporate"
+    ]
+  },
+  {
+    "id": "ultra-hand",
+    "year": 1966,
+    "title": "Ultra Hand e a era dos brinquedos",
+    "category": "Inovação",
+    "description": "O braço extensível Ultra Hand representa a inventividade de Gunpei Yokoi.",
+    "sourceIds": [
+      "h-ultra"
+    ],
+    "content": [
+      "Muito antes dos consoles, a Nintendo experimentou maneiras de ampliar seu negócio de entretenimento. O Ultra Hand, um braço mecânico extensível, tornou-se um exemplo conhecido desse período e do trabalho de Gunpei Yokoi.",
+      "Há numerosas histórias sobre negócios paralelos da empresa. Este acervo evita transformar relatos repetidos, sem documentação suficiente, em uma lista definitiva de empreendimentos. O recorte confirmado enfatiza cartas, brinquedos e produtos eletrônicos."
+    ]
+  },
+  {
+    "id": "laser-clay",
+    "year": 1973,
+    "title": "Laser Clay Shooting System",
+    "category": "Inovação",
+    "description": "Um sistema de tiro para instalações de lazer amplia a presença da Nintendo no entretenimento eletrônico.",
+    "sourceIds": [
+      "h-corporate"
+    ]
+  },
+  {
+    "id": "color-tv",
+    "year": 1977,
+    "title": "Primeiros videogames domésticos",
+    "category": "Console",
+    "description": "TV Game 6 e TV Game 15 chegam ao Japão como sistemas dedicados.",
+    "sourceIds": [
+      "h-corporate"
+    ],
+    "consoleId": "color-tv-game"
+  },
+  {
+    "id": "arcades",
+    "year": 1978,
+    "title": "Entrada nos arcades de vídeo",
+    "category": "Empresa",
+    "description": "A Nintendo passa a desenvolver e vender máquinas de videogame para fliperamas.",
+    "sourceIds": [
+      "h-corporate"
+    ]
+  },
+  {
+    "id": "game-watch",
+    "year": 1980,
+    "title": "Game & Watch",
+    "category": "Console",
+    "description": "Jogos portáteis com tela LCD combinam entretenimento e relógio.",
+    "sourceIds": [
+      "h-europe"
+    ],
+    "consoleId": "game-and-watch",
+    "content": [
+      "Os Game & Watch combinam um jogo eletrônico dedicado com funções de relógio em um aparelho portátil. A tela LCD utiliza figuras predeterminadas, uma abordagem diferente dos sprites desenhados por consoles de cartuchos.",
+      "A família recebe formatos variados. Por isso, Game & Watch deve ser estudado como uma linha de aparelhos e jogos, não como um console único capaz de executar todo o catálogo. Sua proposta mostra como o contexto de uso pode orientar o design."
+    ]
+  },
+  {
+    "id": "america",
+    "year": 1980,
+    "title": "Nintendo of America",
+    "category": "Empresa",
+    "description": "A subsidiária norte-americana é estabelecida em Nova York.",
+    "sourceIds": [
+      "h-corporate"
+    ]
+  },
+  {
+    "id": "donkey-kong",
+    "year": 1981,
+    "title": "Donkey Kong e Jumpman",
+    "category": "Jogo",
+    "description": "O arcade Donkey Kong apresenta o personagem que passaria a ser conhecido como Mario.",
+    "sourceIds": [
+      "h-dk-history"
+    ],
+    "content": [
+      "Donkey Kong liga a história de duas franquias. O gorila protagoniza a máquina de arcade, enquanto o personagem controlado pelo jogador, então chamado Jumpman, é o ponto de partida de Mario.",
+      "As aventuras de arcade não têm a mesma estrutura dos futuros Donkey Kong Country. A enciclopédia preserva essa diferença de contexto, em vez de tratar todos os jogos como sequências equivalentes."
+    ],
+    "franchise": "donkey-kong"
+  },
+  {
+    "id": "famicom",
+    "year": 1983,
+    "title": "Famicom no Japão",
+    "category": "Console",
+    "description": "O Family Computer inaugura a família que seria conhecida internacionalmente como NES.",
+    "sourceIds": [
+      "h-nes",
+      "h-corporate"
+    ],
+    "consoleId": "nes",
+    "content": [
+      "O Family Computer, ou Famicom, chega ao Japão em 1983. Sua relação com o NES é histórica e técnica, mas as apresentações regionais não são idênticas: nome, aparência, conexão de controles e calendário de distribuição precisam ser registrados conforme a edição.",
+      "A comercialização de jogos separados do aparelho possibilita ampliar o catálogo ao longo do tempo. Na enciclopédia, a plataforma relaciona lançamentos, controles e acessórios; compatibilidade entre produtos de regiões diferentes exige verificação específica."
+    ]
+  },
+  {
+    "id": "luigi",
+    "year": 1983,
+    "title": "Mario Bros. apresenta Luigi",
+    "category": "Jogo",
+    "description": "Mario ganha um irmão e parceiro no arcade Mario Bros.",
+    "sourceIds": [
+      "h-luigi-debut"
+    ],
+    "franchise": "mario"
+  },
+  {
+    "id": "super-mario",
+    "year": 1985,
+    "title": "Super Mario Bros.",
+    "category": "Jogo",
+    "description": "A aventura de plataforma para Famicom estabelece o Reino Cogumelo como cenário central.",
+    "sourceIds": [
+      "h-mario40"
+    ],
+    "franchise": "mario",
+    "content": [
+      "Super Mario Bros. é lançado para Famicom em 1985. O jogo faz do deslocamento lateral, dos saltos e das transformações os elementos centrais de uma viagem por diferentes fases.",
+      "Essa data marca a série Super Mario, mas não o nascimento do personagem: Mario já havia aparecido em Donkey Kong e Mario Bros. A diferença evita misturar o aniversário de um personagem com o aniversário de uma linha de jogos."
+    ]
+  },
+  {
+    "id": "nes-america",
+    "year": 1985,
+    "title": "NES chega à América do Norte",
+    "category": "Console",
+    "description": "A expansão internacional adapta apresentação, marca e distribuição do Famicom.",
+    "sourceIds": [
+      "h-europe",
+      "h-nes"
+    ],
+    "consoleId": "nes"
+  },
+  {
+    "id": "zelda",
+    "year": 1986,
+    "title": "A primeira lenda de Hyrule",
+    "category": "Jogo",
+    "description": "The Legend of Zelda estreia no Famicom Disk System em 21 de fevereiro, no Japão.",
+    "sourceIds": [
+      "h-zelda-history"
+    ],
+    "consoleId": "famicom-disk-system",
+    "franchise": "zelda",
+    "content": [
+      "A estreia japonesa de The Legend of Zelda ocorre no Famicom Disk System em 21 de fevereiro de 1986. Link busca os fragmentos da Triforce da Sabedoria e enfrenta Ganon para resgatar Zelda.",
+      "O histórico oficial de lançamentos apresenta a edição de disquete antes da versão internacional em cartucho. A cronologia narrativa do mundo de Hyrule é uma questão separada: um jogo publicado depois pode retratar uma época anterior."
+    ]
+  },
+  {
+    "id": "metroid",
+    "year": 1986,
+    "title": "Metroid: exploração interligada",
+    "category": "Jogo",
+    "description": "Samus Aran inicia sua saga no Famicom Disk System japonês.",
+    "sourceIds": [
+      "h-metroid-archive"
+    ],
+    "franchise": "metroid"
+  },
+  {
+    "id": "game-boy",
+    "year": 1989,
+    "title": "Game Boy",
+    "category": "Console",
+    "description": "O portátil de cartuchos intercambiáveis leva o catálogo Nintendo a novas situações de uso.",
+    "sourceIds": [
+      "h-game-boy"
+    ],
+    "consoleId": "game-boy",
+    "content": [
+      "O Game Boy chega em 1989 e permite trocar jogos em cartuchos, diferentemente dos aparelhos dedicados Game & Watch. A portabilidade muda onde e quando uma aventura pode ser jogada.",
+      "A família Game Boy incluiria revisões de tamanho e tela, seguidas pelo Game Boy Color e pelo Game Boy Advance. Agrupar a família ajuda a navegação, mas não significa que todos os seus jogos funcionem em todos os modelos."
+    ]
+  },
+  {
+    "id": "super-famicom",
+    "year": 1990,
+    "title": "Super Famicom",
+    "category": "Console",
+    "description": "A geração de 16 bits da Nintendo começa no Japão; o Super NES chega depois a outras regiões.",
+    "sourceIds": [
+      "h-snes"
+    ],
+    "consoleId": "snes",
+    "content": [
+      "O Super Famicom estreia no Japão em 1990. A expansão internacional usa a marca Super Nintendo Entertainment System e acontece em calendários diferentes, motivo pelo qual o ano de uma edição europeia não deve ser aplicado ao lançamento japonês.",
+      "O catálogo inclui novos títulos e novas formas de apresentar séries existentes. Super Mario World, F-Zero e outros jogos exploram a geração de 16 bits em propostas diferentes; não existe uma única medida que resuma toda a evolução técnica."
+    ]
+  },
+  {
+    "id": "fire-emblem",
+    "year": 1990,
+    "title": "Fire Emblem",
+    "category": "Jogo",
+    "description": "Shadow Dragon & the Blade of Light estreia no Japão com batalhas táticas e personagens persistentes.",
+    "sourceIds": [
+      "h-fireemblem"
+    ],
+    "franchise": "fire-emblem"
+  },
+  {
+    "id": "kirby",
+    "year": 1992,
+    "title": "Kirby’s Dream Land",
+    "category": "Jogo",
+    "description": "Kirby estreia no Game Boy; a habilidade de copiar poderes seria introduzida no jogo seguinte.",
+    "sourceIds": [
+      "h-kirby",
+      "h-kirby-about"
+    ],
+    "franchise": "kirby"
+  },
+  {
+    "id": "starfox",
+    "year": 1993,
+    "title": "Star Fox e os polígonos",
+    "category": "Inovação",
+    "description": "O chip Super FX ajuda a trazer gráficos poligonais ao Super Nintendo.",
+    "sourceIds": [
+      "h-starfox"
+    ],
+    "consoleId": "snes",
+    "franchise": "star-fox",
+    "content": [
+      "Star Fox utiliza o chip Super FX no cartucho para auxiliar a apresentação de cenas poligonais no Super Nintendo. O jogo demonstra que a capacidade de uma plataforma também pode ser ampliada por componentes incluídos no software físico.",
+      "A entrevista oficial documenta a colaboração entre profissionais da Nintendo e da Argonaut. Na Europa, o primeiro jogo foi conhecido como Starwing; nomes diferentes não devem gerar automaticamente dois jogos originais no catálogo."
+    ]
+  },
+  {
+    "id": "dkc",
+    "year": 1994,
+    "title": "Donkey Kong Country",
+    "category": "Jogo",
+    "description": "A aventura com Donkey Kong e Diddy Kong utiliza gráficos pré-renderizados no Super Nintendo.",
+    "sourceIds": [
+      "h-dkc"
+    ],
+    "franchise": "donkey-kong"
+  },
+  {
+    "id": "virtual-boy",
+    "year": 1995,
+    "title": "Virtual Boy: outra proposta de profundidade",
+    "category": "Console",
+    "description": "O sistema usa imagens estereoscópicas, em uma experiência distinta dos consoles de televisão.",
+    "sourceIds": [
+      "h-virtualboy"
+    ],
+    "content": [
+      "O Virtual Boy deve ser entendido como uma tentativa específica de produzir profundidade estereoscópica. Seu visor e seu suporte físico tornavam a experiência diferente tanto de um Game Boy quanto de um console tradicional.",
+      "O sistema teve uma trajetória comercial curta. A entrevista oficial com Shigeru Miyamoto apresenta reflexões sobre a proposta e os limites do produto; não cabe atribuir todas as decisões ou o resultado a uma única pessoa."
+    ],
+    "consoleId": "virtual-boy"
+  },
+  {
+    "id": "pokemon",
+    "year": 1996,
+    "title": "Pokémon Red e Green",
+    "category": "Jogo",
+    "description": "Os primeiros jogos Pokémon são lançados para Game Boy no Japão em fevereiro.",
+    "sourceIds": [
+      "h-pokemon-history"
+    ],
+    "franchise": "pokemon",
+    "content": [
+      "Red e Green chegam ao Game Boy no Japão em fevereiro de 1996. Trocar criaturas entre jogadores integra a proposta da franquia, que depois se expande para cartas, animação, filmes e muitos derivados.",
+      "As versões internacionais não seguem exatamente o mesmo calendário ou os mesmos nomes das primeiras edições japonesas. O catálogo trata região, versão e relançamento como dados separados e registra os papéis de Nintendo, Game Freak, Creatures e The Pokémon Company."
+    ]
+  },
+  {
+    "id": "n64",
+    "year": 1996,
+    "title": "Nintendo 64",
+    "category": "Console",
+    "description": "O console e Super Mario 64 marcam a transição da Nintendo para aventuras tridimensionais.",
+    "sourceIds": [
+      "h-nintendo-64",
+      "h-mario40"
+    ],
+    "consoleId": "nintendo-64",
+    "content": [
+      "O Nintendo 64 chega em 1996, com Super Mario 64 como um dos exemplos centrais de exploração em três dimensões. Mover o personagem em profundidade e controlar a câmera cria problemas de design diferentes dos encontrados em plataformas laterais.",
+      "O sistema conserva cartuchos como mídia de jogos. Seus controles e acessórios fazem parte da experiência histórica, mas as necessidades variam por título; uma entrada de console não deve prometer compatibilidade universal."
+    ]
+  },
+  {
+    "id": "ocarina",
+    "year": 1998,
+    "title": "Ocarina of Time",
+    "category": "Jogo",
+    "description": "A saga Zelda chega ao Nintendo 64 com exploração e combates em três dimensões.",
+    "sourceIds": [
+      "h-zelda-history"
+    ],
+    "franchise": "zelda"
+  },
+  {
+    "id": "pokemon-company",
+    "year": 2000,
+    "title": "The Pokémon Company",
+    "category": "Empresa",
+    "description": "Pokémon Center Co., Ltd. passa a se chamar The Pokémon Company e amplia a gestão da marca.",
+    "sourceIds": [
+      "h-pokemon-history"
+    ],
+    "franchise": "pokemon"
+  },
+  {
+    "id": "gba",
+    "year": 2001,
+    "title": "Game Boy Advance",
+    "category": "Console",
+    "description": "A linha Game Boy recebe uma nova geração de hardware e jogos.",
+    "sourceIds": [
+      "h-game-boy-advance"
+    ],
+    "consoleId": "game-boy-advance"
+  },
+  {
+    "id": "gamecube",
+    "year": 2001,
+    "title": "Nintendo GameCube",
+    "category": "Console",
+    "description": "A Nintendo adota discos ópticos proprietários em seu novo console doméstico.",
+    "sourceIds": [
+      "h-gamecube"
+    ],
+    "consoleId": "gamecube",
+    "content": [
+      "O GameCube estreia em 2001 e utiliza discos ópticos proprietários. O formato compacto do aparelho e o desenho de seu controle ajudam a distinguir a geração anterior ao Wii.",
+      "Luigi’s Mansion e outras aventuras ampliam o papel de personagens conhecidos. A biblioteca também inclui projetos de estúdios parceiros e terceiros: estar disponível no GameCube não torna automaticamente um jogo propriedade da Nintendo."
+    ]
+  },
+  {
+    "id": "animal-crossing",
+    "year": 2001,
+    "title": "Uma vida em Animal Crossing",
+    "category": "Jogo",
+    "description": "Dōbutsu no Mori estreia no Nintendo 64 japonês antes das versões internacionais da série.",
+    "sourceIds": [
+      "h-animal"
+    ],
+    "franchise": "animal-crossing"
+  },
+  {
+    "id": "iwata-presidente",
+    "year": 2002,
+    "title": "Satoru Iwata assume a presidência",
+    "category": "Empresa",
+    "description": "O desenvolvedor e executivo sucede Hiroshi Yamauchi na liderança da companhia.",
+    "sourceIds": [
+      "h-europe",
+      "h-iwata"
+    ]
+  },
+  {
+    "id": "ds",
+    "year": 2004,
+    "title": "Nintendo DS: duas telas",
+    "category": "Console",
+    "description": "A tela sensível ao toque acrescenta novas formas de interação ao catálogo portátil.",
+    "sourceIds": [
+      "h-nintendo-ds"
+    ],
+    "consoleId": "nintendo-ds",
+    "content": [
+      "O Nintendo DS estreia em 2004 com duas telas e uma tela de toque. Essa configuração permite organizar informações e ações em superfícies diferentes, acrescentando outras possibilidades à entrada tradicional por botões.",
+      "O DS Lite, o DSi e o DSi XL são modelos distintos da família. Aplicativos, câmeras e serviços de modelos posteriores não devem ser atribuídos ao primeiro aparelho sem indicação."
+    ]
+  },
+  {
+    "id": "wii",
+    "year": 2006,
+    "title": "Wii e os controles de movimento",
+    "category": "Console",
+    "description": "Wii Remote e Wii Sports tornam gestos uma parte central da experiência.",
+    "sourceIds": [
+      "h-wii",
+      "h-wiisports"
+    ],
+    "consoleId": "wii",
+    "franchise": "wii-sports",
+    "content": [
+      "O Wii chega em 2006 com uma proposta de interação baseada no Wii Remote. Wii Sports apresenta modalidades que relacionam gestos do jogador às ações na tela e usa personagens Mii.",
+      "A ideia de controle acessível convive com um catálogo amplo, incluindo jogos que usam botões, apontamento e acessórios. Nunchuk, Wii MotionPlus e controles clássicos têm funções e requisitos próprios; o nome da plataforma não basta para determinar como cada título é jogado."
+    ]
+  },
+  {
+    "id": "3ds",
+    "year": 2011,
+    "title": "Nintendo 3DS",
+    "category": "Console",
+    "description": "O sucessor do DS oferece imagem estereoscópica sem óculos em modelos compatíveis.",
+    "sourceIds": [
+      "h-nintendo-3ds"
+    ],
+    "consoleId": "nintendo-3ds",
+    "content": [
+      "O Nintendo 3DS estreia em 2011 e combina a herança de duas telas com imagem estereoscópica sem óculos em sua tela superior. A função pode ser ajustada ou desativada nos modelos compatíveis.",
+      "A família inclui também o Nintendo 2DS, cuja proposta não usa o efeito 3D. Modelos New possuem diferenças de hardware; requisitos específicos de jogos e aplicativos precisam ser mantidos no nível de cada lançamento."
+    ]
+  },
+  {
+    "id": "wii-u",
+    "year": 2012,
+    "title": "Wii U e o GamePad",
+    "category": "Console",
+    "description": "Uma tela no controle cria possibilidades de jogo assimétrico e de interação com duas telas.",
+    "sourceIds": [
+      "h-wii-u"
+    ],
+    "consoleId": "wii-u",
+    "content": [
+      "O Wii U estreia em 2012 com o GamePad, um controle com tela. O projeto permite apresentar informações ou perspectivas diferentes para quem segura o controle e para quem acompanha a televisão.",
+      "O Wii U é um console próprio, e não apenas um acessório do Wii. A existência de compatibilidade com jogos e controles anteriores não elimina diferenças de catálogo, funcionamento e requisitos entre as duas plataformas."
+    ]
+  },
+  {
+    "id": "dificuldades-wii-u",
+    "year": 2014,
+    "title": "Desafios do período Wii U",
+    "category": "Empresa",
+    "description": "O balanço do exercício registra prejuízo operacional e dificuldades de vendas do Wii U.",
+    "sourceIds": [
+      "h-fy2014"
+    ],
+    "content": [
+      "A história da Nintendo também inclui resultados abaixo das expectativas. Na apresentação de maio de 2014, a empresa reconhece os problemas de impulso comercial do Wii U e relata o resultado do exercício encerrado em março.",
+      "Os números de um período financeiro não equivalem a uma medida de qualidade de todos os jogos. Este acervo distingue desempenho comercial, recepção crítica e legado de design; valores e vendas só devem ser comparados com datas de corte equivalentes."
+    ]
+  },
+  {
+    "id": "splatoon",
+    "year": 2015,
+    "title": "Splatoon inaugura uma nova franquia",
+    "category": "Jogo",
+    "description": "As batalhas de tinta estreiam no Wii U com os Inklings.",
+    "sourceIds": [
+      "h-splatoon"
+    ],
+    "consoleId": "wii-u",
+    "franchise": "splatoon"
+  },
+  {
+    "id": "iwata-legado",
+    "year": 2015,
+    "title": "O legado de Satoru Iwata",
+    "category": "Empresa",
+    "description": "A morte de Iwata encerra um período marcado por DS, Wii e novas formas de comunicação.",
+    "sourceIds": [
+      "h-iwata"
+    ]
+  },
+  {
+    "id": "kimishima",
+    "year": 2015,
+    "title": "Tatsumi Kimishima assume a presidência",
+    "category": "Empresa",
+    "description": "A Nintendo anuncia a nova gestão em setembro, após a morte de Satoru Iwata.",
+    "sourceIds": [
+      "h-kimishima"
+    ]
+  },
+  {
+    "id": "miitomo",
+    "year": 2016,
+    "title": "Miitomo e os dispositivos móveis",
+    "category": "Inovação",
+    "description": "Miitomo é lançado como aplicativo para dispositivos inteligentes.",
+    "sourceIds": [
+      "h-corporate"
+    ]
+  },
+  {
+    "id": "switch",
+    "year": 2017,
+    "title": "Nintendo Switch",
+    "category": "Console",
+    "description": "O formato híbrido aproxima o uso na televisão e o uso portátil em um mesmo sistema.",
+    "sourceIds": [
+      "h-switch-compare"
+    ],
+    "consoleId": "switch",
+    "content": [
+      "O Nintendo Switch chega em 2017 com modos de televisão, mesa e portátil. Os controles Joy-Con destacáveis participam dessa flexibilidade, enquanto cada jogo informa os modos e configurações que oferece.",
+      "As revisões Lite e OLED atendem a usos diferentes dentro da família. O Lite é dedicado ao modo portátil; a existência de um mesmo catálogo não significa que acessórios e modos de jogo sejam intercambiáveis sem restrições."
+    ]
+  },
+  {
+    "id": "starfox2",
+    "year": 2017,
+    "title": "Star Fox 2 finalmente lançado",
+    "category": "Museu",
+    "description": "O projeto de Super Nintendo antes cancelado chega ao público no Nintendo Classic Mini: SNES.",
+    "sourceIds": [
+      "h-starfox"
+    ],
+    "content": [
+      "Uma obra cancelada pode voltar à história de outra maneira. Star Fox 2 foi desenvolvido para Super Nintendo, mas não chegou ao mercado naquela época. Seu lançamento no console em miniatura permite comparar ideias de duas fases da franquia.",
+      "A entrevista oficial de 2017 reúne participantes do desenvolvimento. Ela é a referência principal desta entrada, evitando depender apenas de relatos de colecionadores ou arquivos distribuídos sem autorização."
+    ],
+    "franchise": "star-fox"
+  },
+  {
+    "id": "furukawa",
+    "year": 2018,
+    "title": "Shuntaro Furukawa assume a presidência",
+    "category": "Empresa",
+    "description": "A mudança de liderança é anunciada oficialmente aos investidores.",
+    "sourceIds": [
+      "h-furukawa"
+    ]
+  },
+  {
+    "id": "switch-online",
+    "year": 2018,
+    "title": "Nintendo Switch Online",
+    "category": "Inovação",
+    "description": "A Nintendo inicia seu serviço por assinatura para a família Switch.",
+    "sourceIds": [
+      "h-corporate"
+    ],
+    "consoleId": "switch"
+  },
+  {
+    "id": "switch-lite",
+    "year": 2019,
+    "title": "Nintendo Switch Lite",
+    "category": "Console",
+    "description": "A família Switch ganha um modelo dedicado ao jogo portátil.",
+    "sourceIds": [
+      "h-switch-lite"
+    ],
+    "consoleId": "switch-lite"
+  },
+  {
+    "id": "super-nintendo-world",
+    "year": 2021,
+    "title": "Super Nintendo World",
+    "category": "Empresa",
+    "description": "A área temática abre no Universal Studios Japan, ampliando experiências fora dos consoles.",
+    "sourceIds": [
+      "h-corporate"
+    ]
+  },
+  {
+    "id": "switch-oled",
+    "year": 2021,
+    "title": "Nintendo Switch – Modelo OLED",
+    "category": "Console",
+    "description": "Uma revisão da família Switch traz tela OLED e alterações no suporte e na base.",
+    "sourceIds": [
+      "h-switch-oled"
+    ],
+    "consoleId": "switch-oled"
+  },
+  {
+    "id": "mario-filme",
+    "year": 2023,
+    "title": "Super Mario nos cinemas",
+    "category": "Empresa",
+    "description": "The Super Mario Bros. Movie é lançado como animação produzida em parceria com a Nintendo.",
+    "sourceIds": [
+      "h-corporate"
+    ],
+    "franchise": "mario"
+  },
+  {
+    "id": "museum",
+    "year": 2024,
+    "title": "Nintendo Museum",
+    "category": "Museu",
+    "description": "A antiga fábrica em Uji abre em 2 de outubro como espaço de história do entretenimento Nintendo.",
+    "sourceIds": [
+      "h-museum",
+      "h-corporate",
+      "h-museum-direct"
+    ],
+    "content": [
+      "O Nintendo Museum fica em Uji, Kyoto, em uma instalação ligada à história industrial da empresa. A exposição aproxima produtos de diferentes épocas e regiões, mostrando que um mesmo nome pode ter embalagens e apresentações distintas.",
+      "A instituição combina exposição e experiências interativas. Este Nintendo Universe é um projeto independente: menciona o museu como fonte e marco histórico, sem afirmar vínculo institucional ou reproduzir sua visita como se fosse oficial."
+    ]
+  },
+  {
+    "id": "switch-2",
+    "year": 2025,
+    "title": "Nintendo Switch 2",
+    "category": "Console",
+    "description": "O sucessor do Switch é lançado em 5 de junho, com Joy-Con 2 e nova capacidade de hardware.",
+    "sourceIds": [
+      "h-switch2",
+      "h-switch2-release"
+    ],
+    "consoleId": "switch-2",
+    "content": [
+      "O Nintendo Switch 2 é lançado em 5 de junho de 2025. O sistema mantém a proposta de alternar contextos de uso e introduz controles Joy-Con 2, com conexão magnética e novas formas de interação em títulos compatíveis.",
+      "O catálogo distingue jogos exclusivos, edições para o novo sistema e jogos anteriores compatíveis. Resolução e taxa de quadros dependem da combinação entre jogo, modo, tela e configurações; capacidades máximas não são promessas universais."
+    ]
+  },
+  {
+    "id": "bananza",
+    "year": 2025,
+    "title": "Donkey Kong Bananza",
+    "category": "Jogo",
+    "description": "Donkey Kong protagoniza uma aventura 3D de destruição de cenários para Nintendo Switch 2.",
+    "sourceIds": [
+      "h-bananza"
+    ],
+    "consoleId": "switch-2",
+    "franchise": "donkey-kong"
+  },
+  {
+    "id": "virtual-boy-classics",
+    "year": 2026,
+    "title": "Virtual Boy volta ao catálogo oficial",
+    "category": "Museu",
+    "description": "Virtual Boy – Nintendo Classics fica disponível em 17 de fevereiro para Switch e Switch 2.",
+    "sourceIds": [
+      "h-vb2026"
+    ],
+    "content": [
+      "A retrospectiva oficial da Nintendo Austrália publicada em 2 de março de 2026 confirma a disponibilidade do aplicativo desde 17 de fevereiro. O acesso requer Nintendo Switch Online + Pacote adicional e um dos acessórios específicos.",
+      "A notícia distingue os sete jogos disponíveis naquele momento dos títulos anunciados para adição posterior, incluindo projetos antes inéditos. Esta entrada não transforma esse anúncio em confirmação de que todos já foram lançados."
+    ],
+    "consoleId": "virtual-boy"
+  }
+]

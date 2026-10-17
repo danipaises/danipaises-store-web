@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.ssr/
+*.log
+.env*
+.openai/*local*
+
+.cache/
+qa-responsive.html
+
+node_modules

@@ -1,0 +1,2783 @@
+[
+  {
+    "id": "mario-portal",
+    "title": "Mario Portal — histórico e catálogo oficial",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "O portal usa datas japonesas. Anos de primeiros lançamentos internacionais divergentes foram corrigidos com fontes complementares. Metadados públicos em /jp/character/mario/assets/json/history/history.json; nenhuma imagem do portal foi copiada."
+  },
+  {
+    "id": "mario-smb",
+    "title": "Mario Portal — Super Mario Bros.",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/smb/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-smb2",
+    "title": "Mario Portal — Super Mario Bros.: The Lost Levels",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/smb2/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-golf_japan",
+    "title": "Mario Portal — Golf: Japan Course",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/golf_japan/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-golf_us",
+    "title": "Mario Portal — Golf: US Course",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/golf_us/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-smb3",
+    "title": "Mario Portal — Super Mario Bros. 3",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/smb3/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-land",
+    "title": "Mario Portal — Super Mario Land",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/land/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-world",
+    "title": "Mario Portal — Super Mario World",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/world/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-golf_open",
+    "title": "Mario Portal — NES Open Tournament Golf",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/golf_open/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-kart",
+    "title": "Mario Portal — Super Mario Kart",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/kart/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-usa",
+    "title": "Mario Portal — Super Mario Bros. 2",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/usa/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-land2",
+    "title": "Mario Portal — Super Mario Land 2: 6 Golden Coins",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/land2/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-super_rpg",
+    "title": "Mario Portal — Super Mario RPG",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/super_rpg/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-64",
+    "title": "Mario Portal — Super Mario 64",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/64/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-kart_64",
+    "title": "Mario Portal — Mario Kart 64",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/kart_64/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-party",
+    "title": "Mario Portal — Mario Party",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/party/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-golf_64",
+    "title": "Mario Portal — Mario Golf",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/golf_64/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-golf_gb",
+    "title": "Mario Portal — Mario Golf",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/golf_gb/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-party2",
+    "title": "Mario Portal — Mario Party 2",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/party2/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-tennis_64",
+    "title": "Mario Portal — Mario Tennis",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/tennis_64/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-story",
+    "title": "Mario Portal — Paper Mario",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/story/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-tennis_gb",
+    "title": "Mario Portal — Mario Tennis",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/tennis_gb/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-party3",
+    "title": "Mario Portal — Mario Party 3",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/party3/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-kart_advance",
+    "title": "Mario Portal — Mario Kart: Super Circuit",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/kart_advance/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-sunshine",
+    "title": "Mario Portal — Super Mario Sunshine",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/sunshine/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-party4",
+    "title": "Mario Portal — Mario Party 4",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/party4/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-golf_familytour",
+    "title": "Mario Portal — Mario Golf: Toadstool Tour",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/golf_familytour/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-kart_double_dash",
+    "title": "Mario Portal — Mario Kart: Double Dash!!",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/kart_double_dash/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-mr_rpg",
+    "title": "Mario Portal — Mario & Luigi: Superstar Saga",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/mr_rpg/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-party5",
+    "title": "Mario Portal — Mario Party 5",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/party5/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-golf_gbatour",
+    "title": "Mario Portal — Mario Golf: Advance Tour",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/golf_gbatour/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-vsdonkey",
+    "title": "Mario Portal — Mario vs. Donkey Kong",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/vsdonkey/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-paper_rpg",
+    "title": "Mario Portal — Paper Mario: The Thousand-Year Door",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/paper_rpg/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-tennis_gc",
+    "title": "Mario Portal — Mario Power Tennis",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/tennis_gc/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-party6",
+    "title": "Mario Portal — Mario Party 6",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/party6/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-party_advance",
+    "title": "Mario Portal — Mario Party Advance",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/party_advance/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-tennis_advance",
+    "title": "Mario Portal — Mario Tennis: Power Tour",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/tennis_advance/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-party7",
+    "title": "Mario Portal — Mario Party 7",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/party7/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-kart_ds",
+    "title": "Mario Portal — Mario Kart DS",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/kart_ds/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-mr_rpg2",
+    "title": "Mario Portal — Mario & Luigi: Partners in Time",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/mr_rpg2/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-strikers",
+    "title": "Mario Portal — Super Mario Strikers",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/strikers/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-new_smb",
+    "title": "Mario Portal — New Super Mario Bros.",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/new_smb/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-vsdonkey_minismarch",
+    "title": "Mario Portal — Mario vs. Donkey Kong 2: March of the Minis",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/vsdonkey_minismarch/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-super_paper",
+    "title": "Mario Portal — Super Paper Mario",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/super_paper/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-party8",
+    "title": "Mario Portal — Mario Party 8",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/party8/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-strikers_charged",
+    "title": "Mario Portal — Mario Strikers Charged",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/strikers_charged/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-galaxy",
+    "title": "Mario Portal — Super Mario Galaxy",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/galaxy/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-party_ds",
+    "title": "Mario Portal — Mario Party DS",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/party_ds/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-mariosonic_beijing_wii",
+    "title": "Mario Portal — Mario & Sonic at the Olympic Games",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/mariosonic_beijing_wii/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-mariosonic_beijing_ds",
+    "title": "Mario Portal — Mario & Sonic at the Olympic Games",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/mariosonic_beijing_ds/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-kart_wii",
+    "title": "Mario Portal — Mario Kart Wii",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/kart_wii/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-tennis_gc_wii",
+    "title": "Mario Portal — New Play Control! Mario Power Tennis",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/tennis_gc_wii/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-mr_rpg3",
+    "title": "Mario Portal — Mario & Luigi: Bowser's Inside Story",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/mr_rpg3/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-vsdonkey_minismarch_again",
+    "title": "Mario Portal — Mario vs. Donkey Kong: Minis March Again!",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/vsdonkey_minismarch_again/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-mariosonic_vancouver_wii",
+    "title": "Mario Portal — Mario & Sonic at the Olympic Winter Games",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/mariosonic_vancouver_wii/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-mariosonic_vancouver_ds",
+    "title": "Mario Portal — Mario & Sonic at the Olympic Winter Games",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/mariosonic_vancouver_ds/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-new_smb_wii",
+    "title": "Mario Portal — New Super Mario Bros. Wii",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/new_smb_wii/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-galaxy2",
+    "title": "Mario Portal — Super Mario Galaxy 2",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/galaxy2/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-vsdonkey_miniland_mayhem",
+    "title": "Mario Portal — Mario vs. Donkey Kong: Mini-Land Mayhem!",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/vsdonkey_miniland_mayhem/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-3d_land",
+    "title": "Mario Portal — Super Mario 3D Land",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/3d_land/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-kart7",
+    "title": "Mario Portal — Mario Kart 7",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/kart7/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-mariosonic_london_wii",
+    "title": "Mario Portal — Mario & Sonic at the London 2012 Olympic Games",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/mariosonic_london_wii/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-mariosonic_london_3ds",
+    "title": "Mario Portal — Mario & Sonic at the London 2012 Olympic Games",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/mariosonic_london_3ds/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-party9",
+    "title": "Mario Portal — Mario Party 9",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/party9/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-tennis_open",
+    "title": "Mario Portal — Mario Tennis Open",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/tennis_open/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-new_smb2",
+    "title": "Mario Portal — New Super Mario Bros. 2",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/new_smb2/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-paper_seal",
+    "title": "Mario Portal — Paper Mario: Sticker Star",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/paper_seal/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-new_smb_u",
+    "title": "Mario Portal — New Super Mario Bros. U",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/new_smb_u/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-mr_rpg4",
+    "title": "Mario Portal — Mario & Luigi: Dream Team",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/mr_rpg4/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-mario_donkey_carnival",
+    "title": "Mario Portal — Mario and Donkey Kong: Minis on the Move",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/mario_donkey_carnival/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-3d_world",
+    "title": "Mario Portal — Super Mario 3D World",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/3d_world/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-mariosonic_sochi",
+    "title": "Mario Portal — Mario & Sonic at the Sochi 2014 Olympic Winter Games",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/mariosonic_sochi/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-party_island",
+    "title": "Mario Portal — Mario Party: Island Tour",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/party_island/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-golf_worldtour",
+    "title": "Mario Portal — Mario Golf: World Tour",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/golf_worldtour/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-kart8",
+    "title": "Mario Portal — Mario Kart 8",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/kart8/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-party10",
+    "title": "Mario Portal — Mario Party 10",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/party10/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-vsdonkey_tippingstars",
+    "title": "Mario Portal — Mario vs. Donkey Kong: Tipping Stars",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/vsdonkey_tippingstars/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-maker",
+    "title": "Mario Portal — Super Mario Maker",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/maker/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-mr_rpg_paper",
+    "title": "Mario Portal — Mario & Luigi: Paper Jam",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/mr_rpg_paper/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-tennis_ultra",
+    "title": "Mario Portal — Mario Tennis: Ultra Smash",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/tennis_ultra/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-amiibo_challenge",
+    "title": "Mario Portal — Mini Mario & Friends: amiibo Challenge",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/amiibo_challenge/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-mariosonic_rio_3ds",
+    "title": "Mario Portal — Mario & Sonic at the Rio 2016 Olympic Games",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/mariosonic_rio_3ds/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-mariosonic_rio_wiiu",
+    "title": "Mario Portal — Mario & Sonic at the Rio 2016 Olympic Games",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/mariosonic_rio_wiiu/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-paper_splash",
+    "title": "Mario Portal — Paper Mario: Color Splash",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/paper_splash/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-party_star",
+    "title": "Mario Portal — Mario Party: Star Rush",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/party_star/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-maker_3ds",
+    "title": "Mario Portal — Super Mario Maker for Nintendo 3DS",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/maker_3ds/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-run",
+    "title": "Mario Portal — Super Mario Run",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/run/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-kart8_dx",
+    "title": "Mario Portal — Mario Kart 8 Deluxe",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/kart8_dx/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-mr_rpg_dx",
+    "title": "Mario Portal — Mario & Luigi: Superstar Saga + Bowser's Minions",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/mr_rpg_dx/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-odyssey",
+    "title": "Mario Portal — Super Mario Odyssey",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/odyssey/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-party100",
+    "title": "Mario Portal — Mario Party: The Top 100",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/party100/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-rabbids_kingdom",
+    "title": "Mario Portal — Mario + Rabbids Kingdom Battle",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/rabbids_kingdom/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-tennis_ace",
+    "title": "Mario Portal — Mario Tennis Aces",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/tennis_ace/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-super_party",
+    "title": "Mario Portal — Super Mario Party",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/super_party/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-mr_rpg3_dx",
+    "title": "Mario Portal — Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/mr_rpg3_dx/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-new_smb_u_dx",
+    "title": "Mario Portal — New Super Mario Bros. U Deluxe",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/new_smb_u_dx/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-maker2",
+    "title": "Mario Portal — Super Mario Maker 2",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/maker2/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-kart_tour",
+    "title": "Mario Portal — Mario Kart Tour",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/kart_tour/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-mariosonic_tokyo",
+    "title": "Mario Portal — Mario & Sonic at the Olympic Games Tokyo 2020",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/mariosonic_tokyo/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-paper_origami",
+    "title": "Mario Portal — Paper Mario: The Origami King",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/paper_origami/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-3d_collection",
+    "title": "Mario Portal — Super Mario 3D All-Stars",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/3d_collection/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-smb_35",
+    "title": "Mario Portal — Super Mario Bros. 35",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/smb_35/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-kart_lhc",
+    "title": "Mario Portal — Mario Kart Live: Home Circuit",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/kart_lhc/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-3d_fury_world",
+    "title": "Mario Portal — Super Mario 3D World + Bowser's Fury",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/3d_fury_world/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-golf_rush",
+    "title": "Mario Portal — Mario Golf: Super Rush",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/golf_rush/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-party_superstars",
+    "title": "Mario Portal — Mario Party Superstars",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/party_superstars/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-strikers_battleleague",
+    "title": "Mario Portal — Mario Strikers: Battle League",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/strikers_battleleague/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-rabbids_galaxy",
+    "title": "Mario Portal — Mario + Rabbids Sparks of Hope",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/rabbids_galaxy/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-wonder",
+    "title": "Mario Portal — Super Mario Bros. Wonder",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/wonder/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-super_rpg_switch",
+    "title": "Mario Portal — Super Mario RPG",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/super_rpg_switch/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-vsdonkey_switch",
+    "title": "Mario Portal — Mario vs. Donkey Kong",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/vsdonkey_switch/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-paper_rpg_switch",
+    "title": "Mario Portal — Paper Mario: The Thousand-Year Door",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/paper_rpg_switch/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-party_jamboree",
+    "title": "Mario Portal — Super Mario Party Jamboree",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/party_jamboree/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-mr_rpg_brothership",
+    "title": "Mario Portal — Mario & Luigi: Brothership",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/mr_rpg_brothership/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-kart_world",
+    "title": "Mario Portal — Mario Kart World",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/kart_world/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-party_jamboree2",
+    "title": "Mario Portal — Super Mario Party Jamboree – Nintendo Switch 2 Edition + Jamboree TV",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/party_jamboree2/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-galaxy1-2",
+    "title": "Mario Portal — Super Mario Galaxy + Super Mario Galaxy 2",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/galaxy1-2/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-tennis_fever",
+    "title": "Mario Portal — Mario Tennis Fever",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/tennis_fever/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-wonder2",
+    "title": "Mario Portal — Super Mario Bros. Wonder – Nintendo Switch 2 Edition + Meetup in Bellabel Park",
+    "url": "https://www.nintendo.com/jp/character/mario/en/history/wonder2/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Ficha individual identificada no catálogo público do portal oficial. Datas apresentadas para o Japão."
+  },
+  {
+    "id": "mario-regional",
+    "title": "Mario Portal ocidental — cronologia regional",
+    "url": "https://www.nintendo.com/us/explore/characters/mario/history/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-history",
+    "title": "Kirby Portal — história completa de lançamentos",
+    "url": "https://www.kirby.jp/history/",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "O portal exibe datas japonesas. Kirby’s Dream Land 3 estreou nos EUA em 1997; a versão Super Famicom de Star Stacker apareceu no serviço Nintendo Power em 1998, antes do cartucho de 1999. Relançamentos de Virtual Console não são contados novamente."
+  },
+  {
+    "id": "kirby-1",
+    "title": "Kirby — Kirby Air Riders",
+    "url": "https://www.nintendo.com/jp/games/switch2/aaaba/index.html",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-2",
+    "title": "Kirby — Kirby and the Forgotten Land – Nintendo Switch 2 Edition + Star-Crossed World",
+    "url": "https://www.nintendo.com/jp/games/switch2/arzga/index.html",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-3",
+    "title": "Kirby — Kirby's Return to Dream Land Deluxe",
+    "url": "https://www.nintendo.co.jp/switch/a2jya/index.html",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-4",
+    "title": "Kirby — Kirby's Dream Buffet",
+    "url": "https://www.nintendo.co.jp/switch/a59xa/index.html",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-5",
+    "title": "Kirby — Kirby and the Forgotten Land",
+    "url": "https://www.nintendo.co.jp/switch/arzga/index.html",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-6",
+    "title": "Kirby — Kirby Fighters 2",
+    "url": "https://www.nintendo.co.jp/switch/awmfa/index.html",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-7",
+    "title": "Kirby — Super Kirby Clash",
+    "url": "https://www.nintendo.co.jp/switch/f15aa/index.html",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-8",
+    "title": "Kirby — Kirby's Extra Epic Yarn",
+    "url": "https://www.nintendo.co.jp/3ds/be4j/index.html",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-9",
+    "title": "Kirby — Kirby Star Allies",
+    "url": "https://www.nintendo.co.jp/switch/ah26a/pc/index.html",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-10",
+    "title": "Kirby — Kirby Battle Royale",
+    "url": "https://www.nintendo.co.jp/3ds/aj8j/index.html",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-11",
+    "title": "Kirby — Kirby's Blowout Blast",
+    "url": "https://www.nintendo.co.jp/3ds/jhua/index.html",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-12",
+    "title": "Kirby — Team Kirby Clash Deluxe",
+    "url": "https://www.nintendo.co.jp/3ds/jlkj/index.html",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-13",
+    "title": "Kirby — Kirby: Planet Robobot",
+    "url": "https://www.nintendo.co.jp/3ds/at3a/",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-14",
+    "title": "Kirby — Kirby and the Rainbow Curse",
+    "url": "https://www.nintendo.co.jp/wiiu/axyj/index.html",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-15",
+    "title": "Kirby — Kirby Fighters Deluxe",
+    "url": "https://www.nintendo.co.jp/3ds/dl/jvxj/",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-16",
+    "title": "Kirby — Dedede's Drum Dash Deluxe",
+    "url": "https://www.nintendo.co.jp/3ds/dl/jvqj/",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-17",
+    "title": "Kirby — Kirby: Triple Deluxe",
+    "url": "https://www.nintendo.co.jp/3ds/balj/index.html",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-18",
+    "title": "Kirby — Kirby's Dream Collection: Special Edition",
+    "url": "https://www.nintendo.co.jp/wii/s72j/",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-19",
+    "title": "Kirby — Kirby's Return to Dream Land",
+    "url": "https://www.nintendo.co.jp/wii/sukj/",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-20",
+    "title": "Kirby — Kirby Mass Attack",
+    "url": "https://www.nintendo.co.jp/ds/tadj/index.html",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-21",
+    "title": "Kirby — Kirby's Epic Yarn",
+    "url": "https://www.nintendo.co.jp/wii/rk5j/index.html",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-22",
+    "title": "Kirby — Kirby Super Star Ultra",
+    "url": "https://www.nintendo.co.jp/ds/ykwj/index.html",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-23",
+    "title": "Kirby — Kirby: Squeak Squad",
+    "url": "https://www.nintendo.co.jp/ds/akwj/index.html",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-24",
+    "title": "Kirby — Kirby: Canvas Curse",
+    "url": "https://www.nintendo.co.jp/ds/atkj/index.html",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-26",
+    "title": "Kirby — Kirby Air Ride",
+    "url": "https://www.nintendo.co.jp/ngc/gkyj/index.html",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-27",
+    "title": "Kirby — Kirby: Nightmare in Dream Land",
+    "url": "https://www.nintendo.co.jp/n08/kirby/index.html",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-32",
+    "title": "Kirby — Kirby's Star Stacker",
+    "url": "https://www.nintendo.co.jp/n02/dmg/akcj/index.html",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-34",
+    "title": "Kirby — Kirby's Block Ball",
+    "url": "https://www.nintendo.co.jp/n02/dmg/akxj/",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-37",
+    "title": "Kirby — Kirby's Pinball Land",
+    "url": "https://www.nintendo.co.jp/n02/dmg/k9j/index.html",
+    "publisher": "Nintendo / HAL Laboratory",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pokemon-games",
+    "title": "Pokémon — catálogo oficial de jogos",
+    "url": "https://www.pokemon.co.jp/game/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "A página japonesa lista títulos agrupados por versão. Cada versão comercial principal tem registro próprio. Utilitários como HOME/Bank e expansões não são contados como novos jogos. Datas de estreia usam o primeiro lançamento mundial."
+  },
+  {
+    "id": "pk-ex-legends-z-a-ja",
+    "title": "Pokémon Legends: Z-A",
+    "url": "https://www.pokemon.co.jp/ex/legends_z-a/ja/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-detective-pikachu-ja",
+    "title": "Detective Pikachu Returns",
+    "url": "https://www.pokemon.co.jp/ex/detective_pikachu/ja/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-sv-ja",
+    "title": "Pokémon Scarlet / Pokémon Violet",
+    "url": "https://www.pokemon.co.jp/ex/sv/ja/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-legends-arceus-ja",
+    "title": "Pokémon Legends: Arceus",
+    "url": "https://www.pokemon.co.jp/ex/legends_arceus/ja/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-bdsp-ja",
+    "title": "Pokémon Brilliant Diamond / Pokémon Shining Pearl",
+    "url": "https://www.pokemon.co.jp/ex/bdsp/ja/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-https-www-pokemonunite-jp-ja",
+    "title": "Pokémon UNITE",
+    "url": "https://www.pokemonunite.jp/ja/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-newpokemonsnap",
+    "title": "New Pokémon Snap",
+    "url": "https://www.pokemon.co.jp/ex/newpokemonsnap/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-dungeondx",
+    "title": "Pokémon Mystery Dungeon: Rescue Team DX",
+    "url": "https://www.pokemon.co.jp/ex/dungeonDX/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-sword-shield",
+    "title": "Pokémon Sword / Pokémon Shield",
+    "url": "https://www.pokemon.co.jp/ex/sword_shield/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-pika-vee",
+    "title": "Pokémon: Let's Go, Pikachu! / Pokémon: Let's Go, Eevee!",
+    "url": "https://www.pokemon.co.jp/ex/pika_vee/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-pokemonquest",
+    "title": "Pokémon Quest",
+    "url": "https://www.pokemon.co.jp/ex/pokemonquest/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-meitantei-pikachu",
+    "title": "Detective Pikachu",
+    "url": "https://www.pokemon.co.jp/ex/meitantei_pikachu/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-usum",
+    "title": "Pokémon Ultra Sun / Pokémon Ultra Moon",
+    "url": "https://www.pokemon.co.jp/ex/usum/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-pokkendx",
+    "title": "Pokkén Tournament DX",
+    "url": "https://www.pokemon.co.jp/ex/pokkenDX/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-sun-moon",
+    "title": "Pokémon Sun / Pokémon Moon",
+    "url": "https://www.pokemon.co.jp/ex/sun_moon/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-pokken-wiiu",
+    "title": "Pokkén Tournament",
+    "url": "https://www.pokemon.co.jp/ex/pokken_wiiU/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-cho-dungeon",
+    "title": "Pokémon Super Mystery Dungeon",
+    "url": "https://www.pokemon.co.jp/ex/cho_dungeon/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-m-scramble",
+    "title": "Pokémon Rumble World",
+    "url": "https://www.pokemon.co.jp/ex/m-scramble/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-poketoru",
+    "title": "Pokémon Shuffle",
+    "url": "https://www.pokemon.co.jp/ex/poketoru/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-p-picross",
+    "title": "Pokémon Picross",
+    "url": "https://www.pokemon.co.jp/ex/p-picross/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-battletrozei",
+    "title": "Pokémon Battle Trozei",
+    "url": "https://www.pokemon.co.jp/ex/battletrozei/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-oras",
+    "title": "Pokémon Omega Ruby / Pokémon Alpha Sapphire",
+    "url": "https://www.pokemon.co.jp/ex/oras/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-1000pokemon",
+    "title": "The Thieves and the 1000 Pokémon",
+    "url": "https://www.pokemon.co.jp/ex/1000pokemon/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-scrambleu",
+    "title": "Pokémon Rumble U",
+    "url": "https://www.pokemon.co.jp/ex/scrambleU/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-xy",
+    "title": "Pokémon X / Pokémon Y",
+    "url": "https://www.pokemon.co.jp/ex/xy/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-b2w2",
+    "title": "Pokémon Black Version 2 / Pokémon White Version 2",
+    "url": "https://www.pokemon.co.jp/ex/b2w2/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-ranse",
+    "title": "Pokémon Conquest",
+    "url": "https://www.pokemon.co.jp/ex/ranse/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-dungeon-magnagate",
+    "title": "Pokémon Mystery Dungeon: Gates to Infinity",
+    "url": "https://www.pokemon.co.jp/ex/dungeon_magnagate/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-ar-searcher",
+    "title": "Pokémon Dream Radar",
+    "url": "https://www.pokemon.co.jp/ex/ar_searcher/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-scramble",
+    "title": "Pokémon Rumble Blast",
+    "url": "https://www.pokemon.co.jp/ex/scramble/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-typing",
+    "title": "Learn with Pokémon: Typing Adventure",
+    "url": "https://www.pokemon.co.jp/ex/typing/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-ex-pokepark2",
+    "title": "PokéPark 2: Wonders Beyond",
+    "url": "https://www.pokemon.co.jp/ex/pokepark2/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-series-bw",
+    "title": "Pokémon Black Version / Pokémon White Version",
+    "url": "https://www.pokemon.co.jp/series/bw/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-ds-ranger3",
+    "title": "Pokémon Ranger: Guardian Signs",
+    "url": "https://www.pokemon.co.jp/game/ds/ranger3/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-ds-hgss",
+    "title": "Pokémon HeartGold Version / Pokémon SoulSilver Version",
+    "url": "https://www.pokemon.co.jp/game/ds/hgss/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-wii-dungeon",
+    "title": "Pokémon Mystery Dungeon: Blazing Adventure Squad / Pokémon Mystery Dungeon: Stormy Adventure Squad / Pokémon Mystery Dungeon: Light Adventure Squad",
+    "url": "https://www.pokemon.co.jp/game/wii/dungeon/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-special-pokemonscramble",
+    "title": "Pokémon Rumble",
+    "url": "https://www.pokemon.co.jp/special/pokemonscramble/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-special-dungeon-sora",
+    "title": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "url": "https://www.pokemon.co.jp/special/dungeon_sora/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-special-pokeparkwii",
+    "title": "PokéPark Wii: Pikachu's Adventure",
+    "url": "https://www.pokemon.co.jp/special/pokeparkwii/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-ds-platinum",
+    "title": "Pokémon Platinum Version",
+    "url": "https://www.pokemon.co.jp/game/ds/platinum/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-ds-ranger2008",
+    "title": "Pokémon Ranger: Shadows of Almia",
+    "url": "https://www.pokemon.co.jp/game/ds/ranger2008/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-special-bokujou",
+    "title": "My Pokémon Ranch",
+    "url": "https://www.pokemon.co.jp/special/bokujou/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-ds-dungeon2007",
+    "title": "Pokémon Mystery Dungeon: Explorers of Time / Pokémon Mystery Dungeon: Explorers of Darkness",
+    "url": "https://www.pokemon.co.jp/game/ds/dungeon2007/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-ds-dp",
+    "title": "Pokémon Diamond Version / Pokémon Pearl Version",
+    "url": "https://www.pokemon.co.jp/game/ds/dp/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-ds-ranger",
+    "title": "Pokémon Ranger",
+    "url": "https://www.pokemon.co.jp/game/ds/ranger/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-wii-pbr-sp",
+    "title": "Pokémon Battle Revolution",
+    "url": "https://www.pokemon.co.jp/game/wii/pbr_sp/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-other-xd",
+    "title": "Pokémon XD: Gale of Darkness",
+    "url": "https://www.pokemon.co.jp/game/other/xd/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-ds-dungeon",
+    "title": "Pokémon Mystery Dungeon: Blue Rescue Team / Pokémon Mystery Dungeon: Red Rescue Team",
+    "url": "https://www.pokemon.co.jp/game/ds/dungeon/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-ds-toroze",
+    "title": "Pokémon Trozei!",
+    "url": "https://www.pokemon.co.jp/game/ds/toroze/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-gba-emerald",
+    "title": "Pokémon Emerald Version",
+    "url": "https://www.pokemon.co.jp/game/gba/emerald/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-gba-fl",
+    "title": "Pokémon FireRed Version / Pokémon LeafGreen Version",
+    "url": "https://www.pokemon.co.jp/game/gba/fl/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-ds-dash",
+    "title": "Pokémon Dash",
+    "url": "https://www.pokemon.co.jp/game/ds/dash/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-gba-pprs",
+    "title": "Pokémon Pinball: Ruby & Sapphire",
+    "url": "https://www.pokemon.co.jp/game/gba/pprs/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-other-channel",
+    "title": "Pokémon Channel",
+    "url": "https://www.pokemon.co.jp/game/other/channel/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-other-colosseum",
+    "title": "Pokémon Colosseum",
+    "url": "https://www.pokemon.co.jp/game/other/colosseum/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-gba-rs",
+    "title": "Pokémon Ruby Version / Pokémon Sapphire Version",
+    "url": "https://www.pokemon.co.jp/game/gba/rs/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-other-gbc-gr",
+    "title": "Pokémon Card GB2: Here Comes Team GR!",
+    "url": "https://www.pokemon.co.jp/game/other/gbc-gr/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-other-gbc-panepon",
+    "title": "Pokémon Puzzle Challenge",
+    "url": "https://www.pokemon.co.jp/game/other/gbc-panepon/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-other-gbc-crystal",
+    "title": "Pokémon Crystal Version",
+    "url": "https://www.pokemon.co.jp/game/other/gbc-crystal/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-other-64-psgs",
+    "title": "Pokémon Stadium 2",
+    "url": "https://www.pokemon.co.jp/game/other/64-psgs/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-other-64-ps2",
+    "title": "Pokémon Stadium",
+    "url": "https://www.pokemon.co.jp/game/other/64-ps2/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-other-gbc-pp",
+    "title": "Pokémon Pinball",
+    "url": "https://www.pokemon.co.jp/game/other/gbc-pp/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-other-64-snap",
+    "title": "Pokémon Snap",
+    "url": "https://www.pokemon.co.jp/game/other/64-snap/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-other-gbc-gs",
+    "title": "Pokémon Gold Version / Pokémon Silver Version",
+    "url": "https://www.pokemon.co.jp/game/other/gbc-gs/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-other-gb-pikachu",
+    "title": "Pokémon Yellow Version: Special Pikachu Edition",
+    "url": "https://www.pokemon.co.jp/game/other/gb-pikachu/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-other-64-stadium",
+    "title": "Pocket Monsters Stadium (Japão, 1998)",
+    "url": "https://www.pokemon.co.jp/game/other/64-stadium/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-other-gbc-gb",
+    "title": "Pokémon Trading Card Game",
+    "url": "https://www.pokemon.co.jp/game/other/gbc-gb/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-other-64-genki",
+    "title": "Hey You, Pikachu!",
+    "url": "https://www.pokemon.co.jp/game/other/64-genki/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-other-gb-blue",
+    "title": "Pocket Monsters Blue (Japão)",
+    "url": "https://www.pokemon.co.jp/game/other/gb-blue/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pk-game-other-gb-rg",
+    "title": "Pokémon Red Version / Pocket Monsters Green",
+    "url": "https://www.pokemon.co.jp/game/other/gb-rg/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "fire-emblem-history",
+    "title": "Fire Emblem World — histórico oficial",
+    "url": "https://www.nintendo.com/jp/fe/en/history/index.html",
+    "publisher": "Nintendo / Intelligent Systems",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "fe-fire-emblem-shadow-dragon-the-blade-of-light",
+    "title": "Fire Emblem: Shadow Dragon & the Blade of Light",
+    "url": "https://www.nintendo.com/jp/fe/en/modal/01.html?width=960",
+    "publisher": "Nintendo / Intelligent Systems",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "fe-fire-emblem-gaiden",
+    "title": "Fire Emblem Gaiden",
+    "url": "https://www.nintendo.com/jp/fe/en/modal/02.html?width=960",
+    "publisher": "Nintendo / Intelligent Systems",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "fe-fire-emblem-mystery-of-the-emblem",
+    "title": "Fire Emblem: Mystery of the Emblem",
+    "url": "https://www.nintendo.com/jp/fe/en/modal/03.html?width=960",
+    "publisher": "Nintendo / Intelligent Systems",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "fe-fire-emblem-genealogy-of-the-holy-war",
+    "title": "Fire Emblem: Genealogy of the Holy War",
+    "url": "https://www.nintendo.com/jp/fe/en/modal/04.html?width=960",
+    "publisher": "Nintendo / Intelligent Systems",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "fe-fire-emblem-thracia-776",
+    "title": "Fire Emblem: Thracia 776",
+    "url": "https://www.nintendo.com/jp/fe/en/modal/05.html?width=960",
+    "publisher": "Nintendo / Intelligent Systems",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "fe-fire-emblem-the-binding-blade",
+    "title": "Fire Emblem: The Binding Blade",
+    "url": "https://www.nintendo.com/jp/fe/en/modal/06.html?width=960",
+    "publisher": "Nintendo / Intelligent Systems",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "fe-fire-emblem-the-blazing-blade",
+    "title": "Fire Emblem: The Blazing Blade",
+    "url": "https://www.nintendo.com/jp/fe/en/modal/07.html?width=960",
+    "publisher": "Nintendo / Intelligent Systems",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "fe-fire-emblem-the-sacred-stones",
+    "title": "Fire Emblem: The Sacred Stones",
+    "url": "https://www.nintendo.com/jp/fe/en/modal/08.html?width=960",
+    "publisher": "Nintendo / Intelligent Systems",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "fe-fire-emblem-path-of-radiance",
+    "title": "Fire Emblem: Path of Radiance",
+    "url": "https://www.nintendo.com/jp/fe/en/modal/09.html?width=960",
+    "publisher": "Nintendo / Intelligent Systems",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "fe-fire-emblem-radiant-dawn",
+    "title": "Fire Emblem: Radiant Dawn",
+    "url": "https://www.nintendo.com/jp/fe/en/modal/10.html?width=960",
+    "publisher": "Nintendo / Intelligent Systems",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "fe-fire-emblem-shadow-dragon",
+    "title": "Fire Emblem: Shadow Dragon",
+    "url": "https://www.nintendo.com/jp/fe/en/modal/11.html?width=960",
+    "publisher": "Nintendo / Intelligent Systems",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "fe-fire-emblem-new-mystery-of-the-emblem",
+    "title": "Fire Emblem: New Mystery of the Emblem",
+    "url": "https://www.nintendo.com/jp/fe/en/modal/12.html?width=960",
+    "publisher": "Nintendo / Intelligent Systems",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "fe-fire-emblem-awakening",
+    "title": "Fire Emblem Awakening",
+    "url": "https://www.nintendo.com/jp/fe/en/modal/13.html?width=960",
+    "publisher": "Nintendo / Intelligent Systems",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "fe-fire-emblem-fates",
+    "title": "Fire Emblem Fates",
+    "url": "https://www.nintendo.com/jp/fe/en/modal/14.html?width=960",
+    "publisher": "Nintendo / Intelligent Systems",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "fe-fire-emblem-heroes",
+    "title": "Fire Emblem Heroes",
+    "url": "https://www.nintendo.com/jp/fe/en/modal/15.html?width=960",
+    "publisher": "Nintendo / Intelligent Systems",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "fe-fire-emblem-echoes-shadows-of-valentia",
+    "title": "Fire Emblem Echoes: Shadows of Valentia",
+    "url": "https://www.nintendo.com/jp/fe/en/modal/16.html?width=960",
+    "publisher": "Nintendo / Intelligent Systems",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "fe-fire-emblem-three-houses",
+    "title": "Fire Emblem: Three Houses",
+    "url": "https://www.nintendo.com/jp/fe/en/modal/17.html?width=960",
+    "publisher": "Nintendo / Intelligent Systems",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "fe-fire-emblem-engage",
+    "title": "Fire Emblem Engage",
+    "url": "https://www.nintendo.com/jp/fe/en/modal/18.html?width=960",
+    "publisher": "Nintendo / Intelligent Systems",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "fe-fire-emblem-shadows",
+    "title": "Fire Emblem Shadows",
+    "url": "https://www.nintendo.com/jp/fe/en/modal/19.html?width=960",
+    "publisher": "Nintendo / Intelligent Systems",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "zelda-history",
+    "title": "The Legend of Zelda — história oficial de lançamentos",
+    "url": "https://www.nintendo.com/jp/character/zelda/history/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "Cronologia de lançamento, não ordem narrativa. Datas japonesas confrontadas com lançamentos regionais quando o ano diverge."
+  },
+  {
+    "id": "zelda-catalog",
+    "title": "The Legend of Zelda — catálogo de originais e remakes",
+    "url": "https://www.nintendolife.com/games/browse?title=series%3Azelda",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary",
+    "note": "Consulta complementar para plataformas e anos de versões refeitas, remasterizadas e derivados."
+  },
+  {
+    "id": "cadence-hyrule",
+    "title": "Cadence of Hyrule — ficha oficial",
+    "url": "https://www.nintendo.com/pt-br/store/products/cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-switch/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "hyrule-imprisonment",
+    "title": "Hyrule Warriors: Age of Imprisonment — ficha oficial",
+    "url": "https://www.nintendo.com/pt-br/store/products/hyrule-warriors-age-of-imprisonment-switch-2/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "dk-catalog",
+    "title": "Donkey Kong — catálogo de lançamentos",
+    "url": "https://www.nintendolife.com/games/browse?title=series%3Adonkey-kong",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary"
+  },
+  {
+    "id": "dk-official",
+    "title": "Donkey Kong — retrospectiva e jogos",
+    "url": "https://www.nintendo.com/en-gb/Games/Explore-Games/Characters-hub/Donkey-Kong-Hub/Donkey-Kong-Hub-846642.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "metroid-2d",
+    "title": "Metroid Dread Report 4 — 35 anos da saga",
+    "url": "https://www.nintendo.com/en-gb/News/2021/August/Metroid-Dread-Report-Vol-4-Unravelling-a-saga-35-years-in-the-making-2018281.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "metroid-trilogy",
+    "title": "Metroid Prime Trilogy — lançamento e originais",
+    "url": "https://www.nintendo.com/nl-nl/Nieuws/2009/Nu-in-de-winkel-Metroid-Prime-Trilogy-251275.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "metroid-prime-hunters-official",
+    "title": "Metroid Prime Hunters — Nintendo",
+    "url": "https://www.nintendo.com/en-gb/Games/Nintendo-DS/Metroid-Prime-Hunters-271694.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "metroid-prime-pinball-official",
+    "title": "Metroid Prime Pinball — Nintendo",
+    "url": "https://www.nintendo.com/en-gb/Games/Nintendo-DS/Metroid-Prime-Pinball-271705.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "metroid-other-m-official",
+    "title": "Metroid: Other M — Nintendo",
+    "url": "https://www.nintendo.com/en-gb/Games/Wii/METROID-Other-M-282013.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "metroid-prime-federation-force-official",
+    "title": "Metroid Prime: Federation Force — Nintendo",
+    "url": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/17227/~/how-to-update-metroid-prime%3A-federation-force",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "metroid-prime-remastered-official",
+    "title": "Metroid Prime Remastered — Nintendo",
+    "url": "https://www.nintendo.com/us/store/products/metroid-prime-remastered-switch/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "metroid-prime-4-beyond-official",
+    "title": "Metroid Prime 4: Beyond — Nintendo",
+    "url": "https://www.nintendo.com/us/store/products/metroid-prime-4-106495/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "animal-crossing-catalog",
+    "title": "Animal Crossing — catálogo histórico",
+    "url": "https://www.nintendolife.com/games/browse?title=series%3Aanimal-crossing",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary",
+    "note": "Dados bibliográficos básicos; datas por região podem divergir. A versão original é distinguida de remakes, remasterizações e coletâneas."
+  },
+  {
+    "id": "pikmin-catalog",
+    "title": "Pikmin — catálogo histórico",
+    "url": "https://www.nintendolife.com/games/browse?title=series%3Apikmin",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary",
+    "note": "Dados bibliográficos básicos; datas por região podem divergir. A versão original é distinguida de remakes, remasterizações e coletâneas."
+  },
+  {
+    "id": "star-fox-catalog",
+    "title": "Star Fox — catálogo histórico",
+    "url": "https://www.nintendolife.com/games/browse?title=series%3Astar-fox",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary",
+    "note": "Dados bibliográficos básicos; datas por região podem divergir. A versão original é distinguida de remakes, remasterizações e coletâneas."
+  },
+  {
+    "id": "f-zero-catalog",
+    "title": "F-Zero — catálogo histórico",
+    "url": "https://www.nintendolife.com/games/browse?title=series%3Af-zero",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary",
+    "note": "Dados bibliográficos básicos; datas por região podem divergir. A versão original é distinguida de remakes, remasterizações e coletâneas."
+  },
+  {
+    "id": "yoshi-catalog",
+    "title": "Yoshi — catálogo histórico",
+    "url": "https://www.nintendolife.com/games/browse?title=series%3Ayoshi",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary",
+    "note": "Dados bibliográficos básicos; datas por região podem divergir. A versão original é distinguida de remakes, remasterizações e coletâneas."
+  },
+  {
+    "id": "wario-catalog",
+    "title": "Wario — catálogo histórico",
+    "url": "https://www.nintendolife.com/games/browse?title=series%3Awario",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary",
+    "note": "Dados bibliográficos básicos; datas por região podem divergir. A versão original é distinguida de remakes, remasterizações e coletâneas."
+  },
+  {
+    "id": "kid-icarus-catalog",
+    "title": "Kid Icarus — catálogo histórico",
+    "url": "https://www.nintendolife.com/games/browse?title=series%3Akid-icarus",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary",
+    "note": "Dados bibliográficos básicos; datas por região podem divergir. A versão original é distinguida de remakes, remasterizações e coletâneas."
+  },
+  {
+    "id": "advance-wars-catalog",
+    "title": "Advance Wars — catálogo histórico",
+    "url": "https://www.nintendolife.com/games/browse?title=series%3Aadvance-wars",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary",
+    "note": "Dados bibliográficos básicos; datas por região podem divergir. A versão original é distinguida de remakes, remasterizações e coletâneas."
+  },
+  {
+    "id": "golden-sun-catalog",
+    "title": "Golden Sun — catálogo histórico",
+    "url": "https://www.nintendolife.com/games/browse?title=series%3Agolden-sun",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary",
+    "note": "Dados bibliográficos básicos; datas por região podem divergir. A versão original é distinguida de remakes, remasterizações e coletâneas."
+  },
+  {
+    "id": "xenoblade-catalog",
+    "title": "Xenoblade Chronicles — catálogo histórico",
+    "url": "https://www.nintendolife.com/games/browse?title=series%3Axenoblade",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary",
+    "note": "Dados bibliográficos básicos; datas por região podem divergir. A versão original é distinguida de remakes, remasterizações e coletâneas."
+  },
+  {
+    "id": "rhythm-heaven-catalog",
+    "title": "Rhythm Heaven — catálogo histórico",
+    "url": "https://www.nintendolife.com/games/browse?title=series%3Arhythm-heaven",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary",
+    "note": "Dados bibliográficos básicos; datas por região podem divergir. A versão original é distinguida de remakes, remasterizações e coletâneas."
+  },
+  {
+    "id": "punch-out-catalog",
+    "title": "Punch-Out!! — catálogo histórico",
+    "url": "https://www.nintendolife.com/games/browse?title=series%3Apunch-out",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary",
+    "note": "Dados bibliográficos básicos; datas por região podem divergir. A versão original é distinguida de remakes, remasterizações e coletâneas."
+  },
+  {
+    "id": "luigis-mansion-catalog",
+    "title": "Luigi's Mansion — catálogo histórico",
+    "url": "https://www.nintendolife.com/games/browse?title=series%3Aluigis-mansion",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary",
+    "note": "Dados bibliográficos básicos; datas por região podem divergir. A versão original é distinguida de remakes, remasterizações e coletâneas."
+  },
+  {
+    "id": "animal-forest-original",
+    "title": "Doubutsu no Mori — página oficial do Nintendo 64",
+    "url": "https://www.nintendo.co.jp/n01/n64/software/nus_p_nafj/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pikmin-history",
+    "title": "Pikmin Garden — histórico oficial",
+    "url": "https://www.nintendo.com/jp/character/pikmin/history/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "splatoon-history",
+    "title": "Splatoon Base — a trajetória da série",
+    "url": "https://www.nintendo.com/jp/character/splatoon/en/history/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "mother-history",
+    "title": "MOTHER — a trilogia na Nintendo",
+    "url": "https://www.nintendo.com/jp/topics/article/32aea5de-a209-11e5-a02c-0a6d14145cb1",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "warioware-catalog",
+    "title": "WarioWare — catálogo da série",
+    "url": "https://www.nintendolife.com/games/browse?title=series%3Awarioware",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary"
+  },
+  {
+    "id": "smash-history",
+    "title": "Super Smash Bros. — cronologia corporativa",
+    "url": "https://www.nintendo.co.jp/ir/pdf/2019/190201_2e.pdf",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "yoshi-and-the-mysterious-book-2026-official",
+    "title": "Yoshi and the Mysterious Book — lançamento oficial",
+    "url": "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "star-fox-nintendo-switch-2-2026-official",
+    "title": "Star Fox (Nintendo Switch 2) — lançamento oficial",
+    "url": "https://www.nintendo.com/us/store/products/star-fox-switch-2/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "splatoon-raiders-2026-official",
+    "title": "Splatoon Raiders — lançamento oficial",
+    "url": "https://www.nintendo.com/us/store/products/splatoon-raiders-switch-2/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "rhythm-heaven-groove-2026-official",
+    "title": "Rhythm Heaven Groove — lançamento oficial",
+    "url": "https://www.nintendo.com/pt-br/store/products/rhythm-heaven-groove-switch/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pokemon-pokopia-2026-official",
+    "title": "Pokémon Pokopia — lançamento oficial",
+    "url": "https://www.pokemon.com/us/news/pokemon-pokopia-is-available-now-on-nintendo-switch-2",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "mario-developers-25",
+    "title": "Iwata Asks — criadores de Super Mario",
+    "url": "https://iwataasks.nintendo.com/interviews/wii/mario25th/2/0/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "mario-64-development",
+    "title": "Iwata Asks — a chegada de Mario ao 3D",
+    "url": "https://iwataasks.nintendo.com/interviews/wii/super_mario_galaxy/3/1/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby-forgotten-official",
+    "title": "Kirby and the Forgotten Land — mundo e mecânicas",
+    "url": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-switch/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "zelda-oot-official",
+    "title": "Ocarina of Time — arquivo oficial Nintendo 64",
+    "url": "https://www.nintendo.co.jp/n01/n64/software/zelda/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "zelda-botw-official",
+    "title": "Breath of the Wild — site oficial",
+    "url": "https://www.nintendo.com/jp/zelda/botw/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "zelda-totk-official",
+    "title": "Tears of the Kingdom — site oficial",
+    "url": "https://www.nintendo.com/jp/zelda/totk/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "dk-bananza-official",
+    "title": "Donkey Kong Bananza — site oficial e recursos",
+    "url": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "pokemon-gold-official",
+    "title": "Pokémon Gold e Silver — apresentação oficial",
+    "url": "https://www.pokemon.com/us/pokemon-video-games/pokemon-gold-version-and-pokemon-silver-version",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "metroid-dread-official",
+    "title": "Metroid Dread — ficha oficial",
+    "url": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "mario-bros-reference",
+    "title": "Mario Bros. — ficha de referência",
+    "url": "https://www.nintendo.com/pt-br/store/products/arcade-archives-mario-bros-switch/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "super-mario-all-stars-reference",
+    "title": "Super Mario All-Stars — ficha de referência",
+    "url": "https://www.nintendolife.com/games/snes/super_mario_all-stars",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary"
+  },
+  {
+    "id": "super-mario-bros-deluxe-reference",
+    "title": "Super Mario Bros. Deluxe — ficha de referência",
+    "url": "https://www.nintendolife.com/games/gbc/super_mario_bros_deluxe",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary"
+  },
+  {
+    "id": "super-mario-advance-reference",
+    "title": "Super Mario Advance — ficha de referência",
+    "url": "https://www.nintendolife.com/games/gba/super_mario_advance",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary"
+  },
+  {
+    "id": "super-mario-world-super-mario-advance-2-reference",
+    "title": "Super Mario World: Super Mario Advance 2 — ficha de referência",
+    "url": "https://www.nintendolife.com/games/gba/super_mario_advance_2_super_mario_world",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary"
+  },
+  {
+    "id": "super-mario-advance-4-super-mario-bros-3-reference",
+    "title": "Super Mario Advance 4: Super Mario Bros. 3 — ficha de referência",
+    "url": "https://www.nintendolife.com/games/gba/super_mario_advance_4_super_mario_bros_3",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary"
+  },
+  {
+    "id": "super-mario-64-ds-reference",
+    "title": "Super Mario 64 DS — ficha de referência",
+    "url": "https://www.nintendolife.com/games/ds/super_mario_64_ds",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary"
+  },
+  {
+    "id": "mario-superstar-baseball-reference",
+    "title": "Mario Superstar Baseball — ficha de referência",
+    "url": "https://www.nintendo.com/en-gb/Games/Nintendo-GameCube/Mario-Superstar-Baseball-268357.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "mario-super-sluggers-reference",
+    "title": "Mario Super Sluggers — ficha de referência",
+    "url": "https://www.nintendolife.com/games/wii/mario_super_sluggers",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary"
+  },
+  {
+    "id": "mario-sports-mix-reference",
+    "title": "Mario Sports Mix — ficha de referência",
+    "url": "https://www.mobygames.com/game/52416/mario-sports-mix/releases/",
+    "publisher": "MobyGames",
+    "accessed": "2026-10-17",
+    "type": "secondary"
+  },
+  {
+    "id": "mario-hoops-3-on-3-reference",
+    "title": "Mario Hoops 3-on-3 — ficha de referência",
+    "url": "https://www.nintendoworldreport.com/preview/11796/mario-hoops-3-on-3-nintendo-ds",
+    "publisher": "Nintendo World Report",
+    "accessed": "2026-10-17",
+    "type": "secondary"
+  },
+  {
+    "id": "mario-sports-superstars-reference",
+    "title": "Mario Sports Superstars — ficha de referência",
+    "url": "https://www.nintendolife.com/games/3ds/mario_sports_superstars",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary"
+  },
+  {
+    "id": "mario-pinball-land-reference",
+    "title": "Mario Pinball Land — ficha de referência",
+    "url": "https://www.nintendolife.com/games/gba/super_mario_ball",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary"
+  },
+  {
+    "id": "dr-mario-catalog",
+    "title": "Dr. Mario — catálogo da série",
+    "url": "https://www.nintendolife.com/games/browse?title=series%3Adr-mario",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary"
+  },
+  {
+    "id": "dr-mario64-ref",
+    "title": "Dr. Mario 64 — ficha de catálogo",
+    "url": "https://www.nintendolife.com/games/n64/dr_mario_64",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary"
+  },
+  {
+    "id": "mario-is-missing-licensed",
+    "title": "Mario is Missing! — catálogo bibliográfico",
+    "url": "https://www.mobygames.com/game/7106/mario-is-missing/",
+    "publisher": "MobyGames",
+    "accessed": "2026-10-17",
+    "type": "secondary",
+    "note": "Jogo educacional licenciado com personagens Nintendo, publicado por outra empresa. Não implica desenvolvimento interno da Nintendo."
+  },
+  {
+    "id": "mario-s-time-machine-licensed",
+    "title": "Mario's Time Machine — catálogo bibliográfico",
+    "url": "https://www.mobygames.com/game/12156/marios-time-machine/",
+    "publisher": "MobyGames",
+    "accessed": "2026-10-17",
+    "type": "secondary",
+    "note": "Jogo educacional licenciado com personagens Nintendo, publicado por outra empresa. Não implica desenvolvimento interno da Nintendo."
+  },
+  {
+    "id": "mario-teaches-typing-licensed",
+    "title": "Mario Teaches Typing — catálogo bibliográfico",
+    "url": "https://www.mobygames.com/game/3914/mario-teaches-typing/",
+    "publisher": "MobyGames",
+    "accessed": "2026-10-17",
+    "type": "secondary",
+    "note": "Jogo educacional licenciado com personagens Nintendo, publicado por outra empresa. Não implica desenvolvimento interno da Nintendo."
+  },
+  {
+    "id": "strikers-world-year",
+    "title": "Super Mario Strikers — retrospectiva de lançamento",
+    "url": "https://my.nintendo.com/news/65c88f443d5cec16",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "minis-world-year",
+    "title": "March of the Minis — edição original de 2006",
+    "url": "https://www.nintendolife.com/reviews/wiiu-eshop/mario_vs_donkey_kong_2_march_of_the_minis_ds",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary"
+  },
+  {
+    "id": "island-tour-world-year",
+    "title": "Mario Party: Island Tour — datas regionais",
+    "url": "https://www.nintendolife.com/games/3ds/mario_party_island_tour",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary"
+  },
+  {
+    "id": "tennis-ultra-world-year",
+    "title": "Mario Tennis Ultra Smash — lançamento internacional",
+    "url": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Mario-Tennis-Ultra-Smash-1026139.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "rabbids-world-year",
+    "title": "Mario + Rabbids Kingdom Battle — lançamento internacional",
+    "url": "https://www.nintendo.com/pt-pt/Noticias/2017/Agosto/Ja-a-venda-Mario-Rabbids-Kingdom-Battle-1262430.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "kirby3-world-year",
+    "title": "Kirby's Dream Land 3 — lançamento original",
+    "url": "https://www.nintendolife.com/games/snes/kirbys_dream_land_3",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary"
+  },
+  {
+    "id": "kirby-stacker-world-year",
+    "title": "Kirby's Star Stacker — edição Super Famicom",
+    "url": "https://www.nintendolife.com/games/snes/kirbys_star_stacker",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary"
+  },
+  {
+    "id": "sma2-original-year",
+    "title": "Super Mario Advance 2 — lançamento japonês de 2001",
+    "url": "https://www.nintendo.co.jp/n08/aa2j/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "allstars-original-year",
+    "title": "Iwata Asks — lançamento de Super Mario All-Stars em 1993",
+    "url": "https://iwataasks.nintendo.com/interviews/wii/super-mario-all-stars/1/0/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "mario-sports-official",
+    "title": "Mario Sports Superstars — lançamento oficial",
+    "url": "https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/Mario-Sports-Superstars-1136172.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "fire-emblem-shadows-official",
+    "title": "Fire Emblem Shadows — estratégia e dedução em tempo real",
+    "url": "https://shadows.nintendo.com/en-US/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "metroid2-world-year",
+    "title": "Metroid Dread Report — cronologia original de Metroid II",
+    "url": "https://metroid.nintendo.com/dread/ca/news/metroid-dread-report-vol-4/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "fire-emblem-fortunes-weave-official",
+    "title": "Fire Emblem: Fortune's Weave — lançamento de 17 de setembro de 2026",
+    "url": "https://www.nintendo.com/pt-br/store/products/fire-emblem-fortunes-weave-switch-2/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "wii-sports-catalog-official",
+    "title": "Wii Sports — referência oficial",
+    "url": "https://www.nintendo.com/pt-pt/Jogos/Wii/Wii-Sports-283971.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "O ano da ficha representa a primeira edição mundial; a fonte pode exibir também datas regionais ou de relançamento."
+  },
+  {
+    "id": "wii-sports-resort-catalog-official",
+    "title": "Wii Sports Resort — referência oficial",
+    "url": "https://www.nintendo.co.jp/wii/rztj/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "O ano da ficha representa a primeira edição mundial; a fonte pode exibir também datas regionais ou de relançamento."
+  },
+  {
+    "id": "wii-sports-club-catalog-official",
+    "title": "Wii Sports Club — referência oficial",
+    "url": "https://www.nintendo.com/pt-pt/Jogos/Aplicacoes-de-download-da-Wii-U/Wii-Sports-Club-806816.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "O ano da ficha representa a primeira edição mundial; a fonte pode exibir também datas regionais ou de relançamento."
+  },
+  {
+    "id": "nintendo-switch-sports-catalog-official",
+    "title": "Nintendo Switch Sports — referência oficial",
+    "url": "https://nintendoswitchsports.nintendo.com/en/news/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "O ano da ficha representa a primeira edição mundial; a fonte pode exibir também datas regionais ou de relançamento."
+  },
+  {
+    "id": "excitebike-catalog-official",
+    "title": "Excitebike — referência oficial",
+    "url": "https://www.nintendo.com/jp/famicom/software/hvc-eb/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "O ano da ficha representa a primeira edição mundial; a fonte pode exibir também datas regionais ou de relançamento."
+  },
+  {
+    "id": "excitebike-64-catalog-official",
+    "title": "Excitebike 64 — referência oficial",
+    "url": "https://www.nintendo.com/en-ca/whatsnew/nintendo-switch-online-expansion-pack-excitebike-64-is-now-available/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "O ano da ficha representa a primeira edição mundial; a fonte pode exibir também datas regionais ou de relançamento."
+  },
+  {
+    "id": "excitebike-world-rally-catalog-official",
+    "title": "Excitebike: World Rally — referência oficial",
+    "url": "https://www.nintendo.co.jp/wii/wiiware/wwrj/about/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "O ano da ficha representa a primeira edição mundial; a fonte pode exibir também datas regionais ou de relançamento."
+  },
+  {
+    "id": "vs-excitebike-catalog-official",
+    "title": "VS. Excitebike — referência oficial",
+    "url": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Nintendo-Entertainment-System-Nintendo-Classics-1434614.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "O ano da ficha representa a primeira edição mundial; a fonte pode exibir também datas regionais ou de relançamento."
+  },
+  {
+    "id": "3d-classics-excitebike-catalog-official",
+    "title": "3D Classics: Excitebike — referência oficial",
+    "url": "https://www.nintendo.com/pt-pt/Jogos/Aplicacoes-de-download-da-Nintendo-3DS/3D-Classics-Excitebike--298065.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary",
+    "note": "O ano da ficha representa a primeira edição mundial; a fonte pode exibir também datas regionais ou de relançamento."
+  },
+  {
+    "id": "excitebike-world-rally-original-year",
+    "title": "Excitebike: World Rally — lançamento norte-americano em 2009",
+    "url": "https://www.nintendolife.com/reviews/2009/11/excitebike_world_rally",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary",
+    "note": "Confirma a edição de 2009. A página japonesa usa World Race e sua distribuição japonesa ocorreu em 2010."
+  }
+]

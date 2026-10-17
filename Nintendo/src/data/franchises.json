@@ -1,0 +1,466 @@
+[
+  {
+    "id": "mario",
+    "name": "Super Mario",
+    "year": 1981,
+    "color": "#D61932",
+    "description": "Do arcade aos mundos 3D, uma família de aventuras, esportes, corridas e RPGs.",
+    "history": [
+      "Mario aparece em Donkey Kong, em 1981, antes de Super Mario Bros. inaugurar sua série de plataforma em 1985. O catálogo diferencia a primeira aparição do personagem e o início de cada linha de jogos.",
+      "Os jogos de plataforma convivem com Mario Kart, Mario Party, Paper Mario, Mario & Luigi e séries esportivas. Capas, datas e créditos devem ser tratados por edição: um remake é um lançamento distinto, mas não uma história inteiramente nova.",
+      "A passagem a Super Mario 64 ampliou o espaço de exploração. Sunshine, Galaxy e Odyssey demonstram propostas diferentes para a aventura 3D, enquanto jogos como New Super Mario Bros. e Wonder mantêm a linguagem lateral."
+    ],
+    "ownership": "Franquia Nintendo; desenvolvedoras e parceiros variam entre séries e títulos.",
+    "sourceIds": [
+      "h-dk-history",
+      "h-mario-history",
+      "h-mario40"
+    ],
+    "topics": [
+      {
+        "title": "Aventuras e transformações",
+        "body": "Cogumelos, flores e outras transformações mudam os movimentos e as possibilidades do personagem. Os poderes pertencem ao contexto de cada jogo; sua presença não deve ser presumida para toda a série."
+      },
+      {
+        "title": "Linhas do universo Mario",
+        "body": "O catálogo reúne plataforma 2D e 3D, Mario Kart, Mario Party, Paper Mario, Mario & Luigi, esportes e derivados. A relação de família não substitui a identificação da série de origem."
+      },
+      {
+        "title": "Reino Cogumelo e personagens",
+        "body": "Mario, Luigi, Peach, Toad e Bowser formam parte do elenco recorrente. Jogos individuais também introduzem reinos, habitantes e adversários próprios. O perfil de personagem reúne essas relações sem transformar versões em pessoas históricas reais."
+      }
+    ]
+  },
+  {
+    "id": "zelda",
+    "name": "The Legend of Zelda",
+    "year": 1986,
+    "color": "#276C50",
+    "description": "Exploração, enigmas e lendas de Hyrule em diferentes épocas e estilos.",
+    "history": [
+      "O primeiro The Legend of Zelda estreia no Famicom Disk System japonês em 1986. A série combina exploração de territórios, descoberta de itens e desafios que mudam conforme o jogo.",
+      "Link e Zelda não devem ser tratados como uma única dupla com idade fixa em todos os títulos. As histórias retratam diferentes épocas e encarnações, com conexões específicas e mundos além de Hyrule.",
+      "A ordem de lançamento é verificável por datas de publicação. A cronologia do mundo ficcional é outra camada editorial: relações oficiais precisam ser apresentadas com sua fonte, e interpretações de fãs devem permanecer identificadas como interpretações."
+    ],
+    "ownership": "Franquia Nintendo; alguns jogos e derivados são desenvolvidos com estúdios parceiros.",
+    "sourceIds": [
+      "h-zelda-history",
+      "h-zelda-triforce",
+      "h-zelda-origin"
+    ],
+    "topics": [
+      {
+        "title": "Triforce",
+        "body": "O símbolo reúne Poder, Sabedoria e Coragem. A mitologia oficial associa suas partes a Ganondorf, Zelda e Link, respectivamente, sem exigir que a relíquia desempenhe exatamente o mesmo papel em todos os jogos."
+      },
+      {
+        "title": "Cronologia oficial e lançamento",
+        "body": "O catálogo organiza os títulos por lançamento. A ordem narrativa aqui não é uma árvore completa: só relações verificadas são descritas. Ocarina of Time, Majora’s Mask e The Wind Waker têm contextos próprios documentados no histórico oficial."
+      },
+      {
+        "title": "Itens, masmorras e regiões",
+        "body": "Armas e ferramentas permitem enfrentar inimigos e resolver obstáculos; o desenho das masmorras muda entre as aventuras. Koholint, Termina e os mares de The Wind Waker mostram que a série ultrapassa um único mapa."
+      }
+    ]
+  },
+  {
+    "id": "pokemon",
+    "name": "Pokémon",
+    "year": 1996,
+    "color": "#CFA900",
+    "description": "Colecionar, trocar, batalhar e descobrir criaturas em muitas regiões.",
+    "history": [
+      "Pokémon Red e Green são lançados no Japão para Game Boy em fevereiro de 1996. As versões Red e Blue chegariam aos Estados Unidos em 1998; datas de regiões diferentes não são intercambiáveis.",
+      "A Game Freak concebe e desenvolve a série principal, a Nintendo participa da fabricação e venda dos jogos, e a Creatures trabalha em áreas como cartas e modelos digitais. A The Pokémon Company administra a marca; sua antecessora foi estabelecida pelas três empresas em 1998.",
+      "Jogos, cartas, animação e aplicativos são ramos relacionados, mas distintos. O catálogo separa série principal, remakes e derivados. A Pokédex registra tipos e relações de evolução sem substituir as regras específicas de cada versão."
+    ],
+    "ownership": "Propriedade e gestão compartilhadas: Nintendo, Game Freak, Creatures e The Pokémon Company têm papéis distintos.",
+    "sourceIds": [
+      "h-pokemon-history",
+      "h-pokemon-company",
+      "h-pikachu"
+    ],
+    "topics": [
+      {
+        "title": "Gerações e regiões",
+        "body": "As gerações agrupam fases de jogos e criaturas. Uma região é um lugar do mundo ficcional, e um remake pode revisitar uma região antiga com mecânicas de outra fase."
+      },
+      {
+        "title": "Pokédex interativa",
+        "body": "A base local permite procurar espécies, filtrar tipos e gerações e visualizar relações de evolução. A origem e a data de extração dos dados estão registradas; formas e mecânicas especiais não devem ser confundidas com novas espécies."
+      },
+      {
+        "title": "Lendários e míticos",
+        "body": "As classificações são registradas conforme a base consultada. Raridade no jogo, força em batalha e condição de lendário ou mítico são conceitos diferentes."
+      }
+    ]
+  },
+  {
+    "id": "kirby",
+    "name": "Kirby",
+    "year": 1992,
+    "color": "#CC4A82",
+    "description": "Um herói capaz de aspirar inimigos e explorar mundos de formas inesperadas.",
+    "history": [
+      "Kirby’s Dream Land apresenta o herói no Game Boy em 1992. As habilidades de cópia passam a integrar a série em Kirby’s Adventure, de 1993; o primeiro jogo não deve receber retroativamente essa mecânica.",
+      "O catálogo inclui plataforma e experiências alternativas, como pinball, desafios de movimento e corridas. A parceria entre Nintendo e HAL Laboratory é central para a trajetória da franquia."
+    ],
+    "ownership": "Franquia associada à Nintendo e à HAL Laboratory; consultar os créditos de cada título.",
+    "sourceIds": [
+      "h-kirby",
+      "h-kirby-about",
+      "h-kirby-deluxe",
+      "h-kirby-copy"
+    ],
+    "topics": [
+      {
+        "title": "Habilidades de cópia",
+        "body": "Aspirar determinados inimigos permite usar poderes diferentes. Disponibilidade, comandos e aprimoramentos variam entre os jogos."
+      },
+      {
+        "title": "Amigos e rivais",
+        "body": "Rei Dedede, Meta Knight e Waddle Dees podem ocupar papéis diferentes conforme a aventura. Um personagem que enfrenta Kirby em uma história pode cooperar com ele em outra."
+      }
+    ]
+  },
+  {
+    "id": "donkey-kong",
+    "name": "Donkey Kong",
+    "year": 1981,
+    "color": "#84532F",
+    "description": "Dos barris do arcade às selvas de Country e às cavernas de Bananza.",
+    "history": [
+      "A estreia de Donkey Kong em 1981 é também a estreia de Mario, então chamado Jumpman. O arcade e a família Country representam fases distintas da franquia.",
+      "Donkey Kong Country, desenvolvido pela Rare, usa gráficos pré-renderizados no Super Nintendo e apresenta Diddy Kong. A série Land adapta a aventura ao contexto do Game Boy; Donkey Kong 64 explora o espaço 3D.",
+      "Jungle Beat, Returns e Tropical Freeze experimentam controles e estruturas diferentes. Bananza leva o personagem a uma aventura de destruição de cenários em Nintendo Switch 2. A gravata característica já aparecia na arte do Donkey Kong de Game Boy, em 1994."
+    ],
+    "ownership": "Franquia Nintendo; Rare, Retro Studios e outras equipes participam em títulos específicos.",
+    "sourceIds": [
+      "h-dk-history",
+      "h-dkc",
+      "h-bananza"
+    ],
+    "topics": [
+      {
+        "title": "Arcade e aventura",
+        "body": "A família de jogos reúne desafios de tela, plataformas laterais, aventura 3D e derivados. O histórico deve evitar reduzir essa diversidade a uma única sequência numerada."
+      },
+      {
+        "title": "A família Kong",
+        "body": "Donkey Kong e Diddy são personagens centrais das aventuras Country. As relações de parentesco entre versões receberam descrições diferentes ao longo do tempo; esta base não impõe uma árvore genealógica definitiva."
+      }
+    ]
+  },
+  {
+    "id": "metroid",
+    "name": "Metroid",
+    "year": 1986,
+    "color": "#B74722",
+    "description": "Exploração de ficção científica, caminhos interligados e novas habilidades.",
+    "history": [
+      "Metroid estreia em 1986 e coloca Samus Aran em uma missão no planeta Zebes. Explorar áreas conectadas e retornar com novas capacidades faz parte da identidade da série.",
+      "A linha 2D e os jogos Metroid Prime exploram perspectivas diferentes. Metroid: Zero Mission reconta o primeiro jogo; Samus Returns revisita Metroid II. Dread continua a história após Fusion."
+    ],
+    "ownership": "Franquia Nintendo; equipes internas e parceiras desenvolvem os diferentes jogos.",
+    "sourceIds": [
+      "h-metroid-archive",
+      "h-metroid-design"
+    ]
+  },
+  {
+    "id": "animal-crossing",
+    "name": "Animal Crossing",
+    "year": 2001,
+    "color": "#417B4B",
+    "description": "Vida cotidiana, vizinhos e a criação de um lugar próprio.",
+    "history": [
+      "A série começa como Dōbutsu no Mori no Nintendo 64 japonês em abril de 2001. As versões posteriores expandem a ideia de viver em uma comunidade de animais.",
+      "Em New Leaf, a possibilidade de personalizar o espaço público leva ao papel de prefeito. A entrevista de desenvolvimento mostra como esse conceito nasceu de decisões de design, em vez de ser simplesmente uma troca de cenário."
+    ],
+    "ownership": "Franquia Nintendo.",
+    "sourceIds": [
+      "h-animal",
+      "h-isabelle"
+    ]
+  },
+  {
+    "id": "pikmin",
+    "name": "Pikmin",
+    "year": 2001,
+    "color": "#69842E",
+    "description": "Pequenas criaturas, estratégia e expedições em ambientes gigantes.",
+    "history": [
+      "Pikmin nasce no GameCube, com Olimar comandando criaturas de cores e capacidades diferentes. Gerenciar grupos e tarefas transforma um ambiente familiar em território de exploração.",
+      "A edição NEW PLAY CONTROL! para Wii adapta a seleção e o comando dos Pikmin ao apontamento do Wii Remote. Revisões de controle devem ser registradas separadamente do lançamento original."
+    ],
+    "ownership": "Franquia Nintendo.",
+    "sourceIds": [
+      "h-pikmin",
+      "h-europe"
+    ]
+  },
+  {
+    "id": "splatoon",
+    "name": "Splatoon",
+    "year": 2015,
+    "color": "#7047BC",
+    "description": "Batalhas de tinta, transformação e cultura urbana.",
+    "history": [
+      "Splatoon estreia no Wii U em 2015. As partidas de Turf War colocam a cobertura de território com tinta no centro da disputa.",
+      "Inklings alternam entre formas humanoide e de lula, usando a tinta para se movimentar. Essa relação entre mapa, cor e deslocamento distingue a franquia de jogos baseados apenas em eliminar adversários."
+    ],
+    "ownership": "Franquia Nintendo.",
+    "sourceIds": [
+      "h-splatoon"
+    ]
+  },
+  {
+    "id": "star-fox",
+    "name": "Star Fox",
+    "year": 1993,
+    "color": "#356A99",
+    "description": "Combates espaciais, equipe de pilotos e experimentos com polígonos.",
+    "history": [
+      "Star Fox estreia no Super Nintendo utilizando o chip Super FX para gráficos poligonais. A colaboração com a Argonaut é documentada em entrevistas de desenvolvimento.",
+      "Star Fox 2 foi cancelado em sua época e recebeu lançamento oficial no Nintendo Classic Mini: SNES em 2017. A existência de um projeto anterior não equivale a um lançamento comercial naquele ano de produção."
+    ],
+    "ownership": "Franquia Nintendo; diferentes jogos têm parceiros de desenvolvimento.",
+    "sourceIds": [
+      "h-starfox"
+    ]
+  },
+  {
+    "id": "f-zero",
+    "name": "F-Zero",
+    "year": 1990,
+    "color": "#4263A7",
+    "description": "Corridas futuristas de alta velocidade em pistas de ficção científica.",
+    "history": [
+      "F-Zero integra o início da geração Super Famicom. A apresentação das pistas e das máquinas ajuda a construir a sensação de velocidade da série.",
+      "O catálogo preserva a distinção entre o original, sequências domésticas, jogos portáteis e experiências online. A estreia japonesa de 1990 não deve ser substituída pelo ano de uma edição ocidental."
+    ],
+    "ownership": "Franquia Nintendo.",
+    "sourceIds": [
+      "h-fzero"
+    ]
+  },
+  {
+    "id": "fire-emblem",
+    "name": "Fire Emblem",
+    "year": 1990,
+    "color": "#3C5D9A",
+    "description": "Batalhas táticas, personagens e decisões com consequências.",
+    "history": [
+      "Shadow Dragon & the Blade of Light estreia no Famicom em 20 de abril de 1990, no Japão. A Intelligent Systems é uma parceira central da série.",
+      "Os jogos visitam países, épocas e elencos diferentes. Nem toda entrada continua diretamente a aventura anterior. Remakes, títulos para dispositivos móveis e colaborações têm identificação própria no catálogo."
+    ],
+    "ownership": "Franquia Nintendo / Intelligent Systems, conforme os créditos oficiais da série.",
+    "sourceIds": [
+      "h-fireemblem",
+      "h-marth"
+    ]
+  },
+  {
+    "id": "earthbound",
+    "name": "EarthBound / Mother",
+    "year": 1989,
+    "color": "#AA4D67",
+    "description": "RPGs que encontram o extraordinário em ambientes cotidianos.",
+    "history": [
+      "Mother nasce no Famicom japonês. O primeiro jogo recebe oficialmente o nome EarthBound Beginnings em sua publicação internacional posterior.",
+      "EarthBound acompanha Ness e seus companheiros em cenários contemporâneos, com humor e fenômenos psíquicos. Nome comercial internacional e posição na série precisam ser distinguidos: EarthBound corresponde a Mother 2."
+    ],
+    "ownership": "Série com direitos creditados à Nintendo e a Shigesato Itoi; consultar cada edição.",
+    "sourceIds": [
+      "h-mother",
+      "h-earthbound"
+    ]
+  },
+  {
+    "id": "yoshi",
+    "name": "Yoshi",
+    "year": 1991,
+    "color": "#3D8C42",
+    "description": "O companheiro de Mario também protagoniza aventuras com identidade própria.",
+    "history": [
+      "Yoshi aparece em Super Mario World, lançado no Japão em 1990. O ano de 1991 aqui identifica o começo de títulos próprios com seu nome, não a primeira aparição do personagem.",
+      "Yoshi’s Island explora outra linguagem visual e outra relação entre personagens, movimentos e exploração. A entrevista oficial com a equipe mostra o processo criativo por trás de Super Mario World e Yoshi’s Island."
+    ],
+    "ownership": "Franquia Nintendo, relacionada ao universo Mario.",
+    "sourceIds": [
+      "h-mario-world",
+      "h-yoshi-interview",
+      "h-yoshi-eggs"
+    ]
+  },
+  {
+    "id": "wario",
+    "name": "Wario",
+    "year": 1994,
+    "color": "#AD8E15",
+    "description": "Caça ao tesouro, humor e coleções de microjogos.",
+    "history": [
+      "Wario é apresentado como rival em Super Mario Land 2, de 1992. Wario Land: Super Mario Land 3 inicia a linha de aventuras protagonizadas por ele em 1994.",
+      "A família Wario reúne propostas distintas: jogos de plataforma e a série de microjogos WarioWare. Seu personagem conserva relações com Mario, mas os catálogos devem permitir explorar as linhas próprias."
+    ],
+    "ownership": "Franquia Nintendo; relacionada ao universo Mario.",
+    "sourceIds": [
+      "h-mario-land2",
+      "h-mario-friends",
+      "h-europe"
+    ]
+  },
+  {
+    "id": "smash-bros",
+    "name": "Super Smash Bros.",
+    "year": 1999,
+    "color": "#B54537",
+    "description": "Um encontro de personagens em combates de plataforma.",
+    "history": [
+      "O primeiro Super Smash Bros. estreia no Nintendo 64 em 1999, reunindo personagens de diferentes séries Nintendo.",
+      "O dano acumulado e o lançamento para fora da arena organizam o combate. Os jogos posteriores ampliam o elenco, incluindo participações licenciadas de outras empresas; presença no jogo não transfere a propriedade de uma franquia à Nintendo."
+    ],
+    "ownership": "Série Nintendo com personagens próprios e propriedades de parceiros sob licença.",
+    "sourceIds": [
+      "h-smash"
+    ]
+  },
+  {
+    "id": "kid-icarus",
+    "name": "Kid Icarus",
+    "year": 1986,
+    "color": "#5388B2",
+    "description": "Pit enfrenta ameaças mitológicas em aventuras de ação.",
+    "history": [
+      "Kid Icarus estreia no Famicom Disk System em 1986 e chega a outras regiões como jogo de NES. Pit é o protagonista ligado à proteção de Angel Land.",
+      "A franquia combina referências mitológicas com regras próprias. As descrições deste acervo tratam esse universo como ficção e distinguem a aventura original de suas continuações."
+    ],
+    "ownership": "Franquia Nintendo.",
+    "sourceIds": [
+      "h-kidicarus"
+    ]
+  },
+  {
+    "id": "advance-wars",
+    "name": "Wars / Advance Wars",
+    "year": 1988,
+    "color": "#5B7B42",
+    "description": "Estratégia por turnos com exércitos, terreno e comandantes.",
+    "history": [
+      "A família Wars começa com Famicom Wars no Japão, em 1988. Advance Wars dá nome à fase iniciada no Game Boy Advance, em vez de ser o ponto inicial de toda a família.",
+      "As batalhas combinam unidades, captura de instalações e leitura do terreno. O catálogo agrupa os jogos da família sem confundir títulos publicados apenas no Japão com lançamentos internacionais."
+    ],
+    "ownership": "Série Nintendo com a Intelligent Systems como desenvolvedora de títulos centrais.",
+    "sourceIds": [
+      "h-wars-official",
+      "h-wars"
+    ]
+  },
+  {
+    "id": "golden-sun",
+    "name": "Golden Sun",
+    "year": 2001,
+    "color": "#A67C24",
+    "description": "RPG, alquimia, Djinn e enigmas resolvidos com Psynergy.",
+    "history": [
+      "Golden Sun estreia no Game Boy Advance e é desenvolvido pela Camelot. A aventura combina combates com exploração e poderes utilizados também fora das batalhas.",
+      "The Lost Age continua a história a partir de outro grupo. Os Djinn e a Psynergy conectam progressão de personagens, classes e desafios dos ambientes."
+    ],
+    "ownership": "Série publicada pela Nintendo e desenvolvida pela Camelot; não confundir a publicadora com a equipe de criação.",
+    "sourceIds": [
+      "h-goldensun"
+    ]
+  },
+  {
+    "id": "xenoblade",
+    "name": "Xenoblade Chronicles",
+    "year": 2010,
+    "color": "#9F3A46",
+    "description": "Mundos de grande escala, grupos de aventureiros e RPGs da Monolith Soft.",
+    "history": [
+      "Xenoblade Chronicles estreia no Wii no Japão em 2010 e chega à Europa em 2011. Shulk e a espada Monado são centrais à aventura original.",
+      "Os ambientes, combates e relações entre personagens estruturam a experiência. A Monolith Soft é a desenvolvedora; a Nintendo atua como publicadora, e as diferentes entradas merecem registros próprios."
+    ],
+    "ownership": "Série Nintendo desenvolvida pela Monolith Soft.",
+    "sourceIds": [
+      "h-xenoblade"
+    ]
+  },
+  {
+    "id": "rhythm-heaven",
+    "name": "Rhythm Heaven",
+    "year": 2006,
+    "color": "#AA8035",
+    "description": "Pequenas situações de humor que dependem de ritmo e precisão.",
+    "history": [
+      "A série começa no Japão como Rhythm Tengoku para Game Boy Advance. Outros mercados usam nomes como Rhythm Heaven e Rhythm Paradise.",
+      "Os minijogos pedem que o jogador reconheça padrões musicais. A entrevista de desenvolvimento documenta a colaboração com o músico Tsunku e a busca por uma interação acessível."
+    ],
+    "ownership": "Franquia Nintendo, com colaboração musical documentada de Tsunku.",
+    "sourceIds": [
+      "h-rhythm"
+    ]
+  },
+  {
+    "id": "punch-out",
+    "name": "Punch-Out!!",
+    "year": 1984,
+    "color": "#AC4732",
+    "description": "Boxe de observação, esquiva e leitura dos adversários.",
+    "history": [
+      "Punch-Out!! aparece nos arcades em 1984. A série combina o tema do boxe com adversários de padrões reconhecíveis e desafios de tempo de resposta.",
+      "As versões domésticas reinterpretam a proposta, em vez de serem cópias idênticas da máquina original. O catálogo diferencia o arcade, suas adaptações e os jogos posteriores."
+    ],
+    "ownership": "Franquia Nintendo.",
+    "sourceIds": [
+      "h-punchout"
+    ]
+  },
+  {
+    "id": "luigis-mansion",
+    "name": "Luigi’s Mansion",
+    "year": 2001,
+    "color": "#447543",
+    "description": "Luigi enfrenta fantasmas com equipamentos do professor E. Gadd.",
+    "history": [
+      "Luigi’s Mansion estreia no GameCube em 2001. Luigi deixa o papel habitual de parceiro para investigar uma mansão e procurar Mario.",
+      "Exploração, enigmas e captura de fantasmas organizam uma experiência distinta das plataformas Mario. As continuações mudam os locais e os equipamentos, preservando o contraste entre coragem e apreensão do protagonista."
+    ],
+    "ownership": "Franquia Nintendo relacionada ao universo Mario; desenvolvedoras variam por título.",
+    "sourceIds": [
+      "h-luigi",
+      "h-mario-friends"
+    ]
+  },
+  {
+    "id": "wii-sports",
+    "name": "Wii Sports",
+    "year": 2006,
+    "color": "#307E9B",
+    "description": "Movimentos cotidianos transformados em esportes acessíveis.",
+    "history": [
+      "Wii Sports acompanha a chegada do Wii em 2006. Tênis, boliche e outras modalidades demonstram a proposta do Wii Remote.",
+      "O jogo usa personagens Mii e regras simplificadas. A facilidade de compreender os gestos faz parte de sua identidade, mas não elimina diferenças de controle entre o original, Resort e outras experiências esportivas."
+    ],
+    "ownership": "Franquia Nintendo.",
+    "sourceIds": [
+      "h-wiisports"
+    ]
+  },
+  {
+    "id": "excitebike",
+    "name": "Excitebike",
+    "year": 1984,
+    "color": "#A74B2F",
+    "description": "Motocross, rampas e o cuidado com a temperatura do motor.",
+    "history": [
+      "Excitebike é uma das séries de corrida da Nintendo da era Famicom e NES. Equilibrar a moto e administrar aceleração são partes da experiência.",
+      "O catálogo distingue o jogo doméstico da edição VS. de arcade e das revisões posteriores. Um relançamento moderno não deve substituir o ano de origem do título."
+    ],
+    "ownership": "Franquia Nintendo.",
+    "sourceIds": [
+      "h-excitebike",
+      "h-europe"
+    ]
+  }
+]

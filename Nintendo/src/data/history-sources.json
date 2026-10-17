@@ -1,0 +1,754 @@
+[
+  {
+    "id": "h-corporate",
+    "title": "História corporativa da Nintendo",
+    "url": "https://www.nintendo.co.jp/corporate/en/history/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-europe",
+    "title": "História da Nintendo — arquivo europeu",
+    "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Nintendo-History-625945.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-museum",
+    "title": "Nintendo Museum e história da fábrica Uji Ogura",
+    "url": "https://museum.nintendo.com/en/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-ultra",
+    "title": "A Nintendo como fabricante de brinquedos: Ultra Hand e outros produtos",
+    "url": "https://www.nintendolife.com/news/2018/01/feature_nintendo_labo_shouldnt_be_a_big_surprise_nintendo_is_a_toymaker_first_and_foremost",
+    "publisher": "Nintendo Life",
+    "accessed": "2026-10-17",
+    "type": "secondary"
+  },
+  {
+    "id": "h-yamauchi",
+    "title": "Trajetória de Hiroshi Yamauchi",
+    "url": "https://www.wired.com/2013/09/hiroshi-yamauchi-dies",
+    "publisher": "Wired",
+    "accessed": "2026-10-17",
+    "type": "secondary"
+  },
+  {
+    "id": "h-iwata",
+    "title": "O legado de Satoru Iwata",
+    "url": "https://time.com/3954934/nintendo-satoru-iwata/",
+    "publisher": "TIME",
+    "accessed": "2026-10-17",
+    "type": "secondary"
+  },
+  {
+    "id": "h-virtualboy",
+    "title": "Iwata Pergunta: Shigeru Miyamoto fala sobre o Virtual Boy",
+    "url": "https://www.nintendo.com/en-gb/Iwata-Asks/Iwata-Asks-Nintendo-3DS/Vol-1-And-That-s-How-the-Nintendo-3DS-Was-Made/2-Shigeru-Miyamoto-Talks-Virtual-Boy/2-Shigeru-Miyamoto-Talks-Virtual-Boy-229419.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-fy2014",
+    "title": "Resultados do exercício encerrado em março de 2014",
+    "url": "https://www.nintendo.co.jp/ir/en/events/140508summary/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-fy2015",
+    "title": "Resultados do exercício encerrado em março de 2015",
+    "url": "https://www.nintendo.co.jp/ir/en/events/150508summary/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-furukawa",
+    "title": "Mudança de presidência anunciada em 2018",
+    "url": "https://www.nintendo.co.jp/ir/pdf/2018/180426_5e.pdf",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-switch2",
+    "title": "Especificações oficiais do Nintendo Switch 2",
+    "url": "https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-switch2-release",
+    "title": "Nintendo Switch 2 — ficha de lançamento",
+    "url": "https://www.nintendo.com/us/store/products/nintendo-switch-2-system-123669/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-bananza",
+    "title": "Donkey Kong Bananza — ficha oficial",
+    "url": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-switch-compare",
+    "title": "Comparação oficial da família Nintendo Switch",
+    "url": "https://www.nintendo.com/us/gaming-systems/switch/compare/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-switch-lite",
+    "title": "Nintendo Switch Lite — ficha oficial",
+    "url": "https://www.nintendo.com/us/store/products/nintendo-switch-lite-turquoise/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-switch-oled",
+    "title": "Nintendo Switch OLED — informações oficiais",
+    "url": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/55834/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-vb2026",
+    "title": "Nintendo Switch Online: retrospectiva de fevereiro de 2026",
+    "url": "https://www.nintendo.com/au/news-and-articles/nintendo-switch-online-magazine-february-edition-2026/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-vb-announce",
+    "title": "Anúncio de Virtual Boy — Nintendo Classics",
+    "url": "https://www.nintendo.com/us/whatsnew/games-from-the-virtual-boy-system-are-coming-soon-to-nintendo-switch-online-expansion-pack/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-nes",
+    "title": "Arquivo de hardware: Nes",
+    "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Nintendo-Entertainment-System/Nintendo-Entertainment-System-627024.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-game-boy",
+    "title": "Arquivo de hardware: Game Boy",
+    "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Game-Boy/Game-Boy-627031.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-snes",
+    "title": "Arquivo de hardware: Snes",
+    "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Super-Nintendo/Super-Nintendo-627040.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-nintendo-64",
+    "title": "Arquivo de hardware: Nintendo 64",
+    "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Nintendo-64/Nintendo-64-625959.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-game-boy-color",
+    "title": "Arquivo de hardware: Game Boy Color",
+    "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Game-Boy-Color/Game-Boy-Color-627137.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-game-boy-advance",
+    "title": "Arquivo de hardware: Game Boy Advance",
+    "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Game-Boy-Advance/Game-Boy-Advance-627139.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-pokemon-mini",
+    "title": "Arquivo de hardware: Pokemon Mini",
+    "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Pokemon-mini/Pokemon-mini-627132.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-gamecube",
+    "title": "Arquivo de hardware: Gamecube",
+    "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Nintendo-GameCube/Nintendo-GameCube-627129.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-game-boy-advance-sp",
+    "title": "Arquivo de hardware: Game Boy Advance Sp",
+    "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Game-Boy-Advance-SP/Game-Boy-Advance-SP-627141.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-nintendo-ds",
+    "title": "Arquivo de hardware: Nintendo Ds",
+    "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Nintendo-DS/Nintendo-DS-627143.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-game-boy-micro",
+    "title": "Arquivo de hardware: Game Boy Micro",
+    "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Game-Boy-Micro/Game-Boy-Micro-627145.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-nintendo-ds-lite",
+    "title": "Arquivo de hardware: Nintendo Ds Lite",
+    "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Nintendo-DS-Lite/Nintendo-DS-Lite-Nintendo-UK-s-official-site-627147.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-nintendo-dsi",
+    "title": "Arquivo de hardware: Nintendo Dsi",
+    "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Nintendo-DSi/Nintendo-DSi-Nintendo-UK-s-official-site-627151.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-nintendo-dsi-xl",
+    "title": "Arquivo de hardware: Nintendo Dsi Xl",
+    "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Nintendo-DSi-XL/Nintendo-DSi-XL-Nintendo-UK-s-official-site-627153.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-nes-classic",
+    "title": "Arquivo de hardware: Nes Classic",
+    "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Nintendo-Classic-Mini-Nintendo-Entertainment-System/Nintendo-Classic-Mini-Nintendo-Entertainment-System-1171104.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-wii",
+    "title": "Arquivo de hardware: Wii",
+    "url": "https://www.nintendo.com/en-gb/Wii/Wii-94559.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-wii-u",
+    "title": "Arquivo de hardware: Wii U",
+    "url": "https://www.nintendo.com/en-gb/Wii-U/Wii-U-344102.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-wii-mini",
+    "title": "Arquivo de hardware: Wii mini",
+    "url": "https://www.nintendo.com/en-gb/Wii/Wii-mini/Overview/Wii-mini-726559.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-nintendo-3ds",
+    "title": "Arquivo de hardware: Família Nintendo 3DS",
+    "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-3DS-Family/Nintendo-3DS-Family-94560.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-nintendo-3ds-xl",
+    "title": "Arquivo de hardware: Nintendo 3DS XL",
+    "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-3DS-Family/Nintendo-3DS-XL/Nintendo-3DS-XL-727629.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-nintendo-2ds",
+    "title": "Arquivo de hardware: Nintendo 2DS",
+    "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-3DS-Family/Nintendo-2DS/Nintendo-2DS-796712.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-new-nintendo-3ds",
+    "title": "Arquivo de hardware: New Nintendo 3DS",
+    "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-3DS-Family/New-Nintendo-3DS/New-Nintendo-3DS-947717.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-new-nintendo-3ds-xl",
+    "title": "Arquivo de hardware: New Nintendo 3DS XL",
+    "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-3DS-Family/New-Nintendo-3DS-XL/New-Nintendo-3DS-XL-955921.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-mario-history",
+    "title": "Super Mario: cronologia oficial",
+    "url": "https://www.nintendo.com/en-ca/explore/characters/mario/history/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-mario-friends",
+    "title": "Super Mario: personagens",
+    "url": "https://www.nintendo.com/us/explore/characters/mario/friends/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-mario40",
+    "title": "Super Mario Bros.: 40 anos",
+    "url": "https://www.nintendo.com/sg/super-mario-bros-40th/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-mario-world",
+    "title": "Super Mario World — arquivo oficial",
+    "url": "https://www.nintendo.com/en-gb/Games/Super-Nintendo/Super-Mario-World-752133.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-yoshi-interview",
+    "title": "Entrevista: Super Mario World e Yoshi’s Island",
+    "url": "https://www.nintendo.com/pt-pt/Noticias/2017/Outubro/Entrevista-Nintendo-Classic-Mini-SNES-Parte-5-Super-Mario-World-e-Super-Mario-World-2-Yoshi-s-Island-1290850.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-zelda",
+    "title": "The Legend of Zelda: portal oficial e 40º aniversário",
+    "url": "https://www.nintendo.com/us/explore/characters/zelda/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-zelda-triforce",
+    "title": "A Triforce — mitologia oficial de Zelda",
+    "url": "https://www.nintendo.com/us/explore/characters/zelda/triforce/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-zelda-origin",
+    "title": "Iwata Asks: origem de Super Mario e Zelda",
+    "url": "https://iwataasks.nintendo.com/interviews/wii/nsmb/1/3/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-pokemon-history",
+    "title": "História da The Pokémon Company",
+    "url": "https://corporate.pokemon.co.jp/en/aboutus/history/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-pokemon-company",
+    "title": "The Pokémon Company — informações corporativas",
+    "url": "https://corporate.pokemon.co.jp/en/aboutus/",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-pikachu",
+    "title": "Pikachu — Pokédex oficial",
+    "url": "https://www.pokemon.com/us/pokedex/pikachu",
+    "publisher": "The Pokémon Company",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-kirby",
+    "title": "Kirby: personagens e história — Nintendo Korea",
+    "url": "https://www.nintendo.com/kr/character/kirby/about/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-kirby-home",
+    "title": "Kirby — portal oficial",
+    "url": "https://kirby.nintendo.com/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-kirby-deluxe",
+    "title": "Kirby’s Return to Dream Land Deluxe",
+    "url": "https://www.nintendo.com/pt-br/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-dedede",
+    "title": "Rei Dedede — perfil oficial",
+    "url": "https://www.nintendo.com/us/amiibo/detail/king-dedede-amiibo-kirby-series/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-metroid",
+    "title": "Metroid Dread Report: história da saga",
+    "url": "https://metroid.nintendo.com/dread/news/metroid-dread-report-vol-4/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-metroid-design",
+    "title": "Metroid Dread Report: identidade da série 2D",
+    "url": "https://metroid.nintendo.com/dread/news/metroid-dread-report-vol-3/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-animal",
+    "title": "Iwata Asks: um novo começo para Animal Crossing",
+    "url": "https://www.nintendo.com/en-gb/Iwata-Asks/Iwata-Asks-Animal-Crossing-New-Leaf/Animal-Crossing-New-Leaf/1-A-Fresh-Start-for-Animal-Crossing/1-A-Fresh-Start-for-Animal-Crossing-738583.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-isabelle",
+    "title": "Isabelle — perfil oficial",
+    "url": "https://www.nintendo.com/us/amiibo/detail/isabelle-summer-outfit-amiibo-animal-crossing-series/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-pikmin",
+    "title": "Pikmin — arquivo oficial da edição para Wii",
+    "url": "https://www.nintendo.com/en-gb/Games/Wii/NEW-PLAY-CONTROL-Pikmin-282343.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-splatoon",
+    "title": "Splatoon — ficha oficial do Wii U",
+    "url": "https://www.nintendo.com/en-gb/Games/Wii-U-games/Splatoon-892510.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-starfox",
+    "title": "Entrevista: desenvolvimento de Star Fox e Star Fox 2",
+    "url": "https://www.nintendo.com/en-za/News/2017/September/Nintendo-Classic-Mini-SNES-developer-interview-Volume-1-Star-Fox-Star-Fox-2-1273086.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-fzero",
+    "title": "F-Zero — arquivo oficial",
+    "url": "https://www.nintendo.com/pt-pt/Jogos/Super-Nintendo/F-ZERO-277171.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-fireemblem",
+    "title": "Fire Emblem World — história dos jogos",
+    "url": "https://www.nintendo.com/jp/fe/en/history/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-marth",
+    "title": "Marth — Fire Emblem World",
+    "url": "https://www.nintendo.com/jp/fe/en/characters/smashbros/detail/marth01.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-mother",
+    "title": "EarthBound Beginnings — arquivo oficial",
+    "url": "https://www.nintendo.com/en-gb/Games/NES/EarthBound-Beginnings-1025416.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-earthbound",
+    "title": "EarthBound — arquivo oficial",
+    "url": "https://www.nintendo.com/en-gb/Games/Super-Nintendo/EarthBound-771110.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-smash",
+    "title": "Super Smash Bros. — arquivo oficial do Nintendo 64",
+    "url": "https://www.nintendo.com/pt-pt/Jogos/Nintendo-64/Super-Smash-Bros-269756.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-kidicarus",
+    "title": "Kid Icarus — arquivo oficial",
+    "url": "https://www.nintendo.com/en-gb/Games/NES/Kid-Icarus-777613.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-wars",
+    "title": "Famicom Wars — informações de lançamento",
+    "url": "https://gamefaqs.gamespot.com/nes/578628-famicom-wars/data",
+    "publisher": "GameFAQs / GameSpot",
+    "accessed": "2026-10-17",
+    "type": "secondary"
+  },
+  {
+    "id": "h-goldensun",
+    "title": "Golden Sun e The Lost Age — Nintendo Switch Online",
+    "url": "https://www.nintendo.com/en-ca/whatsnew/new-update-a-pair-of-golden-games-have-been-added-for-nintendo-switch-online-expansion-pack-members/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-xenoblade",
+    "title": "Xenoblade Chronicles — arquivo oficial do Wii",
+    "url": "https://www.nintendo.com/en-gb/Games/Wii/Xenoblade-Chronicles-284070.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-rhythm",
+    "title": "Iwata Asks: Rhythm Heaven",
+    "url": "https://iwataasks.nintendo.com/interviews/ds/rhythm-heaven/0/0/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-punchout",
+    "title": "Arcade Archives: Punch-Out!!",
+    "url": "https://www.nintendo.com/us/store/products/arcade-archives-punch-out-switch/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-luigi",
+    "title": "Luigi’s Mansion — história e relançamento",
+    "url": "https://www.nintendo.com/us/whatsnew/luigis-mansion-takes-up-residence-on-nintendo-classics-oct-30/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-wiisports",
+    "title": "Wii Sports — arquivo oficial",
+    "url": "https://www.nintendo.com/en-gb/Games/Wii/Wii-Sports-283971.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-excitebike",
+    "title": "Arcade Archives: Excitebike",
+    "url": "https://www.nintendo.com/us/store/products/arcade-archives-excitebike-switch/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-zelda-history",
+    "title": "Zelda: histórico oficial dos lançamentos japoneses",
+    "url": "https://www.nintendo.com/jp/character/zelda/history/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-metroid-archive",
+    "title": "Metroid Dread Report 4: retrospectiva da saga",
+    "url": "https://www.nintendo.com/en-gb/News/2021/August/Metroid-Dread-Report-Vol-4-Unravelling-a-saga-35-years-in-the-making-2018281.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-luigi-debut",
+    "title": "Iwata Asks: a estreia de Luigi em 1983",
+    "url": "https://iwataasks.nintendo.com/interviews/wiiu/new-super-luigi-u/0/1/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-waluigi",
+    "title": "Boas-vindas ao maravilhoso mundo de Waluigi",
+    "url": "https://www.nintendo.com/pt-br/whatsnew/boas-vindas-ao-maravilhoso-mundo-de-waluigi/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-dkc",
+    "title": "Donkey Kong Country: arquivo do Super Nintendo",
+    "url": "https://www.nintendo.com/en-gb/Games/Super-Nintendo/Donkey-Kong-Country-276896.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-dk-history",
+    "title": "Conheça o rei das bananas: história de Donkey Kong",
+    "url": "https://www.nintendo.com/pt-br/whatsnew/conheca-o-rei-das-bananas/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-rosalina",
+    "title": "Super Mario Galaxy: estreia de Rosalina",
+    "url": "https://www.nintendo.com/en-gb/Games/Wii/Super-Mario-Galaxy-283322.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-mario-land",
+    "title": "Super Mario Land: Sarasaland e Daisy",
+    "url": "https://www.nintendo.com/en-gb/Games/Game-Boy/Super-Mario-Land-275902.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-mario-land2",
+    "title": "Super Mario Land 2: arquivo japonês e Wario",
+    "url": "https://www.nintendo.com/jp/character/mario/archives/land2/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-kirby-about",
+    "title": "Kirby: perfil e catálogo histórico oficial",
+    "url": "https://kirby.nintendo.com/about/",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-kirby-copy",
+    "title": "Iwata Asks: origem das habilidades de cópia",
+    "url": "https://www.nintendo.com/en-gb/Iwata-Asks/Iwata-Asks-Kirby-s-Adventure-Wii/Iwata-Asks-Kirby-s-Adventure-Wii/2-Programmers-Never-Say-No/2-Programmers-Never-Say-No-230204.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-kirby-dream-land",
+    "title": "Kirby’s Dream Land: história e Rei Dedede",
+    "url": "https://www.nintendo.com/en-gb/Games/Game-Boy/Kirby-s-Dream-Land-275682.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-wars-official",
+    "title": "Famicom Wars: arquivo oficial de 1988",
+    "url": "https://www.nintendo.com/jp/famicom/software/hvc-fw/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-yoshi-eggs",
+    "title": "Yoshi no Tamago: arquivo oficial de 1991",
+    "url": "https://www.nintendo.com/jp/famicom/software/fmc-yeg/index.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-kimishima",
+    "title": "Mudanças na gestão: nomeação de Tatsumi Kimishima",
+    "url": "https://www.nintendo.co.jp/ir/pdf/2015/150914e.pdf",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  },
+  {
+    "id": "h-museum-direct",
+    "title": "Nintendo Museum Direct: abertura em outubro de 2024",
+    "url": "https://www.nintendo.com/en-gb/News/Nintendo-Direct/2024/Nintendo-Museum-Direct-August-20th-2024-2643142.html",
+    "publisher": "Nintendo",
+    "accessed": "2026-10-17",
+    "type": "primary"
+  }
+]

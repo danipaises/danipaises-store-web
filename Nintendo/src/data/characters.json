@@ -1,0 +1,442 @@
+[
+  {
+    "id": "mario",
+    "name": "Mario",
+    "franchise": "mario",
+    "debut": 1981,
+    "description": "Herói do Reino Cogumelo, reconhecido pelo boné vermelho, bigode e habilidade de saltar. Estreia em Donkey Kong como Jumpman.",
+    "sourceIds": [
+      "h-mario-friends",
+      "h-dk-history"
+    ],
+    "evolution": [
+      {
+        "year": 1981,
+        "title": "Donkey Kong",
+        "description": "Primeira aparição no arcade, em uma apresentação de poucos pixels."
+      },
+      {
+        "year": 1985,
+        "title": "Super Mario Bros.",
+        "description": "A aventura lateral organiza o Reino Cogumelo e suas transformações."
+      },
+      {
+        "year": 1996,
+        "title": "Super Mario 64",
+        "description": "Movimentação livre em cenários tridimensionais."
+      },
+      {
+        "year": 2017,
+        "title": "Super Mario Odyssey",
+        "description": "Cappy amplia as possibilidades de movimento e interação."
+      }
+    ]
+  },
+  {
+    "id": "luigi",
+    "name": "Luigi",
+    "franchise": "mario",
+    "debut": 1983,
+    "description": "Irmão de Mario, identificado pela roupa verde. Apesar do receio de fantasmas, protagoniza investigações em Luigi’s Mansion.",
+    "sourceIds": [
+      "h-luigi-debut",
+      "h-mario-friends",
+      "h-luigi"
+    ],
+    "evolution": [
+      {
+        "year": 1983,
+        "title": "Mario Bros.",
+        "description": "Surge como parceiro de Mario."
+      },
+      {
+        "year": 2001,
+        "title": "Luigi’s Mansion",
+        "description": "Assume uma aventura própria de exploração e captura de fantasmas."
+      }
+    ]
+  },
+  {
+    "id": "peach",
+    "name": "Princesa Peach",
+    "franchise": "mario",
+    "debut": 1985,
+    "description": "Princesa do Reino Cogumelo, amiga de Mario e participante de aventuras e disputas esportivas.",
+    "sourceIds": [
+      "h-mario40",
+      "h-mario-friends"
+    ]
+  },
+  {
+    "id": "toad",
+    "name": "Toad",
+    "franchise": "mario",
+    "debut": 1985,
+    "description": "Habitante do Reino Cogumelo e ajudante de Peach. Seu chapéu apresenta pintas vermelhas; outros Toads têm cores variadas.",
+    "sourceIds": [
+      "h-mario40",
+      "h-mario-friends"
+    ]
+  },
+  {
+    "id": "bowser",
+    "name": "Bowser",
+    "franchise": "mario",
+    "debut": 1985,
+    "description": "Rei dos Koopas e adversário recorrente de Mario, capaz de usar força e soprar fogo.",
+    "sourceIds": [
+      "h-mario40",
+      "h-mario-friends"
+    ]
+  },
+  {
+    "id": "yoshi",
+    "name": "Yoshi",
+    "franchise": "yoshi",
+    "debut": 1990,
+    "description": "Companheiro de Mario que usa a língua para apanhar inimigos e pode produzir ovos para lançar. Estreia em Super Mario World.",
+    "sourceIds": [
+      "h-mario-world",
+      "h-yoshi-interview",
+      "h-mario-friends"
+    ],
+    "evolution": [
+      {
+        "year": 1990,
+        "title": "Super Mario World",
+        "description": "Acompanha Mario na aventura do Super Famicom."
+      },
+      {
+        "year": 1995,
+        "title": "Yoshi’s Island",
+        "description": "É protagonista na jornada com Baby Mario e ganha outra linguagem visual."
+      }
+    ]
+  },
+  {
+    "id": "daisy",
+    "name": "Daisy",
+    "franchise": "mario",
+    "debut": 1989,
+    "description": "Princesa de Sarasaland, apresentada em Super Mario Land; também participa de esportes e festas do universo Mario.",
+    "sourceIds": [
+      "h-mario-land",
+      "h-mario-friends"
+    ]
+  },
+  {
+    "id": "wario",
+    "name": "Wario",
+    "franchise": "wario",
+    "debut": 1992,
+    "description": "Rival autoproclamado de Mario, conhecido pelo boné amarelo, bigode anguloso e interesse em dinheiro.",
+    "sourceIds": [
+      "h-mario-land2",
+      "h-mario-friends"
+    ],
+    "evolution": [
+      {
+        "year": 1992,
+        "title": "Super Mario Land 2",
+        "description": "Aparece como rival de Mario."
+      },
+      {
+        "year": 1994,
+        "title": "Wario Land",
+        "description": "Passa a protagonizar sua própria linha de aventuras."
+      }
+    ]
+  },
+  {
+    "id": "waluigi",
+    "name": "Waluigi",
+    "franchise": "mario",
+    "debut": 2000,
+    "description": "Parceiro de Wario e rival declarado de Luigi. Sua primeira participação ocorre em Mario Tennis, no Nintendo 64.",
+    "sourceIds": [
+      "h-waluigi",
+      "h-mario-friends"
+    ]
+  },
+  {
+    "id": "rosalina",
+    "name": "Rosalina",
+    "franchise": "mario",
+    "debut": 2007,
+    "description": "Viajante cósmica ligada às Lumas. É apresentada em Super Mario Galaxy.",
+    "sourceIds": [
+      "h-rosalina",
+      "h-mario-friends"
+    ]
+  },
+  {
+    "id": "donkey-kong",
+    "name": "Donkey Kong",
+    "franchise": "donkey-kong",
+    "debut": 1981,
+    "description": "Personagem associado à força, barris e bananas. O nome reúne uma história que vai dos arcades à família Country.",
+    "sourceIds": [
+      "h-dk-history",
+      "h-mario-friends"
+    ],
+    "evolution": [
+      {
+        "year": 1981,
+        "title": "Donkey Kong",
+        "description": "O arcade introduz o nome e o confronto com Jumpman."
+      },
+      {
+        "year": 1994,
+        "title": "Donkey Kong Country",
+        "description": "A aventura de plataforma adota sprites pré-renderizados e a parceria com Diddy."
+      },
+      {
+        "year": 2025,
+        "title": "Donkey Kong Bananza",
+        "description": "Cenários 3D destrutíveis ampliam as possibilidades de ação."
+      }
+    ]
+  },
+  {
+    "id": "diddy-kong",
+    "name": "Diddy Kong",
+    "franchise": "donkey-kong",
+    "debut": 1994,
+    "description": "Ágil parceiro de Donkey Kong, reconhecido pelo boné vermelho e pela camiseta com estrelas. É apresentado em Donkey Kong Country.",
+    "sourceIds": [
+      "h-dkc",
+      "h-mario-friends"
+    ]
+  },
+  {
+    "id": "link",
+    "name": "Link",
+    "franchise": "zelda",
+    "debut": 1986,
+    "description": "Nome de heróis de diferentes épocas de Hyrule. Suas encarnações enfrentam perigos e participam de histórias ligadas à Coragem.",
+    "sourceIds": [
+      "h-zelda-history",
+      "h-zelda-triforce"
+    ],
+    "evolution": [
+      {
+        "year": 1986,
+        "title": "The Legend of Zelda",
+        "description": "A jornada original usa vista superior e exploração de um território aberto."
+      },
+      {
+        "year": 1998,
+        "title": "Ocarina of Time",
+        "description": "Uma encarnação é apresentada em uma aventura tridimensional."
+      },
+      {
+        "year": 2017,
+        "title": "Breath of the Wild",
+        "description": "Exploração e experimentação ganham outra escala em Hyrule."
+      }
+    ]
+  },
+  {
+    "id": "zelda",
+    "name": "Zelda",
+    "franchise": "zelda",
+    "debut": 1986,
+    "description": "Nome de personagens centrais de diferentes épocas da saga. A princesa é associada à Sabedoria e tem papéis distintos conforme o jogo.",
+    "sourceIds": [
+      "h-zelda-history",
+      "h-zelda-triforce"
+    ]
+  },
+  {
+    "id": "ganon",
+    "name": "Ganon",
+    "franchise": "zelda",
+    "debut": 1986,
+    "description": "Adversário que aparece desde a aventura original. Ganondorf e suas transformações estão ligados à busca de poder na mitologia da série.",
+    "sourceIds": [
+      "h-zelda-history",
+      "h-zelda-triforce"
+    ]
+  },
+  {
+    "id": "impa",
+    "name": "Impa",
+    "franchise": "zelda",
+    "debut": 1986,
+    "description": "Personagem que conecta Link a Zelda na história do primeiro jogo; outras versões assumem papéis diferentes em épocas posteriores.",
+    "sourceIds": [
+      "h-zelda-history"
+    ]
+  },
+  {
+    "id": "marin",
+    "name": "Marin",
+    "franchise": "zelda",
+    "debut": 1993,
+    "description": "Jovem de Koholint que encontra Link após o naufrágio em Link’s Awakening. Seu gosto por cantar marca a aventura.",
+    "sourceIds": [
+      "h-zelda-history"
+    ]
+  },
+  {
+    "id": "midna",
+    "name": "Midna",
+    "franchise": "zelda",
+    "debut": 2006,
+    "description": "Companheira misteriosa de Link em Twilight Princess, ligada ao mundo do crepúsculo e à transformação do herói.",
+    "sourceIds": [
+      "h-zelda-history"
+    ]
+  },
+  {
+    "id": "kirby",
+    "name": "Kirby",
+    "franchise": "kirby",
+    "debut": 1992,
+    "description": "Herói que aspira inimigos e flutua. A habilidade de copiar poderes surge depois de sua estreia em Kirby’s Dream Land.",
+    "sourceIds": [
+      "h-kirby",
+      "h-kirby-about",
+      "h-kirby-copy"
+    ],
+    "evolution": [
+      {
+        "year": 1992,
+        "title": "Kirby’s Dream Land",
+        "description": "A estreia utiliza a tela monocromática do Game Boy."
+      },
+      {
+        "year": 1993,
+        "title": "Kirby’s Adventure",
+        "description": "As habilidades de cópia acrescentam novas maneiras de jogar."
+      },
+      {
+        "year": 2022,
+        "title": "Kirby and the Forgotten Land",
+        "description": "Uma aventura de plataforma integralmente 3D muda a exploração."
+      }
+    ]
+  },
+  {
+    "id": "rei-dedede",
+    "name": "Rei Dedede",
+    "franchise": "kirby",
+    "debut": 1992,
+    "description": "Autoproclamado rei de Dream Land, usa um grande martelo. Pode ser adversário ou aliado de Kirby.",
+    "sourceIds": [
+      "h-kirby-dream-land",
+      "h-dedede"
+    ]
+  },
+  {
+    "id": "pikachu",
+    "name": "Pikachu",
+    "franchise": "pokemon",
+    "debut": 1996,
+    "description": "Pokémon do tipo Elétrico, registrado como número 0025 na Pokédex Nacional. Suas bochechas armazenam eletricidade.",
+    "sourceIds": [
+      "h-pikachu",
+      "h-pokemon-history"
+    ]
+  },
+  {
+    "id": "samus",
+    "name": "Samus Aran",
+    "franchise": "metroid",
+    "debut": 1986,
+    "description": "Caçadora de recompensas e protagonista de Metroid. Sua armadura adquire recursos que permitem enfrentar ameaças e alcançar novas áreas.",
+    "sourceIds": [
+      "h-metroid-archive"
+    ],
+    "evolution": [
+      {
+        "year": 1986,
+        "title": "Metroid",
+        "description": "Investiga o planeta Zebes na aventura original."
+      },
+      {
+        "year": 2004,
+        "title": "Metroid: Zero Mission",
+        "description": "A origem recebe uma recriação no Game Boy Advance."
+      },
+      {
+        "year": 2021,
+        "title": "Metroid Dread",
+        "description": "A saga 2D continua após os acontecimentos de Fusion."
+      }
+    ]
+  },
+  {
+    "id": "marth",
+    "name": "Marth",
+    "franchise": "fire-emblem",
+    "debut": 1990,
+    "description": "Príncipe de Altea e protagonista do primeiro Fire Emblem. Sua trajetória estabelece uma das linhagens de heróis da série.",
+    "sourceIds": [
+      "h-marth",
+      "h-fireemblem"
+    ]
+  },
+  {
+    "id": "ness",
+    "name": "Ness",
+    "franchise": "earthbound",
+    "debut": 1994,
+    "description": "Garoto de Onett que parte com companheiros em EarthBound, usando habilidades psíquicas e objetos cotidianos em sua jornada.",
+    "sourceIds": [
+      "h-earthbound"
+    ]
+  },
+  {
+    "id": "pit",
+    "name": "Pit",
+    "franchise": "kid-icarus",
+    "debut": 1986,
+    "description": "Protagonista de Kid Icarus, associado à defesa de Angel Land e à deusa Palutena.",
+    "sourceIds": [
+      "h-kidicarus"
+    ]
+  },
+  {
+    "id": "olimar",
+    "name": "Olimar",
+    "franchise": "pikmin",
+    "debut": 2001,
+    "description": "Explorador espacial que comanda os Pikmin para superar obstáculos e reunir peças de sua nave.",
+    "sourceIds": [
+      "h-pikmin",
+      "h-europe"
+    ]
+  },
+  {
+    "id": "isabelle",
+    "name": "Isabelle",
+    "franchise": "animal-crossing",
+    "debut": 2012,
+    "description": "Assistente introduzida em Animal Crossing: New Leaf. Ajuda na administração da cidade e nas tarefas do prefeito.",
+    "sourceIds": [
+      "h-isabelle",
+      "h-animal"
+    ]
+  },
+  {
+    "id": "tom-nook",
+    "name": "Tom Nook",
+    "franchise": "animal-crossing",
+    "debut": 2001,
+    "description": "Personagem ligado à loja, às casas e à vida comunitária. Sua função acompanha as mudanças de cada Animal Crossing.",
+    "sourceIds": [
+      "h-animal"
+    ]
+  },
+  {
+    "id": "inkling",
+    "name": "Inkling",
+    "franchise": "splatoon",
+    "debut": 2015,
+    "description": "Habitante de Splatoon que alterna entre forma humanoide e forma de lula, usando tinta para combater e se deslocar.",
+    "sourceIds": [
+      "h-splatoon"
+    ]
+  }
+]

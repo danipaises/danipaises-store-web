@@ -1,0 +1,26 @@
+{
+  "id": "/nintendo/",
+  "name": "Nintendo Universe",
+  "short_name": "N. Universe",
+  "description": "Museu digital e enciclopédia independente da Nintendo em português brasileiro.",
+  "lang": "pt-BR",
+  "start_url": "/nintendo/",
+  "scope": "/nintendo/",
+  "display": "standalone",
+  "background_color": "#f7f6f2",
+  "theme_color": "#e60012",
+  "icons": [
+    {
+      "src": "/nintendo/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/nintendo/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

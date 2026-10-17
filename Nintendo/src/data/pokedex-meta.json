@@ -1,0 +1,6 @@
+{
+  "source": "https://github.com/PokeAPI/pokeapi/tree/master/data/v2/csv",
+  "retrievedAt": "2026-10-17",
+  "records": 1025,
+  "scope": "Espécies; forma padrão atual. Sem formas regionais, megas, sprites ou texto de jogos. Tipos atuais, não tipos históricos de cada geração."
+}

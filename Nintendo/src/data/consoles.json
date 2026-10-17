@@ -1,0 +1,1038 @@
+[
+  {
+    "id": "color-tv-game",
+    "name": "Color TV-Game",
+    "year": 1977,
+    "type": "Dedicado",
+    "description": "Os primeiros videogames domésticos da Nintendo, com jogos integrados.",
+    "history": [
+      "TV-Game 6 e TV-Game 15 inauguraram essa linha em 1977. O desenvolvimento envolveu a Mitsubishi Electric."
+    ],
+    "specs": {
+      "Mídia": "Jogos integrados",
+      "Uso": "Conectado à televisão"
+    },
+    "releases": {
+      "Japão": "1977"
+    },
+    "models": [
+      "TV-Game 6",
+      "TV-Game 15"
+    ],
+    "accessories": [],
+    "legacy": "Marca a entrada da Nintendo no mercado doméstico de videogames.",
+    "sourceIds": [
+      "h-corporate",
+      "h-europe"
+    ]
+  },
+  {
+    "id": "game-and-watch",
+    "name": "Game & Watch",
+    "year": 1980,
+    "type": "Dedicado",
+    "description": "Jogos eletrônicos de bolso com tela LCD e relógio.",
+    "history": [
+      "A série chegou em 1980. Gunpei Yokoi teve papel central em seu desenvolvimento. Cada aparelho oferecia jogos próprios, sem cartuchos intercambiáveis."
+    ],
+    "specs": {
+      "Tela": "LCD",
+      "Mídia": "Jogos integrados",
+      "Recurso": "Relógio"
+    },
+    "releases": {
+      "Japão": "1980"
+    },
+    "models": [
+      "Modelos de tela única",
+      "Modelos de duas telas"
+    ],
+    "accessories": [],
+    "legacy": "Contribuiu para a experiência da Nintendo em jogos portáteis.",
+    "sourceIds": [
+      "h-corporate",
+      "h-virtualboy"
+    ]
+  },
+  {
+    "id": "nes",
+    "name": "Famicom / NES",
+    "year": 1983,
+    "type": "Doméstico",
+    "description": "O sistema de cartuchos que abrigou Super Mario Bros., Zelda e Metroid.",
+    "history": [
+      "Lançado como Family Computer no Japão, ganhou outro desenho e o nome Nintendo Entertainment System em mercados internacionais.",
+      "O controle com direcional, A, B, Start e Select tornou-se uma referência de interface."
+    ],
+    "specs": {
+      "Mídia": "Cartuchos",
+      "Controle": "Direcional, A, B, Start e Select"
+    },
+    "releases": {
+      "Japão": "1983",
+      "Europa": "1986"
+    },
+    "models": [
+      "Family Computer",
+      "Nintendo Entertainment System"
+    ],
+    "accessories": [
+      "R.O.B.",
+      "Zapper",
+      "Family Computer Disk System"
+    ],
+    "legacy": "Ajudou a consolidar franquias e padrões de controle que atravessaram gerações.",
+    "sourceIds": [
+      "h-nes",
+      "h-corporate",
+      "h-europe"
+    ]
+  },
+  {
+    "id": "famicom-disk-system",
+    "name": "Family Computer Disk System",
+    "year": 1986,
+    "type": "Doméstico",
+    "description": "Expansão do Famicom para jogos em discos regraváveis.",
+    "history": [
+      "O acessório foi lançado no Japão em 1986. A Nintendo também instalou máquinas Disk Writer para regravação de software."
+    ],
+    "specs": {
+      "Mídia": "Disk Cards",
+      "Dependência": "Requer Famicom"
+    },
+    "releases": {
+      "Japão": "1986"
+    },
+    "models": [],
+    "accessories": [
+      "Adaptador de RAM"
+    ],
+    "legacy": "Foi a plataforma original de The Legend of Zelda e Metroid no Japão.",
+    "sourceIds": [
+      "h-europe",
+      "h-zelda-origin",
+      "h-metroid"
+    ],
+    "parentId": "nes"
+  },
+  {
+    "id": "game-boy",
+    "name": "Game Boy",
+    "year": 1989,
+    "type": "Portátil",
+    "description": "Cartuchos intercambiáveis e uma tela monocromática para jogar em qualquer lugar.",
+    "history": [
+      "O Game Boy chegou ao Japão em 1989. Tetris, Super Mario Land e Pokémon fizeram parte de sua trajetória."
+    ],
+    "specs": {
+      "Tela": "LCD de 160 × 144 pixels, quatro tons",
+      "Alimentação": "4 pilhas AA",
+      "Mídia": "Cartuchos"
+    },
+    "releases": {
+      "Japão": "1989",
+      "Europa": "1990"
+    },
+    "models": [
+      "Game Boy original",
+      "Play It Loud!",
+      "Game Boy Pocket"
+    ],
+    "accessories": [
+      "Game Link Cable",
+      "Game Boy Camera",
+      "Game Boy Printer"
+    ],
+    "legacy": "Estabeleceu uma longa família de portáteis com amplo catálogo.",
+    "sourceIds": [
+      "h-game-boy",
+      "h-europe"
+    ]
+  },
+  {
+    "id": "snes",
+    "name": "Super Famicom / Super Nintendo",
+    "year": 1990,
+    "type": "Doméstico",
+    "description": "A geração de Super Mario World, Super Metroid e Donkey Kong Country.",
+    "history": [
+      "O Super Famicom estreou no Japão em 1990. A versão Super Nintendo chegou à Europa em 1992.",
+      "Efeitos de rotação e escala e chips adicionais em cartuchos permitiram experimentos visuais distintos."
+    ],
+    "specs": {
+      "Mídia": "Cartuchos",
+      "Controle": "Direcional, A/B/X/Y, L/R, Start e Select",
+      "Destaque gráfico": "Rotação e escala de cenários com Mode 7"
+    },
+    "releases": {
+      "Japão": "1990",
+      "Europa": "1992"
+    },
+    "models": [
+      "Super Famicom",
+      "Super Nintendo Entertainment System"
+    ],
+    "accessories": [
+      "Super Game Boy",
+      "Super Scope",
+      "Super NES Mouse"
+    ],
+    "legacy": "Combinou arte em pixels com experiências poligonais como Star Fox.",
+    "sourceIds": [
+      "h-snes",
+      "h-corporate"
+    ]
+  },
+  {
+    "id": "virtual-boy",
+    "name": "Virtual Boy",
+    "year": 1995,
+    "type": "Doméstico",
+    "description": "Um aparelho de mesa com visor estereoscópico em vermelho e preto.",
+    "history": [
+      "Lançado em 1995, propôs profundidade por imagens diferentes para cada olho.",
+      "Em Iwata Asks, Miyamoto discute as expectativas e as dificuldades de apresentar o produto. Sua história não deve ser confundida com a de um headset moderno."
+    ],
+    "specs": {
+      "Imagem": "Estereoscopia, vermelho e preto",
+      "Mídia": "Cartuchos",
+      "Uso": "Visor apoiado em suporte"
+    },
+    "releases": {
+      "Japão": "1995"
+    },
+    "models": [
+      "Virtual Boy"
+    ],
+    "accessories": [
+      "Suporte de mesa",
+      "Controle próprio"
+    ],
+    "legacy": "Um experimento comercialmente limitado, importante para estudar as tentativas de 3D da Nintendo.",
+    "sourceIds": [
+      "h-virtualboy"
+    ]
+  },
+  {
+    "id": "nintendo-64",
+    "name": "Nintendo 64",
+    "year": 1996,
+    "type": "Doméstico",
+    "description": "Mundos tridimensionais, controle analógico e quatro entradas de controle.",
+    "history": [
+      "A estreia japonesa ocorreu em 23 de junho de 1996. O sistema recebeu aventuras como Super Mario 64 e Ocarina of Time."
+    ],
+    "specs": {
+      "Mídia": "Cartuchos",
+      "Controles": "4 entradas",
+      "Controle principal": "Alavanca analógica e gatilho Z"
+    },
+    "releases": {
+      "Japão": "23/06/1996",
+      "Europa": "03/1997"
+    },
+    "models": [
+      "Modelo original",
+      "Cores translúcidas",
+      "Edição Pikachu"
+    ],
+    "accessories": [
+      "Rumble Pak",
+      "Transfer Pak",
+      "Expansion Pak"
+    ],
+    "legacy": "Popularizou experiências de exploração em 3D e partidas locais para quatro participantes.",
+    "sourceIds": [
+      "h-nintendo-64",
+      "h-europe"
+    ]
+  },
+  {
+    "id": "game-boy-pocket",
+    "name": "Game Boy Pocket",
+    "year": 1996,
+    "type": "Portátil",
+    "description": "Uma revisão menor do Game Boy original.",
+    "history": [
+      "A linha Pocket reduziu o tamanho do aparelho e adotou duas pilhas AAA. A página europeia de hardware registra sua chegada local em 1997; a cronologia geral situa o lançamento inicial em 1996."
+    ],
+    "specs": {
+      "Mídia": "Cartuchos de Game Boy",
+      "Alimentação": "2 pilhas AAA",
+      "Tela": "Monocromática"
+    },
+    "releases": {
+      "Lançamento inicial": "1996",
+      "Europa": "1997"
+    },
+    "models": [
+      "Game Boy Pocket"
+    ],
+    "accessories": [
+      "Cabo Game Link com adaptador compatível"
+    ],
+    "legacy": "Preservou o catálogo enquanto tornou o portátil mais compacto.",
+    "sourceIds": [
+      "h-game-boy",
+      "h-europe"
+    ],
+    "parentId": "game-boy"
+  },
+  {
+    "id": "game-boy-color",
+    "name": "Game Boy Color",
+    "year": 1998,
+    "type": "Portátil",
+    "description": "A família Game Boy passa a ter jogos em cores.",
+    "history": [
+      "Lançado em 1998, recebeu jogos próprios e manteve a compatibilidade com cartuchos do Game Boy original."
+    ],
+    "specs": {
+      "Tela": "LCD colorida",
+      "Mídia": "Cartuchos",
+      "Alimentação": "2 pilhas AA"
+    },
+    "releases": {
+      "Lançamento inicial": "1998"
+    },
+    "models": [
+      "Cores opacas",
+      "Cor translúcida",
+      "Edições Pokémon"
+    ],
+    "accessories": [
+      "Game Link Cable",
+      "Game Boy Camera",
+      "Game Boy Printer"
+    ],
+    "legacy": "Fez a transição da biblioteca monocromática para novas produções em cores.",
+    "sourceIds": [
+      "h-game-boy-color",
+      "h-europe"
+    ]
+  },
+  {
+    "id": "game-boy-advance",
+    "name": "Game Boy Advance",
+    "year": 2001,
+    "type": "Portátil",
+    "description": "A geração de 32 bits da família Game Boy.",
+    "history": [
+      "A estreia ocorreu em março de 2001 no Japão. O aparelho horizontal incluiu botões de ombro e conexão com jogos compatíveis de GameCube."
+    ],
+    "specs": {
+      "Arquitetura": "32 bits",
+      "Mídia": "Cartuchos",
+      "Alimentação": "2 pilhas AA"
+    },
+    "releases": {
+      "Japão": "21/03/2001",
+      "Estados Unidos": "11/06/2001",
+      "Europa": "22/06/2001"
+    },
+    "models": [
+      "Game Boy Advance",
+      "Game Boy Advance SP",
+      "Game Boy micro"
+    ],
+    "accessories": [
+      "Game Link Cable",
+      "Cabo GameCube–Game Boy Advance",
+      "e-Reader"
+    ],
+    "legacy": "Expandiu a produção portátil de jogos de ação, estratégia e RPG.",
+    "sourceIds": [
+      "h-game-boy-advance",
+      "h-europe"
+    ]
+  },
+  {
+    "id": "gamecube",
+    "name": "Nintendo GameCube",
+    "year": 2001,
+    "type": "Doméstico",
+    "description": "O console compacto de discos ópticos e controle com botão A em destaque.",
+    "history": [
+      "O GameCube estreou em 2001 no Japão e nos Estados Unidos; chegou à Europa em 2002.",
+      "A conexão com o Game Boy Advance podia transferir dados ou transformá-lo em dispositivo de entrada, conforme o jogo."
+    ],
+    "specs": {
+      "Mídia": "Discos ópticos próprios",
+      "Processamento": "CPU desenvolvida com IBM; chip gráfico com ATI",
+      "Controles": "4 entradas"
+    },
+    "releases": {
+      "Japão": "14/09/2001",
+      "Estados Unidos": "18/11/2001",
+      "Europa": "03/05/2002"
+    },
+    "models": [
+      "Modelos roxo e preto",
+      "Outras cores e edições regionais"
+    ],
+    "accessories": [
+      "WaveBird",
+      "Game Boy Player",
+      "Cabo GameCube–GBA"
+    ],
+    "legacy": "Casa de Luigi’s Mansion, Pikmin e Metroid Prime, com experiências de conexão entre consoles.",
+    "sourceIds": [
+      "h-gamecube",
+      "h-europe"
+    ]
+  },
+  {
+    "id": "pokemon-mini",
+    "name": "Pokémon mini",
+    "year": 2001,
+    "type": "Portátil",
+    "description": "Um minúsculo sistema de cartuchos dedicado ao universo Pokémon.",
+    "history": [
+      "Seu catálogo combinou quebra-cabeças e minijogos. Sensor de movimento e vibração faziam parte do próprio aparelho."
+    ],
+    "specs": {
+      "Dimensões": "74 × 58 × 23 mm",
+      "Peso": "Aproximadamente 70 g, com bateria e cartucho",
+      "Recursos": "Relógio, vibração e sensor de impacto"
+    },
+    "releases": {
+      "Europa": "15/03/2002"
+    },
+    "models": [
+      "Verde",
+      "Roxo",
+      "Azul"
+    ],
+    "accessories": [],
+    "legacy": "Mostra a exploração de formatos de hardware além das grandes linhas domésticas.",
+    "sourceIds": [
+      "h-pokemon-mini",
+      "h-pokemon-history",
+      "h-europe"
+    ]
+  },
+  {
+    "id": "game-boy-advance-sp",
+    "name": "Game Boy Advance SP",
+    "year": 2003,
+    "type": "Portátil",
+    "description": "Formato dobrável, iluminação e bateria recarregável.",
+    "history": [
+      "O SP reorganizou a experiência do Game Boy Advance em um aparelho que fecha sobre a tela. Manteve a compatibilidade com jogos Game Boy e Game Boy Advance."
+    ],
+    "specs": {
+      "Formato": "Dobrável",
+      "Bateria": "Íons de lítio recarregável",
+      "Tela": "Com iluminação integrada"
+    },
+    "releases": {
+      "Europa": "03/2003"
+    },
+    "models": [
+      "Game Boy Advance SP",
+      "Revisões com iluminação diferente"
+    ],
+    "accessories": [
+      "Carregador",
+      "Cabo Game Link",
+      "Cabo GameCube–GBA"
+    ],
+    "legacy": "Tornou iluminação e recarga características centrais da linha.",
+    "sourceIds": [
+      "h-game-boy-advance-sp",
+      "h-europe"
+    ],
+    "parentId": "game-boy-advance"
+  },
+  {
+    "id": "nintendo-ds",
+    "name": "Nintendo DS",
+    "year": 2004,
+    "type": "Portátil",
+    "description": "Duas telas, toque e microfone abrem outras formas de jogar.",
+    "history": [
+      "Lançado nos Estados Unidos e no Japão em 2004, o DS chegou à Europa em março de 2005. A tela inferior podia receber toques com a caneta ou o dedo."
+    ],
+    "specs": {
+      "Telas": "2 LCDs iluminados; inferior sensível ao toque",
+      "Mídia": "Cartões DS e cartuchos GBA",
+      "Áudio": "Microfone integrado"
+    },
+    "releases": {
+      "Estados Unidos": "2004",
+      "Japão": "2004",
+      "Europa": "11/03/2005"
+    },
+    "models": [
+      "Nintendo DS",
+      "Nintendo DS Lite",
+      "Nintendo DSi",
+      "Nintendo DSi XL"
+    ],
+    "accessories": [
+      "Caneta stylus",
+      "Carregador"
+    ],
+    "legacy": "Combinou controles tradicionais, toque e comunicação sem fio.",
+    "sourceIds": [
+      "h-nintendo-ds",
+      "h-europe"
+    ]
+  },
+  {
+    "id": "game-boy-micro",
+    "name": "Game Boy micro",
+    "year": 2005,
+    "type": "Portátil",
+    "description": "Uma versão de bolso especialmente compacta para jogos de Game Boy Advance.",
+    "history": [
+      "O micro foi apresentado em 2005, com tela iluminada e brilho ajustável. Seu foco foi o catálogo GBA."
+    ],
+    "specs": {
+      "Tela": "2 polegadas, 240 × 160 pixels",
+      "Dimensões": "101 × 50 × 17,2 mm",
+      "Peso": "Aproximadamente 80 g com bateria"
+    },
+    "releases": {
+      "Lançamento inicial": "2005"
+    },
+    "models": [
+      "Game Boy micro"
+    ],
+    "accessories": [
+      "Cabo de comunicação próprio",
+      "Adaptador para conexão com GBA"
+    ],
+    "legacy": "Uma experiência de miniaturização no fim da família Game Boy.",
+    "sourceIds": [
+      "h-game-boy-micro",
+      "h-europe"
+    ],
+    "parentId": "game-boy-advance"
+  },
+  {
+    "id": "nintendo-ds-lite",
+    "name": "Nintendo DS Lite",
+    "year": 2006,
+    "type": "Portátil",
+    "description": "Revisão mais fina da proposta de duas telas do DS.",
+    "history": [
+      "O DS Lite conservou tela sensível ao toque, microfone e entrada para cartuchos GBA, além dos cartões DS."
+    ],
+    "specs": {
+      "Telas": "2 telas iluminadas",
+      "Compatibilidade": "DS e jogos GBA em modo individual",
+      "Entrada": "Toque, botões e microfone"
+    },
+    "releases": {
+      "Europa": "06/2006"
+    },
+    "models": [
+      "Nintendo DS Lite"
+    ],
+    "accessories": [
+      "Stylus",
+      "Carregador"
+    ],
+    "legacy": "Refinou o formato que levou a família DS a públicos diversos.",
+    "sourceIds": [
+      "h-nintendo-ds-lite",
+      "h-europe"
+    ],
+    "parentId": "nintendo-ds"
+  },
+  {
+    "id": "wii",
+    "name": "Wii",
+    "year": 2006,
+    "type": "Doméstico",
+    "description": "Movimentos e apontamento passam ao centro da experiência.",
+    "history": [
+      "O Wii estreou em 2006. Wii Sports apresentou esportes com gestos do Wii Remote.",
+      "Controles e acessórios permitiram propostas distintas, como Wii Fit e Wii Sports Resort. A necessidade de Nunchuk ou MotionPlus depende de cada jogo."
+    ],
+    "specs": {
+      "Controle": "Wii Remote; Nunchuk em jogos compatíveis",
+      "Mídia": "Discos ópticos",
+      "Interface": "Menus com ponteiro e avatares Mii"
+    },
+    "releases": {
+      "Lançamento inicial": "2006"
+    },
+    "models": [
+      "Wii original",
+      "Revisões posteriores",
+      "Wii mini"
+    ],
+    "accessories": [
+      "Nunchuk",
+      "Wii MotionPlus",
+      "Wii Balance Board",
+      "Wii Wheel"
+    ],
+    "legacy": "Atraiu pessoas que não tinham o hábito de jogar e tornou os controles por movimento amplamente conhecidos.",
+    "sourceIds": [
+      "h-wii",
+      "h-wiisports",
+      "h-europe"
+    ]
+  },
+  {
+    "id": "nintendo-dsi",
+    "name": "Nintendo DSi",
+    "year": 2008,
+    "type": "Portátil",
+    "description": "Câmeras, áudio e software distribuído digitalmente na família DS.",
+    "history": [
+      "O DSi apareceu no Japão em 2008. Aplicativos de fotografia e áudio e o catálogo DSiWare ampliaram os usos do portátil. As lojas e serviços históricos não devem ser presumidos ativos."
+    ],
+    "specs": {
+      "Câmeras": "2 câmeras",
+      "Armazenamento": "Memória interna e cartão SD",
+      "Recursos": "DSi Camera e DSi Sound"
+    },
+    "releases": {
+      "Japão": "2008",
+      "Europa": "04/2009"
+    },
+    "models": [
+      "Nintendo DSi",
+      "Nintendo DSi XL"
+    ],
+    "accessories": [
+      "Cartão SD",
+      "Stylus",
+      "Carregador"
+    ],
+    "legacy": "Aproximou o portátil de uma plataforma de aplicativos e downloads.",
+    "sourceIds": [
+      "h-nintendo-dsi",
+      "h-corporate",
+      "h-europe"
+    ],
+    "parentId": "nintendo-ds"
+  },
+  {
+    "id": "nintendo-dsi-xl",
+    "name": "Nintendo DSi XL",
+    "year": 2009,
+    "type": "Portátil",
+    "description": "A proposta do DSi em telas maiores.",
+    "history": [
+      "Conhecido como DSi LL no Japão, o modelo destacou telas maiores e um ângulo de visão que facilita acompanhar outra pessoa jogando."
+    ],
+    "specs": {
+      "Telas": "Maiores que as do DSi",
+      "Câmeras": "2 câmeras",
+      "Armazenamento": "Memória interna e cartão SD"
+    },
+    "releases": {
+      "Europa": "03/2010"
+    },
+    "models": [
+      "Nintendo DSi LL",
+      "Nintendo DSi XL"
+    ],
+    "accessories": [
+      "Stylus",
+      "Cartão SD",
+      "Carregador"
+    ],
+    "legacy": "Explorou conforto e visibilidade como alternativas à miniaturização.",
+    "sourceIds": [
+      "h-nintendo-dsi-xl",
+      "h-europe"
+    ],
+    "parentId": "nintendo-ds"
+  },
+  {
+    "id": "nintendo-3ds",
+    "name": "Nintendo 3DS",
+    "year": 2011,
+    "type": "Portátil",
+    "description": "Duas telas e imagem estereoscópica sem óculos.",
+    "history": [
+      "Lançado em 2011, o 3DS introduziu profundidade ajustável na tela superior. A família cresceu com modelos XL, 2DS e New Nintendo 3DS."
+    ],
+    "specs": {
+      "Imagem": "3D estereoscópico sem óculos na tela superior",
+      "Entrada": "Botões, analógico e tela inferior sensível ao toque",
+      "Mídia": "Cartões de jogo"
+    },
+    "releases": {
+      "Lançamento inicial": "2011"
+    },
+    "models": [
+      "Nintendo 3DS",
+      "Nintendo 3DS XL",
+      "Nintendo 2DS",
+      "New Nintendo 3DS"
+    ],
+    "accessories": [
+      "Stylus",
+      "Carregador",
+      "Cartão SD"
+    ],
+    "legacy": "Reuniu novas aventuras portáteis e releituras de jogos anteriores.",
+    "sourceIds": [
+      "h-nintendo-3ds",
+      "h-corporate"
+    ]
+  },
+  {
+    "id": "nintendo-3ds-xl",
+    "name": "Nintendo 3DS XL",
+    "year": 2012,
+    "type": "Portátil",
+    "description": "Uma versão do 3DS com telas maiores.",
+    "history": [
+      "A revisão XL ampliou as telas da família em 2012, preservando a experiência estereoscópica."
+    ],
+    "specs": {
+      "Imagem": "3D sem óculos",
+      "Formato": "Dobrável",
+      "Telas": "Maiores que as do Nintendo 3DS original"
+    },
+    "releases": {
+      "Europa": "07/2012"
+    },
+    "models": [
+      "Nintendo 3DS XL"
+    ],
+    "accessories": [
+      "Stylus",
+      "Cartão SD",
+      "Carregador"
+    ],
+    "legacy": "Ofereceu outra relação entre portabilidade e tamanho de imagem.",
+    "sourceIds": [
+      "h-nintendo-3ds-xl",
+      "h-europe"
+    ],
+    "parentId": "nintendo-3ds"
+  },
+  {
+    "id": "wii-u",
+    "name": "Wii U",
+    "year": 2012,
+    "type": "Doméstico",
+    "description": "O GamePad levou uma segunda tela aos jogos de televisão.",
+    "history": [
+      "O Wii U foi lançado em 2012 como o primeiro console doméstico em alta definição da Nintendo.",
+      "Em março de 2014, a empresa reconheceu crescimento lento do negócio Wii U. Esse desempenho integra a história comercial do sistema, ao lado de seus jogos e experiências com duas telas."
+    ],
+    "specs": {
+      "Imagem": "Alta definição",
+      "Controle": "Wii U GamePad com tela sensível ao toque",
+      "Mídia": "Discos ópticos e downloads"
+    },
+    "releases": {
+      "Lançamento inicial": "2012"
+    },
+    "models": [
+      "Basic",
+      "Premium / Deluxe"
+    ],
+    "accessories": [
+      "Wii U Pro Controller",
+      "Wii Remote",
+      "Nunchuk"
+    ],
+    "legacy": "Experimentou jogabilidade assimétrica; vários de seus jogos ganharam novas versões em plataformas seguintes.",
+    "sourceIds": [
+      "h-wii-u",
+      "h-fy2014",
+      "h-europe"
+    ]
+  },
+  {
+    "id": "wii-mini",
+    "name": "Wii mini",
+    "year": 2012,
+    "type": "Doméstico",
+    "description": "Uma revisão simplificada para jogos Wii em disco.",
+    "history": [
+      "O Wii mini reduziu funcionalidades da plataforma. Não oferece acesso à internet e não reproduz jogos de Nintendo GameCube."
+    ],
+    "specs": {
+      "Mídia": "Discos Wii",
+      "Rede": "Sem acesso à internet",
+      "Compatibilidade": "Jogos Wii; sem jogos GameCube"
+    },
+    "releases": {
+      "Europa": "2013"
+    },
+    "models": [
+      "Wii mini"
+    ],
+    "accessories": [
+      "Wii Remote Plus",
+      "Nunchuk"
+    ],
+    "legacy": "Ilustra como revisões podem simplificar um sistema em vez de ampliar seus recursos.",
+    "sourceIds": [
+      "h-wii-mini"
+    ],
+    "parentId": "wii"
+  },
+  {
+    "id": "nintendo-2ds",
+    "name": "Nintendo 2DS",
+    "year": 2013,
+    "type": "Portátil",
+    "description": "Jogos de Nintendo 3DS apresentados em 2D.",
+    "history": [
+      "O Nintendo 2DS ofereceu acesso à biblioteca 3DS sem o efeito estereoscópico. Seu desenho original não é dobrável."
+    ],
+    "specs": {
+      "Imagem": "2D",
+      "Formato": "Corpo único",
+      "Compatibilidade": "Jogos Nintendo 3DS em 2D e jogos DS compatíveis"
+    },
+    "releases": {
+      "Lançamento inicial": "2013"
+    },
+    "models": [
+      "Nintendo 2DS"
+    ],
+    "accessories": [
+      "Stylus",
+      "Cartão SD",
+      "Carregador"
+    ],
+    "legacy": "Ampliou as opções de entrada na família 3DS.",
+    "sourceIds": [
+      "h-nintendo-2ds",
+      "h-europe"
+    ],
+    "parentId": "nintendo-3ds"
+  },
+  {
+    "id": "new-nintendo-3ds",
+    "name": "New Nintendo 3DS",
+    "year": 2014,
+    "type": "Portátil",
+    "description": "Controles adicionais e melhorias dentro da família 3DS.",
+    "history": [
+      "Lançado em 2014 no Japão, trouxe C Stick, botões ZL/ZR, leitura de amiibo e melhorias no efeito 3D. Alguns jogos exigem um modelo New."
+    ],
+    "specs": {
+      "Controles adicionais": "C Stick, ZL e ZR",
+      "NFC": "Leitura de amiibo",
+      "Imagem": "3D com acompanhamento da posição do rosto"
+    },
+    "releases": {
+      "Japão": "2014",
+      "Europa": "2015"
+    },
+    "models": [
+      "New Nintendo 3DS"
+    ],
+    "accessories": [
+      "Capas intercambiáveis",
+      "amiibo",
+      "Cartão microSD"
+    ],
+    "legacy": "Uma revisão que também criou diferenças de compatibilidade dentro da mesma família.",
+    "sourceIds": [
+      "h-new-nintendo-3ds",
+      "h-corporate"
+    ],
+    "parentId": "nintendo-3ds"
+  },
+  {
+    "id": "new-nintendo-3ds-xl",
+    "name": "New Nintendo 3DS XL",
+    "year": 2014,
+    "type": "Portátil",
+    "description": "A versão de telas maiores da revisão New Nintendo 3DS.",
+    "history": [
+      "Conservou os controles e recursos adicionais da revisão New em um corpo maior."
+    ],
+    "specs": {
+      "Controles adicionais": "C Stick, ZL e ZR",
+      "NFC": "Leitura de amiibo",
+      "Formato": "Dobrável, telas maiores"
+    },
+    "releases": {
+      "Japão": "2014",
+      "Europa": "2015"
+    },
+    "models": [
+      "New Nintendo 3DS LL",
+      "New Nintendo 3DS XL"
+    ],
+    "accessories": [
+      "amiibo",
+      "Stylus",
+      "Cartão microSD"
+    ],
+    "legacy": "Combina telas grandes e o conjunto ampliado de recursos da linha New.",
+    "sourceIds": [
+      "h-new-nintendo-3ds-xl",
+      "h-fy2015"
+    ],
+    "parentId": "nintendo-3ds"
+  },
+  {
+    "id": "nes-classic",
+    "name": "NES Classic Mini",
+    "year": 2016,
+    "type": "Dedicado",
+    "description": "Uma miniatura do NES com uma seleção de jogos instalada.",
+    "history": [
+      "O lançamento de 2016 revisitou o formato do NES em um sistema dedicado. Ele utiliza jogos integrados, em vez de cartuchos originais."
+    ],
+    "specs": {
+      "Mídia": "30 jogos integrados",
+      "Saída": "HDMI",
+      "Controle": "Formato inspirado no controle NES"
+    },
+    "releases": {
+      "Lançamento inicial": "2016"
+    },
+    "models": [
+      "Nintendo Classic Mini: NES",
+      "NES Classic Edition"
+    ],
+    "accessories": [
+      "Controle NES Classic"
+    ],
+    "legacy": "Uma iniciativa de republicação do catálogo histórico em hardware dedicado.",
+    "sourceIds": [
+      "h-nes-classic"
+    ]
+  },
+  {
+    "id": "switch",
+    "name": "Nintendo Switch",
+    "year": 2017,
+    "type": "Híbrido",
+    "description": "Uma biblioteca que acompanha o jogador entre a televisão e o modo portátil.",
+    "history": [
+      "O Nintendo Switch estreou em 2017. Joy-Con removíveis permitem diferentes configurações de uso."
+    ],
+    "specs": {
+      "Tela": "LCD de 6,2 polegadas",
+      "Armazenamento": "32 GB, parcialmente reservado ao sistema",
+      "Modos": "TV, semiportátil e portátil"
+    },
+    "releases": {
+      "Lançamento inicial": "2017"
+    },
+    "models": [
+      "Nintendo Switch",
+      "Nintendo Switch Lite",
+      "Nintendo Switch OLED"
+    ],
+    "accessories": [
+      "Joy-Con",
+      "Dock",
+      "Pro Controller"
+    ],
+    "legacy": "Unificou a proposta doméstica e portátil em uma plataforma.",
+    "sourceIds": [
+      "h-corporate",
+      "h-switch-compare"
+    ]
+  },
+  {
+    "id": "switch-lite",
+    "name": "Nintendo Switch Lite",
+    "year": 2019,
+    "type": "Portátil",
+    "description": "Uma versão da família Switch dedicada ao uso portátil.",
+    "history": [
+      "O Lite chegou em setembro de 2019 com controles integrados. A compatibilidade deve ser verificada por jogo, pois alguns exigem acessórios separados."
+    ],
+    "specs": {
+      "Tela": "LCD de 5,5 polegadas",
+      "Armazenamento": "32 GB, parcialmente reservado ao sistema",
+      "Saída para TV": "Não disponível"
+    },
+    "releases": {
+      "Estados Unidos": "20/09/2019"
+    },
+    "models": [
+      "Nintendo Switch Lite"
+    ],
+    "accessories": [
+      "Joy-Con externos em jogos compatíveis",
+      "Carregador USB-C"
+    ],
+    "legacy": "Ofereceu uma alternativa mais compacta dentro do catálogo Switch.",
+    "sourceIds": [
+      "h-switch-lite",
+      "h-switch-compare"
+    ],
+    "parentId": "switch"
+  },
+  {
+    "id": "switch-oled",
+    "name": "Nintendo Switch – Modelo OLED",
+    "year": 2021,
+    "type": "Híbrido",
+    "description": "Tela OLED maior e uma base com conexão de rede cabeada.",
+    "history": [
+      "O modelo OLED chegou em outubro de 2021 em diversos mercados. A atualização enfatizou tela, apoio e armazenamento."
+    ],
+    "specs": {
+      "Tela": "OLED de 7 polegadas",
+      "Armazenamento": "64 GB, parcialmente reservado ao sistema",
+      "Dock": "Porta LAN integrada"
+    },
+    "releases": {
+      "Estados Unidos": "08/10/2021",
+      "Canadá": "08/10/2021"
+    },
+    "models": [
+      "Nintendo Switch OLED"
+    ],
+    "accessories": [
+      "Joy-Con",
+      "Dock com LAN",
+      "Pro Controller"
+    ],
+    "legacy": "Refinou a experiência sem inaugurar uma nova geração de software.",
+    "sourceIds": [
+      "h-switch-oled",
+      "h-switch-compare"
+    ],
+    "parentId": "switch"
+  },
+  {
+    "id": "switch-2",
+    "name": "Nintendo Switch 2",
+    "year": 2025,
+    "type": "Híbrido",
+    "description": "A segunda geração híbrida, com Joy-Con 2 e recursos de mouse.",
+    "history": [
+      "O lançamento ocorreu em junho de 2025. O sistema mantém o uso na TV e fora dela, com controles que se conectam magneticamente.",
+      "A ficha oficial especifica a capacidade de saída; resolução e taxa de quadros efetivas dependem do jogo e da configuração."
+    ],
+    "specs": {
+      "Tela": "LCD de 7,9 polegadas, 1920 × 1080; HDR10 e VRR até 120 Hz",
+      "Armazenamento": "256 GB UFS, parcialmente reservado ao sistema",
+      "Saída para TV": "Até 4K a 60 quadros/s; até 120 quadros/s em 1080p ou 1440p",
+      "Expansão": "microSD Express",
+      "Processador": "NVIDIA personalizado"
+    },
+    "releases": {
+      "Estados Unidos": "05/06/2025"
+    },
+    "models": [
+      "Nintendo Switch 2"
+    ],
+    "accessories": [
+      "Joy-Con 2",
+      "Nintendo Switch 2 Camera",
+      "Nintendo Switch 2 Pro Controller"
+    ],
+    "legacy": "Continua a proposta híbrida e amplia as formas de entrada e comunicação.",
+    "sourceIds": [
+      "h-switch2",
+      "h-switch2-release"
+    ]
+  }
+]

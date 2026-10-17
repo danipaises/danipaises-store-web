@@ -1,0 +1,2 @@
+import { defineConfig } from 'vite';
+export default defineConfig({base:"/nintendo/",server:{host:'0.0.0.0',port:4173,allowedHosts:['terminal.local']},preview:{host:'0.0.0.0',port:4173,allowedHosts:['terminal.local']},build:{outDir:'../nintendo',emptyOutDir:true,target:'es2022',rollupOptions:{output:{manualChunks(id){if(id.includes('node_modules/react'))return 'react';if(id.includes('src/data/games.json'))return 'catalogo';if(id.includes('-sources.json'))return 'fontes';}}}}});

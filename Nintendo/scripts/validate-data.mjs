@@ -1,0 +1,13 @@
+import fs from 'node:fs';
+const read=name=>JSON.parse(fs.readFileSync(`src/data/${name}.json`,'utf8'));
+const games=read('games'),consoles=read('consoles'),franchises=read('franchises'),characters=read('characters'),history=read('history'),quiz=read('quiz'),media=read('media');const sources=[...read('game-sources'),...read('history-sources')];const errors=[];
+const sourceIds=new Set(sources.map(s=>s.id)),franchiseIds=new Set(franchises.map(f=>f.id)),consoleIds=new Set(consoles.map(c=>c.id)),gameIds=new Set(games.map(g=>g.id));
+for(const [name,list] of Object.entries({games,consoles,franchises,characters,history,quiz,media,sources})){
+ const ids=new Set();for(const item of list){if(!item.id||ids.has(item.id))errors.push(`${name}: ID ausente/duplicado ${item.id}`);ids.add(item.id);if(item.sourceIds){if(!item.sourceIds.length)errors.push(`${name}/${item.id}: sem fontes`);for(const source of item.sourceIds)if(!sourceIds.has(source))errors.push(`${name}/${item.id}: fonte inexistente ${source}`)}if(item.franchise&&!franchiseIds.has(item.franchise))errors.push(`${name}/${item.id}: franquia inexistente ${item.franchise}`);if(item.consoleId&&!consoleIds.has(item.consoleId))errors.push(`${name}/${item.id}: console inexistente ${item.consoleId}`);if(item.year&&(!Number.isInteger(item.year)||item.year<1889||item.year>2026))errors.push(`${name}/${item.id}: ano inválido`)}
+}
+for(const g of games){if(!g.title||!g.description||!Array.isArray(g.platforms)||!g.platforms.length)errors.push(`Jogo incompleto: ${g.id}`);if(g.depth==='deep'&&Object.keys(g.details||{}).length<2)errors.push(`Artigo sem aprofundamento: ${g.id}`);for(const id of g.relatedIds||[])if(!gameIds.has(id))errors.push(`Relação de jogo inexistente: ${g.id} → ${id}`)}
+for(const c of consoles)if(c.parentId&&!consoleIds.has(c.parentId))errors.push(`Console pai inexistente: ${c.id}`);
+for(const q of quiz){if(q.options.length!==4||new Set(q.options).size!==4||!Number.isInteger(q.answer)||q.answer<0||q.answer>3||!q.explanation)errors.push(`Quiz inválido: ${q.id}`)}
+for(const m of media){if(!m.src.startsWith('/media/')||!fs.existsSync('public'+m.src))errors.push(`Foto ausente: ${m.src}`);if(!m.author||!m.license||!m.licenseUrl||!m.sourceUrl)errors.push(`Créditos incompletos: ${m.id}`)}
+const poke=read('pokedex');if(poke.length<1000||new Set(poke.map(p=>p.id)).size!==poke.length)errors.push('Pokédex inválida');
+if(errors.length){console.error(errors.join('\n'));process.exit(1)}console.log(JSON.stringify({status:'PASS',games:games.length,consoles:consoles.length,franchises:franchises.length,characters:characters.length,events:history.length,quiz:quiz.length,images:media.length,pokemon:poke.length,sources:sources.length}));

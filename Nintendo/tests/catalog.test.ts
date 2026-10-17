@@ -1,0 +1,8 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import {games,consoles,events,characters,questions,getRoutes,pageMeta,normalize,matches,gameMatches,getConsoleGames} from '../src/lib/catalog';
+test('toda entidade tem rota individual única e título descritivo',()=>{const routes=getRoutes();assert.equal(new Set(routes).size,routes.length);for(const g of games){assert.ok(routes.includes('/jogos/'+g.id));assert.ok(pageMeta('/jogos/'+g.id).title.includes(g.title))}for(const c of consoles)assert.ok(routes.includes('/consoles/'+c.id));for(const c of characters)assert.ok(routes.includes('/personagens/'+c.id))});
+test('busca normaliza acentos, reconhece termos compostos e gêneros',()=>{assert.equal(normalize('Pokémon'),'pokemon');assert.ok(matches('ação 1985','Ação','1985'));assert.ok(!matches('mario 1997','Mario','1985'));const mario=games.find(g=>g.title==='Super Mario Bros.')!;assert.ok(gameMatches(mario,'mario 1985'));assert.ok(gameMatches(mario,mario.genres[0]));assert.ok(!gameMatches(mario,'galaxy 2025'))});
+test('consoles retornam jogos realmente vinculados à plataforma',()=>{const nes=consoles.find(c=>c.id==='nes')!;const found=getConsoleGames(nes);assert.ok(found.some(g=>g.title==='Super Mario Bros.'));assert.ok(!found.some(g=>g.title==='Super Mario Odyssey'))});
+test('linha do tempo começa em 1889 e não inventa futuro',()=>{assert.equal(Math.min(...events.map(e=>e.year)),1889);assert.ok(Math.max(...events.map(e=>e.year))<=2026)});
+test('quiz oferece quatro alternativas distintas e resposta documentada',()=>{assert.ok(questions.length>=40);for(const q of questions){assert.equal(q.options.length,4);assert.equal(new Set(q.options).size,4);assert.ok(q.answer>=0&&q.answer<4);assert.ok(q.sourceIds.length&&q.explanation)}});

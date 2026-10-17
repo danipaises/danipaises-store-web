@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-17",
+  "metric": {
+    "games": 509,
+    "deep": 16,
+    "basic": 493,
+    "consoles": 32,
+    "franchises": 25,
+    "characters": 29,
+    "events": 58,
+    "questions": 44,
+    "images": 20,
+    "pokemon": 1025
+  },
+  "byFranchise": [
+    {
+      "name": "Super Mario",
+      "games": 142,
+      "deep": 8
+    },
+    {
+      "name": "The Legend of Zelda",
+      "games": 37,
+      "deep": 4
+    },
+    {
+      "name": "Pokémon",
+      "games": 91,
+      "deep": 1
+    },
+    {
+      "name": "Kirby",
+      "games": 39,
+      "deep": 1
+    },
+    {
+      "name": "Donkey Kong",
+      "games": 30,
+      "deep": 1
+    },
+    {
+      "name": "Metroid",
+      "games": 17,
+      "deep": 1
+    },
+    {
+      "name": "Animal Crossing",
+      "games": 11,
+      "deep": 0
+    },
+    {
+      "name": "Pikmin",
+      "games": 10,
+      "deep": 0
+    },
+    {
+      "name": "Splatoon",
+      "games": 4,
+      "deep": 0
+    },
+    {
+      "name": "Star Fox",
+      "games": 10,
+      "deep": 0
+    },
+    {
+      "name": "F-Zero",
+      "games": 7,
+      "deep": 0
+    },
+    {
+      "name": "Fire Emblem",
+      "games": 24,
+      "deep": 0
+    },
+    {
+      "name": "EarthBound / Mother",
+      "games": 3,
+      "deep": 0
+    },
+    {
+      "name": "Yoshi",
+      "games": 14,
+      "deep": 0
+    },
+    {
+      "name": "Wario",
+      "games": 21,
+      "deep": 0
+    },
+    {
+      "name": "Super Smash Bros.",
+      "games": 6,
+      "deep": 0
+    },
+    {
+      "name": "Kid Icarus",
+      "games": 3,
+      "deep": 0
+    },
+    {
+      "name": "Wars / Advance Wars",
+      "games": 5,
+      "deep": 0
+    },
+    {
+      "name": "Golden Sun",
+      "games": 3,
+      "deep": 0
+    },
+    {
+      "name": "Xenoblade Chronicles",
+      "games": 8,
+      "deep": 0
+    },
+    {
+      "name": "Rhythm Heaven",
+      "games": 5,
+      "deep": 0
+    },
+    {
+      "name": "Punch-Out!!",
+      "games": 5,
+      "deep": 0
+    },
+    {
+      "name": "Luigi’s Mansion",
+      "games": 5,
+      "deep": 0
+    },
+    {
+      "name": "Wii Sports",
+      "games": 4,
+      "deep": 0
+    },
+    {
+      "name": "Excitebike",
+      "games": 5,
+      "deep": 0
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://danipaises.com.br/nintendo/sitemap.xml

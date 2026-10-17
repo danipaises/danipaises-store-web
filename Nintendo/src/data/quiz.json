@@ -1,0 +1,759 @@
+[
+  {
+    "id": "fundacao",
+    "category": "História",
+    "difficulty": "Fácil",
+    "question": "Em que ano começou a trajetória da Nintendo?",
+    "options": [
+      "1889",
+      "1949",
+      "1977",
+      "1983"
+    ],
+    "answer": 0,
+    "explanation": "Fusajiro Yamauchi começou a fabricar e vender cartas Hanafuda em Kyoto em 1889.",
+    "sourceIds": [
+      "h-corporate"
+    ]
+  },
+  {
+    "id": "hanafuda",
+    "category": "História",
+    "difficulty": "Fácil",
+    "question": "Qual produto está ligado à origem da Nintendo?",
+    "options": [
+      "Televisores",
+      "Cartas Hanafuda",
+      "Rádios portáteis",
+      "Discos de música"
+    ],
+    "answer": 1,
+    "explanation": "As cartas Hanafuda antecedem em muitas décadas os videogames da empresa.",
+    "sourceIds": [
+      "h-corporate"
+    ]
+  },
+  {
+    "id": "fundador",
+    "category": "História",
+    "difficulty": "Médio",
+    "question": "Quem iniciou a fabricação de cartas da Nintendo em 1889?",
+    "options": [
+      "Satoru Iwata",
+      "Gunpei Yokoi",
+      "Fusajiro Yamauchi",
+      "Shigeru Miyamoto"
+    ],
+    "answer": 2,
+    "explanation": "O fundador foi Fusajiro Yamauchi, em Kyoto.",
+    "sourceIds": [
+      "h-corporate"
+    ]
+  },
+  {
+    "id": "ultra-hand",
+    "category": "História",
+    "difficulty": "Difícil",
+    "question": "Qual produto se associa ao trabalho de Gunpei Yokoi antes dos videogames?",
+    "options": [
+      "Wii Balance Board",
+      "Super Scope",
+      "Rumble Pak",
+      "Ultra Hand"
+    ],
+    "answer": 3,
+    "explanation": "O Ultra Hand é um braço mecânico extensível da fase de brinquedos da Nintendo.",
+    "sourceIds": [
+      "h-ultra"
+    ]
+  },
+  {
+    "id": "museu-local",
+    "category": "História",
+    "difficulty": "Médio",
+    "question": "Em qual cidade fica o Nintendo Museum?",
+    "options": [
+      "Uji",
+      "Osaka",
+      "Tóquio",
+      "Nagoya"
+    ],
+    "answer": 0,
+    "explanation": "O museu ocupa uma instalação histórica da Nintendo em Uji, na região de Kyoto.",
+    "sourceIds": [
+      "h-museum"
+    ]
+  },
+  {
+    "id": "museu-ano",
+    "category": "História",
+    "difficulty": "Médio",
+    "question": "Em que ano o Nintendo Museum abriu?",
+    "options": [
+      "2017",
+      "2024",
+      "2020",
+      "2025"
+    ],
+    "answer": 1,
+    "explanation": "A história corporativa registra a abertura do museu em 2024.",
+    "sourceIds": [
+      "h-corporate",
+      "h-museum"
+    ]
+  },
+  {
+    "id": "nso-ano",
+    "category": "História",
+    "difficulty": "Difícil",
+    "question": "Em que ano começou o serviço Nintendo Switch Online?",
+    "options": [
+      "2015",
+      "2017",
+      "2018",
+      "2021"
+    ],
+    "answer": 2,
+    "explanation": "O serviço foi iniciado em 2018, depois do lançamento do console em 2017.",
+    "sourceIds": [
+      "h-corporate"
+    ]
+  },
+  {
+    "id": "mario-debut",
+    "category": "Mario",
+    "difficulty": "Fácil",
+    "question": "Em qual jogo Mario fez sua primeira aparição?",
+    "options": [
+      "Super Mario Bros.",
+      "Mario Kart",
+      "Super Mario Land",
+      "Donkey Kong"
+    ],
+    "answer": 3,
+    "explanation": "Mario estreou em Donkey Kong, em 1981, com o nome Jumpman.",
+    "sourceIds": [
+      "h-dk-history"
+    ]
+  },
+  {
+    "id": "luigi-estreia",
+    "category": "Mario",
+    "difficulty": "Médio",
+    "question": "Qual jogo apresentou Luigi em 1983?",
+    "options": [
+      "Mario Bros.",
+      "Super Mario 64",
+      "Luigi’s Mansion",
+      "Super Mario World"
+    ],
+    "answer": 0,
+    "explanation": "A entrevista oficial sobre New Super Luigi U identifica Mario Bros. como sua estreia.",
+    "sourceIds": [
+      "h-luigi-debut"
+    ]
+  },
+  {
+    "id": "daisy",
+    "category": "Mario",
+    "difficulty": "Médio",
+    "question": "De qual reino Daisy é princesa?",
+    "options": [
+      "Hyrule",
+      "Sarasaland",
+      "Dream Land",
+      "Altea"
+    ],
+    "answer": 1,
+    "explanation": "Daisy é a princesa de Sarasaland, cenário de Super Mario Land.",
+    "sourceIds": [
+      "h-mario-friends",
+      "h-mario-land"
+    ]
+  },
+  {
+    "id": "rosalina",
+    "category": "Mario",
+    "difficulty": "Médio",
+    "question": "Em qual aventura Rosalina é apresentada?",
+    "options": [
+      "Super Mario Sunshine",
+      "Super Mario 3D Land",
+      "Super Mario Galaxy",
+      "Super Mario Bros. 3"
+    ],
+    "answer": 2,
+    "explanation": "Rosalina faz sua estreia em Super Mario Galaxy.",
+    "sourceIds": [
+      "h-rosalina"
+    ]
+  },
+  {
+    "id": "waluigi",
+    "category": "Mario",
+    "difficulty": "Difícil",
+    "question": "Qual jogo marcou a estreia de Waluigi?",
+    "options": [
+      "Mario Party",
+      "Wario Land",
+      "Mario Kart 64",
+      "Mario Tennis para Nintendo 64"
+    ],
+    "answer": 3,
+    "explanation": "Waluigi foi apresentado em Mario Tennis, para Nintendo 64.",
+    "sourceIds": [
+      "h-waluigi"
+    ]
+  },
+  {
+    "id": "wario",
+    "category": "Mario",
+    "difficulty": "Médio",
+    "question": "Em qual jogo Wario aparece como um novo rival de Mario?",
+    "options": [
+      "Super Mario Land 2: 6 Golden Coins",
+      "Super Mario Galaxy",
+      "Super Mario Bros.",
+      "Mario Bros."
+    ],
+    "answer": 0,
+    "explanation": "Wario é o rival de Super Mario Land 2, lançado originalmente em 1992.",
+    "sourceIds": [
+      "h-mario-land2",
+      "h-mario40"
+    ]
+  },
+  {
+    "id": "yoshi",
+    "category": "Mario",
+    "difficulty": "Fácil",
+    "question": "Qual jogo apresentou Yoshi?",
+    "options": [
+      "Super Mario Sunshine",
+      "Super Mario World",
+      "Super Mario Land",
+      "Super Mario Bros. 2"
+    ],
+    "answer": 1,
+    "explanation": "Yoshi foi apresentado em Super Mario World, originalmente lançado no Japão em 1990.",
+    "sourceIds": [
+      "h-mario-world",
+      "h-yoshi-interview"
+    ]
+  },
+  {
+    "id": "zelda-heroi",
+    "category": "Zelda",
+    "difficulty": "Fácil",
+    "question": "Qual é o nome mais recorrente dos heróis controlados na série Zelda?",
+    "options": [
+      "Marth",
+      "Ness",
+      "Link",
+      "Olimar"
+    ],
+    "answer": 2,
+    "explanation": "Link é o nome dos heróis de diversas épocas da série; não se trata necessariamente da mesma pessoa.",
+    "sourceIds": [
+      "h-zelda-triforce"
+    ]
+  },
+  {
+    "id": "zelda-triforce",
+    "category": "Zelda",
+    "difficulty": "Fácil",
+    "question": "Qual trio representa as partes da Triforce?",
+    "options": [
+      "Água, fogo e terra",
+      "Tempo, espaço e luz",
+      "Força, sorte e velocidade",
+      "Poder, Sabedoria e Coragem"
+    ],
+    "answer": 3,
+    "explanation": "A Triforce é formada pelas partes de Poder, Sabedoria e Coragem.",
+    "sourceIds": [
+      "h-zelda-triforce"
+    ]
+  },
+  {
+    "id": "zelda-original",
+    "category": "Zelda",
+    "difficulty": "Difícil",
+    "question": "Em qual sistema o primeiro Zelda estreou no Japão?",
+    "options": [
+      "Famicom Disk System",
+      "Nintendo 64",
+      "Game Boy",
+      "Super Famicom"
+    ],
+    "answer": 0,
+    "explanation": "The Legend of Zelda foi lançado no Famicom Disk System em 21 de fevereiro de 1986.",
+    "sourceIds": [
+      "h-zelda-history"
+    ]
+  },
+  {
+    "id": "koholint",
+    "category": "Zelda",
+    "difficulty": "Médio",
+    "question": "Qual ilha é o cenário central de Link’s Awakening?",
+    "options": [
+      "Delfino",
+      "Koholint",
+      "Wuhu",
+      "Yoshi’s Island"
+    ],
+    "answer": 1,
+    "explanation": "Link chega a Koholint após um naufrágio em Link’s Awakening.",
+    "sourceIds": [
+      "h-zelda-history"
+    ]
+  },
+  {
+    "id": "termina",
+    "category": "Zelda",
+    "difficulty": "Médio",
+    "question": "Que mundo aparece em Majora’s Mask?",
+    "options": [
+      "Sarasaland",
+      "Altea",
+      "Termina",
+      "Hocotate"
+    ],
+    "answer": 2,
+    "explanation": "A aventura de Majora’s Mask se passa em Termina.",
+    "sourceIds": [
+      "h-zelda-history"
+    ]
+  },
+  {
+    "id": "zelda-ordens",
+    "category": "Zelda",
+    "difficulty": "Difícil",
+    "question": "Qual afirmação distingue corretamente duas maneiras de organizar Zelda?",
+    "options": [
+      "Todos os jogos mostram Link na mesma idade.",
+      "A ordem narrativa é idêntica à de lançamento.",
+      "Teorias de fãs são sempre oficiais.",
+      "Datas de lançamento e cronologia narrativa são critérios diferentes."
+    ],
+    "answer": 3,
+    "explanation": "A publicação dos jogos é uma ordem histórica; o tempo do mundo ficcional exige outras fontes e relações.",
+    "sourceIds": [
+      "h-zelda-history",
+      "h-zelda-triforce"
+    ]
+  },
+  {
+    "id": "pokemon-primeiros",
+    "category": "Pokémon",
+    "difficulty": "Fácil",
+    "question": "Quais versões iniciaram Pokémon no Japão em 1996?",
+    "options": [
+      "Red e Green",
+      "Gold e Silver",
+      "Ruby e Sapphire",
+      "X e Y"
+    ],
+    "answer": 0,
+    "explanation": "Pokémon Red e Green foram os primeiros jogos da franquia no Japão.",
+    "sourceIds": [
+      "h-pokemon-history"
+    ]
+  },
+  {
+    "id": "pokemon-estudio",
+    "category": "Pokémon",
+    "difficulty": "Médio",
+    "question": "Qual empresa concebe e desenvolve a série principal Pokémon?",
+    "options": [
+      "Camelot",
+      "Game Freak",
+      "Retro Studios",
+      "Argonaut"
+    ],
+    "answer": 1,
+    "explanation": "A The Pokémon Company identifica a Game Freak como responsável pela concepção original e desenvolvimento da série.",
+    "sourceIds": [
+      "h-pokemon-history"
+    ]
+  },
+  {
+    "id": "pokemon-companhia",
+    "category": "Pokémon",
+    "difficulty": "Difícil",
+    "question": "Quais empresas estabeleceram a antecessora da The Pokémon Company em 1998?",
+    "options": [
+      "Nintendo, Sega e Capcom",
+      "HAL, Rare e Camelot",
+      "Nintendo, Creatures e Game Freak",
+      "Sony, Nintendo e Microsoft"
+    ],
+    "answer": 2,
+    "explanation": "Pokémon Center Co., Ltd. foi estabelecida pelas três empresas em 1998.",
+    "sourceIds": [
+      "h-pokemon-history"
+    ]
+  },
+  {
+    "id": "pikachu-tipo",
+    "category": "Pokémon",
+    "difficulty": "Fácil",
+    "question": "Qual é o tipo de Pikachu?",
+    "options": [
+      "Fogo",
+      "Água",
+      "Planta",
+      "Elétrico"
+    ],
+    "answer": 3,
+    "explanation": "A Pokédex oficial classifica Pikachu como Elétrico.",
+    "sourceIds": [
+      "h-pikachu"
+    ]
+  },
+  {
+    "id": "pikachu-numero",
+    "category": "Pokémon",
+    "difficulty": "Médio",
+    "question": "Qual é o número de Pikachu na Pokédex Nacional?",
+    "options": [
+      "0025",
+      "0001",
+      "0151",
+      "0150"
+    ],
+    "answer": 0,
+    "explanation": "Pikachu ocupa o número 0025 na Pokédex Nacional.",
+    "sourceIds": [
+      "h-pikachu"
+    ]
+  },
+  {
+    "id": "pokemon-xy",
+    "category": "Pokémon",
+    "difficulty": "Difícil",
+    "question": "Quais jogos principais tiveram o primeiro lançamento mundial simultâneo da série em 2013?",
+    "options": [
+      "Ruby e Sapphire",
+      "X e Y",
+      "Gold e Silver",
+      "Red e Blue"
+    ],
+    "answer": 1,
+    "explanation": "O histórico corporativo registra Pokémon X e Y como o primeiro lançamento mundial simultâneo da série.",
+    "sourceIds": [
+      "h-pokemon-history"
+    ]
+  },
+  {
+    "id": "kirby-primeiro",
+    "category": "Kirby",
+    "difficulty": "Fácil",
+    "question": "Em qual jogo Kirby estreou?",
+    "options": [
+      "Kirby Super Star",
+      "Kirby Air Ride",
+      "Kirby’s Dream Land",
+      "Kirby’s Epic Yarn"
+    ],
+    "answer": 2,
+    "explanation": "Kirby’s Dream Land foi lançado no Game Boy em 1992.",
+    "sourceIds": [
+      "h-kirby",
+      "h-kirby-about"
+    ]
+  },
+  {
+    "id": "kirby-copia",
+    "category": "Kirby",
+    "difficulty": "Médio",
+    "question": "Qual jogo introduziu as habilidades de cópia?",
+    "options": [
+      "Kirby’s Dream Land",
+      "Kirby Air Ride",
+      "Kirby’s Dream Course",
+      "Kirby’s Adventure"
+    ],
+    "answer": 3,
+    "explanation": "Kirby’s Adventure, de 1993, acrescentou a habilidade de copiar poderes.",
+    "sourceIds": [
+      "h-kirby-copy"
+    ]
+  },
+  {
+    "id": "dedede",
+    "category": "Kirby",
+    "difficulty": "Fácil",
+    "question": "Qual personagem usa um grande martelo e se declara rei de Dream Land?",
+    "options": [
+      "Rei Dedede",
+      "Olimar",
+      "Fox",
+      "Wario"
+    ],
+    "answer": 0,
+    "explanation": "Rei Dedede é o autoproclamado rei de Dream Land e tem um grande martelo.",
+    "sourceIds": [
+      "h-dedede"
+    ]
+  },
+  {
+    "id": "kirby-colabora",
+    "category": "Kirby",
+    "difficulty": "Médio",
+    "question": "Qual estúdio tem uma ligação central com a série Kirby?",
+    "options": [
+      "Argonaut",
+      "HAL Laboratory",
+      "Camelot",
+      "Monolith Soft"
+    ],
+    "answer": 1,
+    "explanation": "A HAL Laboratory desenvolve jogos de Kirby em parceria com a Nintendo.",
+    "sourceIds": [
+      "h-kirby",
+      "h-kirby-deluxe"
+    ]
+  },
+  {
+    "id": "dk-ano",
+    "category": "Donkey Kong",
+    "difficulty": "Médio",
+    "question": "Em que ano surgiu o arcade Donkey Kong?",
+    "options": [
+      "1977",
+      "1980",
+      "1981",
+      "1994"
+    ],
+    "answer": 2,
+    "explanation": "O arcade Donkey Kong foi lançado em 1981.",
+    "sourceIds": [
+      "h-dk-history"
+    ]
+  },
+  {
+    "id": "dk-diddy",
+    "category": "Donkey Kong",
+    "difficulty": "Fácil",
+    "question": "Quem é o parceiro apresentado em Donkey Kong Country?",
+    "options": [
+      "Luigi",
+      "Meta Knight",
+      "Pit",
+      "Diddy Kong"
+    ],
+    "answer": 3,
+    "explanation": "Diddy Kong é apresentado em Donkey Kong Country, de 1994.",
+    "sourceIds": [
+      "h-dkc"
+    ]
+  },
+  {
+    "id": "dk-grafico",
+    "category": "Donkey Kong",
+    "difficulty": "Médio",
+    "question": "Qual técnica marca o visual do Donkey Kong Country original?",
+    "options": [
+      "Gráficos pré-renderizados",
+      "Vídeo de atores em tela cheia",
+      "Somente vetores monocromáticos",
+      "Realidade aumentada"
+    ],
+    "answer": 0,
+    "explanation": "O jogo apresenta personagens e cenários com arte pré-renderizada em um console de 16 bits.",
+    "sourceIds": [
+      "h-dkc"
+    ]
+  },
+  {
+    "id": "dk-gravata",
+    "category": "Donkey Kong",
+    "difficulty": "Difícil",
+    "question": "A gravata de Donkey Kong apareceu em qual arte de caixa antes de Country?",
+    "options": [
+      "Donkey Kong 64",
+      "Donkey Kong para Game Boy",
+      "Donkey Konga",
+      "Jungle Beat"
+    ],
+    "answer": 1,
+    "explanation": "A Nintendo destaca que a gravata já aparecia na arte do Donkey Kong de Game Boy em 1994.",
+    "sourceIds": [
+      "h-dk-history"
+    ]
+  },
+  {
+    "id": "bananza-plataforma",
+    "category": "Donkey Kong",
+    "difficulty": "Fácil",
+    "question": "Para qual console foi lançado Donkey Kong Bananza?",
+    "options": [
+      "Nintendo 3DS",
+      "Wii U",
+      "Nintendo Switch 2",
+      "Nintendo GameCube"
+    ],
+    "answer": 2,
+    "explanation": "Donkey Kong Bananza é uma aventura para Nintendo Switch 2.",
+    "sourceIds": [
+      "h-bananza"
+    ]
+  },
+  {
+    "id": "color-tv",
+    "category": "Consoles",
+    "difficulty": "Difícil",
+    "question": "Qual família inclui os primeiros videogames domésticos da Nintendo de 1977?",
+    "options": [
+      "Game & Watch",
+      "Game Boy",
+      "Nintendo DS",
+      "Color TV-Game"
+    ],
+    "answer": 3,
+    "explanation": "TV Game 6 e TV Game 15 são os sistemas domésticos lançados pela Nintendo em 1977.",
+    "sourceIds": [
+      "h-corporate"
+    ]
+  },
+  {
+    "id": "gameboy-ano",
+    "category": "Consoles",
+    "difficulty": "Médio",
+    "question": "Em que ano o Game Boy original estreou no Japão?",
+    "options": [
+      "1989",
+      "1983",
+      "1996",
+      "2001"
+    ],
+    "answer": 0,
+    "explanation": "O lançamento do Game Boy ocorreu em 1989.",
+    "sourceIds": [
+      "h-game-boy"
+    ]
+  },
+  {
+    "id": "ds-tela",
+    "category": "Consoles",
+    "difficulty": "Fácil",
+    "question": "Qual recurso é central à proposta do Nintendo DS?",
+    "options": [
+      "Controle com volante obrigatório",
+      "Duas telas, com uma sensível ao toque",
+      "Somente jogos em CD",
+      "Visor de realidade virtual"
+    ],
+    "answer": 1,
+    "explanation": "O DS usa duas telas e entrada por toque em uma delas.",
+    "sourceIds": [
+      "h-nintendo-ds"
+    ]
+  },
+  {
+    "id": "wii-controle",
+    "category": "Consoles",
+    "difficulty": "Fácil",
+    "question": "Qual controle está associado à proposta de movimentos do Wii?",
+    "options": [
+      "Joy-Con 2",
+      "DualShock",
+      "Wii Remote",
+      "Nintendo 64 Controller"
+    ],
+    "answer": 2,
+    "explanation": "O Wii Remote é o controle principal ligado à proposta de gestos do Wii.",
+    "sourceIds": [
+      "h-wii",
+      "h-wiisports"
+    ]
+  },
+  {
+    "id": "wiiu-controle",
+    "category": "Consoles",
+    "difficulty": "Médio",
+    "question": "Como se chama o controle com tela do Wii U?",
+    "options": [
+      "Wii Zapper",
+      "Super Scope",
+      "Game Boy Player",
+      "Wii U GamePad"
+    ],
+    "answer": 3,
+    "explanation": "O Wii U GamePad incorpora a tela à interação com o console.",
+    "sourceIds": [
+      "h-wii-u"
+    ]
+  },
+  {
+    "id": "switch-lite",
+    "category": "Consoles",
+    "difficulty": "Médio",
+    "question": "Qual modelo Switch foi projetado para o uso portátil dedicado?",
+    "options": [
+      "Nintendo Switch Lite",
+      "Nintendo Switch – Modelo OLED",
+      "Nintendo Switch original",
+      "Nintendo Switch 2"
+    ],
+    "answer": 0,
+    "explanation": "O Switch Lite não oferece o modo de televisão do Switch padrão.",
+    "sourceIds": [
+      "h-switch-lite",
+      "h-switch-compare"
+    ]
+  },
+  {
+    "id": "switch2-lancamento",
+    "category": "Consoles",
+    "difficulty": "Médio",
+    "question": "Qual é a data de lançamento do Nintendo Switch 2?",
+    "options": [
+      "3 de março de 2017",
+      "5 de junho de 2025",
+      "18 de novembro de 2012",
+      "21 de novembro de 1990"
+    ],
+    "answer": 1,
+    "explanation": "A data oficial de lançamento do Nintendo Switch 2 é 5 de junho de 2025.",
+    "sourceIds": [
+      "h-switch2-release"
+    ]
+  },
+  {
+    "id": "vb-classics",
+    "category": "Consoles",
+    "difficulty": "Difícil",
+    "question": "Qual aplicativo de clássicos ficou disponível em fevereiro de 2026?",
+    "options": [
+      "Sega Dreamcast – Nintendo Classics",
+      "Nintendo DS – Nintendo Classics",
+      "Virtual Boy – Nintendo Classics",
+      "Wii U – Nintendo Classics"
+    ],
+    "answer": 2,
+    "explanation": "A retrospectiva oficial confirma Virtual Boy – Nintendo Classics disponível a partir de 17 de fevereiro de 2026.",
+    "sourceIds": [
+      "h-vb2026"
+    ]
+  },
+  {
+    "id": "gamecube-midia",
+    "category": "Consoles",
+    "difficulty": "Médio",
+    "question": "Qual mídia física caracteriza o catálogo original do GameCube?",
+    "options": [
+      "Fita cassete",
+      "Cartucho do Game Boy",
+      "Disquete de computador",
+      "Disco óptico proprietário"
+    ],
+    "answer": 3,
+    "explanation": "O GameCube utiliza discos ópticos proprietários, diferentes dos cartuchos do Nintendo 64.",
+    "sourceIds": [
+      "h-gamecube"
+    ]
+  }
+]
