@@ -14,3 +14,5 @@ Nesta migração passaram 19 testes, validação do acervo e verificação de 23
 O código usa /nintendo em links, mídia, formulário de busca, roteador e registro do worker. O escopo do worker e seu cache ficam restritos a /nintendo/, sem interceptar a loja na raiz. Manifest, canonical e sitemap foram ajustados.
 
 Nintendo e nintendo são diretórios diferentes nesta hospedagem sensível a capitalização. Para editar ambos, use um sistema de arquivos que preserve essa distinção. Os dados e relatórios editoriais originais permanecem disponíveis em docs/.
+
+A integração existente foi identificada pelo check Workers Builds: danipaises-store-web, concluído com sucesso para o commit de inclusão. O domínio respondeu com o HTML do Nintendo Universe em /nintendo/. Não foi alterada configuração de hospedagem nem do domínio.

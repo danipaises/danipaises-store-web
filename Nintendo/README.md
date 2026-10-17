@@ -2,7 +2,7 @@
 
 O código-fonte está em `Nintendo/` e a distribuição pública em `../nintendo/`. Os diretórios têm capitalização distinta porque o endereço solicitado é `/nintendo`.
 
-Para atualizar a publicação, execute `npm ci` e `npm run build` nesta pasta, valide e envie ao GitHub tanto `Nintendo/` quanto `nintendo/`. O GitHub Pages deve continuar publicando a raiz da branch `main`. A página principal da loja permanece separada.
+Para atualizar a publicação, execute `npm ci` e `npm run build` nesta pasta, valide e envie ao GitHub tanto `Nintendo/` quanto `nintendo/`. O serviço de publicação deve continuar usando a raiz da branch `main`. A página principal da loja permanece separada.
 
 Museu digital e enciclopédia independente de fãs, em português brasileiro. React, TypeScript e Vite, com páginas estáticas por registro, busca local, coleção persistente, quiz, comparador, Pokédex e PWA.
 
@@ -73,7 +73,7 @@ docs/             arquitetura, dados, mídia, cobertura e testes
 
 ## Continuar e publicar
 
-Leia [AGENTS.md](AGENTS.md), [ARQUITETURA.md](docs/ARQUITETURA.md), [DADOS.md](docs/DADOS.md) e [MIDIA.md](docs/MIDIA.md). Publique o conteúdo de `../nintendo/` em host estático HTTPS com suporte a `diretorio/index.html` e configure `404.html` como página de erro. Não é necessária reescrita geral para uma SPA. Esta cópia publica pelo repositório GitHub Pages. Não inclui identidade de hospedagem do projeto original.
+Leia [AGENTS.md](AGENTS.md), [ARQUITETURA.md](docs/ARQUITETURA.md), [DADOS.md](docs/DADOS.md) e [MIDIA.md](docs/MIDIA.md). Publique o conteúdo de `../nintendo/` em host estático HTTPS com suporte a `diretorio/index.html` e configure `404.html` como página de erro. Não é necessária reescrita geral para uma SPA. Esta cópia publica pelo repositório conectado à Cloudflare Workers. Não inclui identidade de hospedagem do projeto original.
 
 ## Direitos
 

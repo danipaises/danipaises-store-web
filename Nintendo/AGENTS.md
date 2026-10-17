@@ -4,7 +4,7 @@ Enciclopédia independente em português brasileiro. Não apresentar como oficia
 
 ## Antes de editar
 
-Leia README, docs/ARQUITETURA.md, DADOS.md, COBERTURA.md, MIDIA.md e TESTES.md. Preserve IDs públicos, referências, créditos e o prefixo público /nintendo. Esta cópia pertence ao repositório principal da loja e publica pela raiz do GitHub Pages.
+Leia README, docs/ARQUITETURA.md, DADOS.md, COBERTURA.md, MIDIA.md e TESTES.md. Preserve IDs públicos, referências, créditos e o prefixo público /nintendo. Esta cópia pertence ao repositório principal da loja e publica pela integração Cloudflare Workers conectada ao GitHub.
 
 ## Conteúdo
 
